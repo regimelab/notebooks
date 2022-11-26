@@ -12,3 +12,4 @@ dependencies:
   - statsmodels
   - copulas
   - pymc3
+  - arviz
