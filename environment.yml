@@ -1,4 +1,4 @@
-name: regimelab-root
+name: regimelab-notebooks
 channels:
   - defaults
   - conda-forge
@@ -11,3 +11,4 @@ dependencies:
   - fastparquet
   - statsmodels
   - copulas
+  - pymc3
