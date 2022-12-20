@@ -1,3 +1,3 @@
 # regimelab-notebooks
 
-$D_{KL}(P \parallel Q) = \sum_{i} P(i) \log \frac{P(i)}{Q(i)}$
+This is an area for exploratory data analysis and testing of some of the basic concepts used by Regime Lab. 
