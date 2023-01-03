@@ -13,5 +13,5 @@ dependencies:
   - copulas
   - pymc3
   - arviz
-- pip:
-    - pyeeg
+  - pip:
+      - pyeeg
