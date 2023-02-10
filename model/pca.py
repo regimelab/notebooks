@@ -28,7 +28,8 @@ def eigenports(rets, num_components=3, reduce=False):
 
   for M in range(num_components):
     eigenvec = pd.Series(index=range(feat_num), data=pca.components_[M])
-
+    eigenvec = eigenvec / sum(eigenvec)
+    
     prt = get_partition(eigenvec, 1).values
 
     eigenvecs.append(
