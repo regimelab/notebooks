@@ -24,12 +24,10 @@ def eigenports(rets, num_components=3, reduce=False):
   feat_num = len(cols)
 
   pca = PCA(n_components=num_components)  
-  components = pca.fit_transform(rets[cols].values.reshape((len(rets), feat_num)))
+  components = pca.fit_transform(rets[cols].cov())
 
   for M in range(num_components):
     eigenvec = pd.Series(index=range(feat_num), data=pca.components_[M])
-    eigenvec = eigenvec / sum(eigenvec)
-    
     prt = get_partition(eigenvec, 1).values
 
     eigenvecs.append(
