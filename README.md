@@ -39,3 +39,6 @@ Yee Whye Teh, University College London
 
 VIII. [Managing Risks in a Risk-On/Risk-Off Environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2150877)
 Marcos Lopez de Prado, Lawrence Berkeley National Laboratory
+
+IX. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+Tengyu Ma and Andrew Ng
