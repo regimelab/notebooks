@@ -9,7 +9,8 @@ $$
 \huge p({\theta}|x) = \sum_{i=1}^n \mathcal{\omega_i} \mathcal{N}(\mu_i, \sigma^2_i)
 $$
 
-<font size=5>References & Inspiration<font> 
+References / Inspiration
+------------------------
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
@@ -26,3 +27,9 @@ Marco Avallaneda, Brian Healy, Andrew Papanicolaou, George Papanicolaou
 
 V. [Infinite Mixture of Global Gaussian Processes](https://www.bell-labs.com/institute/publications/itd-15-55873g/#gref)
 Fernando Perez-Cruz, Melanie Pradier
+
+VI. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
+Yee Whye Teh, University College London
+
+VII. [Managing Risks in a Risk-On/Risk-Off Environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2150877)
+Marcos Lopez de Prado, Lawrence Berkeley National Laboratory
