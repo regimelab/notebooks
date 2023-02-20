@@ -57,7 +57,7 @@ X. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.
 Tengyu Ma and Andrew Ng
 
 XI. [Market Regime Detection via Realized Covariances](https://arxiv.org/pdf/2104.03667.pdf)
-Andrea Bucci1
+Andrea Bucci
 Vito Ciciretti
 Department of Economics, Universita degli Studi ”G. d’Annunzio” Chieti-Pescara
 Independent Researcher
