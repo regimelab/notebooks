@@ -2,15 +2,15 @@
 
 This is an area for exploratory data analysis mainly, and grappling with some concepts in applied math and statistics, mathematical finance and Bayesian machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary, stochastic time series problems. 
 
-And importantly, having <b>falsifiable</b> theories that can be tested systematically. This is what these notebooks are about. 
-
 (1) Non-parametric models offer the flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting). 
 
-(2) Detecting regime shifts (concept shifts, data shifts, distribution shifts, higher moments, kurtosis, and so on) is a worthy enterprise for the purposes of having stable ML algorithms in production, as well as for modeling the most interesting problems themselves. 
+(2) Detecting regime shifts (concept drift, dataset shifts, distributional shifts, higher moments and so on) is a worthy enterprise for the purpose of having stable algorithms in production, and regime shifts are a feature of many natural/physical phenomena worth modeling in themselves.
 
 (3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, economies. 
 
 (4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
+
+(5) Theories involving time series data should be falsifiable and interpretable. 
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
