@@ -61,3 +61,9 @@ Andrea Bucci1
 Vito Ciciretti
 Department of Economics, Universita degli Studi ”G. d’Annunzio” Chieti-Pescara
 Independent Researcher
+
+XII. [Rational Expectations Econometric Analysis Of Changes in Regime](https://www.bu.edu/econ/files/2014/01/Hamilton-Interest-Rates.pdf)
+James D. Hamilton
+
+XIII. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+Richard T. Cox
