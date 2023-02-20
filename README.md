@@ -1,6 +1,16 @@
 # regimelab-notebooks
 
-This is an area for exploratory data analysis mainly; and grappling with some concepts in mathematical finance and statistical learning theory. 
+This is an area for exploratory data analysis mainly, and grappling with some concepts in applied math and statistics, mathematical finance and Bayesian machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary, stochastic time series problems. 
+
+And importantly, having <b>falsifiable</b> theories that can be tested systematically. This is what these notebooks are about. 
+
+(1) Non-parametric models offer flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur.
+
+(2) Detecting regime shifts (concept shifts, data shifts, distribution shifts, higher moments, kurtosis, and so on) is a worthy enterprise for the purposes of having stable ML algorithms in production, as well as for modeling the most interesting problems themselves. 
+
+(3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, biodiversity of eco-systems, medical systems and medicine, financial systems, economies, and so on. 
+
+(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning. 
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
@@ -9,7 +19,7 @@ $$
 \huge p({\theta}|x) = \sum_{i=1}^n \mathcal{\omega_i} \mathcal{N}(\mu_i, \sigma^2_i)
 $$
 
-References / Inspiration
+References & Inspiration
 ------------------------
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
@@ -24,6 +34,9 @@ Jaesik Choi KAIST, INEEJI
 
 III. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
+
+IV. [Tactical Investment Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459866)
+Marcos Lopez de Prado
 
 IV. [Statistical Arbitrage in the U.S. Equities Market (2008)](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb20090616.pdf)
 Marco Avellaneda & Jeong-Hyun Lee
