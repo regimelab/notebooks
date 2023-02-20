@@ -4,7 +4,7 @@ This is an area for exploratory data analysis mainly, and grappling with some co
 
 And importantly, having <b>falsifiable</b> theories that can be tested systematically. This is what these notebooks are about. 
 
-(1) Non-parametric models offer the flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly. 
+(1) Non-parametric models offer the flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting). 
 
 (2) Detecting regime shifts (concept shifts, data shifts, distribution shifts, higher moments, kurtosis, and so on) is a worthy enterprise for the purposes of having stable ML algorithms in production, as well as for modeling the most interesting problems themselves. 
 
