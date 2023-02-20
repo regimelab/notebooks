@@ -1,8 +1,11 @@
 # regimelab-notebooks
 
-This is an area for exploratory data analysis mainly, and grappling with some concepts in applied math and statistics, mathematical finance and Bayesian machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary, stochastic time series problems. 
+This is an area for exploratory data analysis mainly, and grappling with some concepts in applied math and statistics, mathematical finance and Bayesian machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary time series problems. 
 
-(1) Non-parametric models offer the flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting). 
+What are regimes?
+https://regimelab.substack.com/p/what-are-regimes
+
+(1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (nowcasting). 
 
 (2) Detecting regime shifts (concept drift, dataset shifts, distributional shifts, higher moments and so on) is a worthy enterprise for the purpose of having stable algorithms in production, and regime shifts are a feature of many natural/physical phenomena worth modeling in themselves.
 
@@ -10,10 +13,7 @@ This is an area for exploratory data analysis mainly, and grappling with some co
 
 (4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
 
-(5) Theories involving time series data should be falsifiable and interpretable. 
-
-What are regimes?
-https://regimelab.substack.com/p/what-are-regimes
+(5) Causal theories involving data must be falsifiable and interpretable. 
 
 $$
 \huge p({\theta}|x) = \sum_{i=1}^n \mathcal{\omega_i} \mathcal{N}(\mu_i, \sigma^2_i)
