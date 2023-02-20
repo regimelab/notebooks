@@ -55,3 +55,9 @@ Marcos Lopez de Prado, Lawrence Berkeley National Laboratory
 
 X. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
+
+XI. [Market Regime Detection via Realized Covariances](https://arxiv.org/pdf/2104.03667.pdf)
+Andrea Bucci1
+Vito Ciciretti
+Department of Economics, Universit`a degli Studi ”G. d’Annunzio” Chieti-Pescara
+Independent Researcher
