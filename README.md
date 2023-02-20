@@ -38,10 +38,10 @@ Marcos Lopez de Prado
 IV. [Tactical Investment Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459866)
 Marcos Lopez de Prado
 
-V. [Statistical Arbitrage in the U.S. Equities Market (2008)](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb20090616.pdf)
+V. [Statistical Arbitrage in the U.S. Equities Market](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb20090616.pdf)
 Marco Avellaneda & Jeong-Hyun Lee
 
-VI. [Principal Eigenportfolios for U.S Equities (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738769)
+VI. [Principal Eigenportfolios for U.S Equities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738769)
 Marco Avallaneda, Brian Healy, Andrew Papanicolaou, George Papanicolaou
 
 VII. [Infinite Mixture of Global Gaussian Processes](https://www.bell-labs.com/institute/publications/itd-15-55873g/#gref)
