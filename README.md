@@ -64,3 +64,6 @@ Richard T. Cox
 
 XIV. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+XV. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
+Department of Mathematics and Statistics, Joint Center for Earth Systems Technology, University of Maryland
