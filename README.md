@@ -4,13 +4,13 @@ This is an area for exploratory data analysis mainly, and grappling with some co
 
 And importantly, having <b>falsifiable</b> theories that can be tested systematically. This is what these notebooks are about. 
 
-(1) Non-parametric models offer flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur.
+(1) Non-parametric models offer the flexibility to learn and generate (describe) data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly. 
 
 (2) Detecting regime shifts (concept shifts, data shifts, distribution shifts, higher moments, kurtosis, and so on) is a worthy enterprise for the purposes of having stable ML algorithms in production, as well as for modeling the most interesting problems themselves. 
 
 (3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, biodiversity of eco-systems, medical systems and medicine, financial systems, economies, and so on. 
 
-(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning. 
+(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, risk management, and more. 
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
@@ -38,20 +38,20 @@ Marcos Lopez de Prado
 IV. [Tactical Investment Algorithms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459866)
 Marcos Lopez de Prado
 
-IV. [Statistical Arbitrage in the U.S. Equities Market (2008)](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb20090616.pdf)
+V. [Statistical Arbitrage in the U.S. Equities Market (2008)](https://math.nyu.edu/~avellane/AvellanedaLeeStatArb20090616.pdf)
 Marco Avellaneda & Jeong-Hyun Lee
 
-V. [Principal Eigenportfolios for U.S Equities (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738769)
+VI. [Principal Eigenportfolios for U.S Equities (2020)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3738769)
 Marco Avallaneda, Brian Healy, Andrew Papanicolaou, George Papanicolaou
 
-VI. [Infinite Mixture of Global Gaussian Processes](https://www.bell-labs.com/institute/publications/itd-15-55873g/#gref)
+VII. [Infinite Mixture of Global Gaussian Processes](https://www.bell-labs.com/institute/publications/itd-15-55873g/#gref)
 Fernando Perez-Cruz, Melanie Pradier
 
-VII. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
+VIII. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
 Yee Whye Teh, University College London
 
-VIII. [Managing Risks in a Risk-On/Risk-Off Environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2150877)
+IX. [Managing Risks in a Risk-On/Risk-Off Environment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2150877)
 Marcos Lopez de Prado, Lawrence Berkeley National Laboratory
 
-IX. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+X. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
