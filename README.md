@@ -67,3 +67,5 @@ James D. Hamilton
 
 XIII. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
+
+XIV. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
