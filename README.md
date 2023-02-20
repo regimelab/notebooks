@@ -27,10 +27,7 @@ Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Ph
 of the Multivariate Fractional Brownian Motion. Séminaires et congrès, 2013, 28, pp.65-87. ffhal00497639v2f
 
 II. [Learning Fractional White Noises in Neural Stochastic Differential Equations](https://openreview.net/pdf?id=lTZBRxm2q5)
-Anh Tong KAIST
-Thanh Nguyen-Tang (Johns Hopkins University)
-Toan Tran (VinAI Research, Vietnam)
-Jaesik Choi KAIST, INEEJI
+Anh Tong, Thanh Nguyen-Tang (Johns Hopkins University), Toan Tran (VinAI Research, Vietnam), Jaesik Choi
 
 III. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
@@ -57,10 +54,7 @@ X. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.
 Tengyu Ma and Andrew Ng
 
 XI. [Market Regime Detection via Realized Covariances](https://arxiv.org/pdf/2104.03667.pdf)
-Andrea Bucci
-Vito Ciciretti
-Department of Economics, Universita degli Studi ”G. d’Annunzio” Chieti-Pescara
-Independent Researcher
+Andrea Bucci, Vito Ciciretti, Department of Economics, Universita degli Studi ”G. d’Annunzio” Chieti-Pescara, Independent Researcher
 
 XII. [Rational Expectations Econometric Analysis Of Changes in Regime](https://www.bu.edu/econ/files/2014/01/Hamilton-Interest-Rates.pdf)
 James D. Hamilton
@@ -69,3 +63,4 @@ XIII. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-alg
 Richard T. Cox
 
 XIV. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+Trevor Hastie, Robert Tibshirani, Jerome Friedman
