@@ -10,7 +10,7 @@ And importantly, having <b>falsifiable</b> theories that can be tested systemati
 
 (3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, biodiversity of eco-systems, medical systems and medicine, financial systems, economies, and so on. 
 
-(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, risk management, and more. 
+(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
@@ -59,5 +59,5 @@ Tengyu Ma and Andrew Ng
 XI. [Market Regime Detection via Realized Covariances](https://arxiv.org/pdf/2104.03667.pdf)
 Andrea Bucci1
 Vito Ciciretti
-Department of Economics, Universit`a degli Studi ”G. d’Annunzio” Chieti-Pescara
+Department of Economics, Universita degli Studi ”G. d’Annunzio” Chieti-Pescara
 Independent Researcher
