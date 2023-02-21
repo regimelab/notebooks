@@ -70,3 +70,11 @@ Department of Mathematics and Statistics, Joint Center for Earth Systems Technol
 
 XVI. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 David M. Blei
+
+XVII. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
+Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae Yoo
+Journal of Advances in Modeling Earth Systems
+
+XVIII. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
+Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos
+Australia & New Zealand Journal of Statistics
