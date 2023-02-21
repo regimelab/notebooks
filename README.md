@@ -67,3 +67,6 @@ Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 XV. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
 Department of Mathematics and Statistics, Joint Center for Earth Systems Technology, University of Maryland
+
+XVI. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+David M. Blei
