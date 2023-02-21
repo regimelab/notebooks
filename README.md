@@ -80,3 +80,6 @@ Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Jo
 
 XIX. [Can Factor Investing Become Scientific?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4205613)
 Marcos Lopez de Prado 
+
+XX. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
