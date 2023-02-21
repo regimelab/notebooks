@@ -76,3 +76,6 @@ Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae 
 
 XVIII. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
+
+XIX. [Can Factor Investing Become Scientific?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4205613)
+Marcos Lopez de Prado 
