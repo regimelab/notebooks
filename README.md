@@ -83,3 +83,6 @@ Marcos Lopez de Prado
 
 XX. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
+
+XXI. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
+Ole Peters, Nature Physics
