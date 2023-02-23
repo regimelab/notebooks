@@ -21,7 +21,8 @@ https://en.wikipedia.org/wiki/Regime_shift
 
 (6) Importance of long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. 
 
-<b> Eg. Fractional Gaussian Noise & Fractional Brownian Motion </b>
+<b> Eg. Fractional Gaussian Noise & Fractional Brownian Motion </b> <br/>
+
 $$
 \huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
 $$
