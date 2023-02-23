@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Regime_shift
 
 (5) Causal theories involving data must be falsifiable and interpretable, in the sense of Popper falsifiability and the scientific method. 
 
+(6) Emphasize the importance of long memory/auto-correlation in time series problems, stationarity, and ergodicity. 
+
 $$
 \huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
 $$
