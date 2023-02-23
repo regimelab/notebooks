@@ -5,6 +5,9 @@ Explanatory notebooks for the substack, and a place to grapple with some concept
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
 
+Areas of Research
+-----------------
+
 (1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (nowcasting). 
 
 (2) Detecting regime shifts (concept drift, dataset shifts, distributional shifts, higher moments and so on) is a worthy enterprise for the purposes of having stable algorithms in production. Additionally, regime shifts are a feature of many natural/physical phenomena worth modeling in themselves.  
@@ -16,8 +19,9 @@ https://en.wikipedia.org/wiki/Regime_shift
 
 (5) Causal theories involving data must be falsifiable and interpretable, in the sense of Popper falsifiability and the scientific method. 
 
-(6) Emphasize the importance of long memory/auto-correlation in time series problems, stationarity, and ergodicity. 
+(6) Importance of long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. 
 
+<b> Eg. Fractional Gaussian Noise & Fractional Brownian Motion </b>
 $$
 \huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
 $$
