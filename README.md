@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 
 (4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
 
-(5) Causal theories involving data must be falsifiable and interpretable. 
+(5) Causal theories involving data must be falsifiable and interpretable, in the sense of Popper falsifiability and the scientific method. 
 
 $$
 \huge p({\theta}|x) = \sum_{i=1}^n \mathcal{\omega_i} \mathcal{N}(\mu_i, \sigma^2_i)
