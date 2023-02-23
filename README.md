@@ -17,7 +17,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 (5) Causal theories involving data must be falsifiable and interpretable, in the sense of Popper falsifiability and the scientific method. 
 
 $$
-\huge p({\theta}|x) = \sum_{i=1}^n \mathcal{\omega_i} \mathcal{N}(\mu_i, \sigma^2_i)
+\huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
 $$
 
 References & Inspiration
