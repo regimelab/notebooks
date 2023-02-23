@@ -42,6 +42,9 @@ Anh Tong, Thanh Nguyen-Tang (Johns Hopkins University), Toan Tran (VinAI Researc
 III. [A Dynamical Systems Explanation of the Hurst Effect and Atmospheric Low-Frequency Variability](https://www.nature.com/articles/srep09068)
 Christian L. E. Franzke, Scott M. Osprey, Paolo Davini & Nicholas W. Watkins 
 
+IV. [Long memory and regime switching](https://www.sciencedirect.com/science/article/abs/pii/S0304407601000732?via%3Dihub)
+Francis X. Diebold, Atsushi Inoue
+
 <b> ML + Quant Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
