@@ -89,3 +89,6 @@ Ole Peters, Nature Physics
 
 XXII. [Ergodicity-breaking reveals time optimal decision making in humans](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009217)
 David Meder, Finn Rabe, Tobias Morville, Kristoffer H. Madsen, Magnus T. Koudahl, Ray J. Dolan, Hartwig R. Siebner, Oliver J. Hulme 
+
+XXIII. [A Dynamical Systems Explanation of the Hurst Effect and Atmospheric Low-Frequency Variability](https://www.nature.com/articles/srep09068)
+Christian L. E. Franzke, Scott M. Osprey, Paolo Davini & Nicholas W. Watkins 
