@@ -110,5 +110,5 @@ Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Z
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
 Ole Peters, Nature Physics
 
-III. [Ergodicity-breaking reveals time optimal decision making in humans](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009217)
+II. [Ergodicity-breaking reveals time optimal decision making in humans](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009217)
 David Meder, Finn Rabe, Tobias Morville, Kristoffer H. Madsen, Magnus T. Koudahl, Ray J. Dolan, Hartwig R. Siebner, Oliver J. Hulme 
