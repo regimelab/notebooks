@@ -45,6 +45,9 @@ Christian L. E. Franzke, Scott M. Osprey, Paolo Davini & Nicholas W. Watkins
 IV. [Long memory and regime switching](https://www.sciencedirect.com/science/article/abs/pii/S0304407601000732?via%3Dihub)
 Francis X. Diebold, Atsushi Inoue
 
+V. [On the continuing relevance of Mandelbrot’s non-ergodic fractional renewal models of 1963 to 1967](https://link.springer.com/content/pdf/10.1140/epjb/e2017-80357-3.pdf) 
+Nicholas W. Watkins, Centre for the Analysis of Time Series, London School of Economics and Political Science, London, UK, Centre for Fusion, Space and Astrophysics, University of Warwick, Coventry, UK, Faculty of Science, Technology, Engineering and Mathematics, Open University, Milton Keynes, UK
+
 <b> ML + Quant Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
