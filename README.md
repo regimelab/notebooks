@@ -119,11 +119,11 @@ Ole Peters, Nature Physics
 II. [Time to move beyond average thinking](https://www.nature.com/articles/s41567-019-0758-3)
 Nature Physics
 
-II. [Ergodicity-breaking reveals time optimal decision making in humans](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009217)
+III. [Ergodicity-breaking reveals time optimal decision making in humans](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009217)
 David Meder, Finn Rabe, Tobias Morville, Kristoffer H. Madsen, Magnus T. Koudahl, Ray J. Dolan, Hartwig R. Siebner, Oliver J. Hulme 
 
-III. [Autocorrelation functions and ergodicity in diffusion with stochastic resetting](https://arxiv.org/abs/2107.11686)
+IV. [Autocorrelation functions and ergodicity in diffusion with stochastic resetting](https://arxiv.org/abs/2107.11686)
 Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
 
-IV. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
+V. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
 NBER Working Paper
