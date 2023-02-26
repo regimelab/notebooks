@@ -121,3 +121,6 @@ David Meder, Finn Rabe, Tobias Morville, Kristoffer H. Madsen, Magnus T. Koudahl
 
 III. [Autocorrelation functions and ergodicity in diffusion with stochastic resetting](https://arxiv.org/abs/2107.11686)
 Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
+
+IV. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
+NBER Working Paper
