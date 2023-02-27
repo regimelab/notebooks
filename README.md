@@ -128,3 +128,6 @@ NBER Working Paper
 
 VI. [Autocorrelation functions and ergodicity in diffusion with stochastic resetting](https://iopscience.iop.org/article/10.1088/1751-8121/ac4ce9/pdf)
 Viktor Stojkoski et al 2022 J. Phys. A: Math. Theor. 55 104003
+
+VII. [Ergodic Markov Chains](https://gregorygundersen.com/blog/2019/10/28/ergodic-markov-chains/)
+Gregory Gunderson
