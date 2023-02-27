@@ -125,3 +125,6 @@ Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
 
 V. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
 NBER Working Paper
+
+VI. [Autocorrelation functions and ergodicity in diffusion with stochastic resetting](https://iopscience.iop.org/article/10.1088/1751-8121/ac4ce9/pdf)
+Viktor Stojkoski et al 2022 J. Phys. A: Math. Theor. 55 104003
