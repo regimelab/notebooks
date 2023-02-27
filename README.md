@@ -76,7 +76,7 @@ James D. Hamilton
 
 <b> Mixture Models, Gaussian Processes, HMMs </b> <br/> 
 
-I. [CS229 Lecture notes](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
 
 II. [Infinite Mixture of Global Gaussian Processes](https://melaniefp.github.io/contents/papers/DDP_regression_paper_BNPNG.pdf)
@@ -100,15 +100,13 @@ Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
 IX. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
 
-<b> Stats/ML </b> <br/>
-
-I. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+X. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
 
-II. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+XI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-III. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+XII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
 
 <b> The Ergodicity Problem </b> <br/> 
