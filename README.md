@@ -131,5 +131,5 @@ NBER Working Paper
 VI. [Ergodic Regime not Process](http://science-memo.blogspot.com/2022/05/ergodic-regime-not-process.html)
 Mehmet Süzen
 
-VII. [Effective ergodicity in single-spin-flip dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032141)
+VII. [Effective ergodicity in single-spin-flip dynamics](https://www.researchgate.net/publication/266945166_Effective_ergodicity_in_single-spin-flip_dynamics/link/5783964408ae3f355b4a1a02/download)
 Mehmet Süzen
