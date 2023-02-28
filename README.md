@@ -30,7 +30,7 @@ $$
 References & Inspiration
 ------------------------
 
-Mostly just interesting papers. 
+Mostly just interesting papers or books. 
 
 <b> FGn/FBm, The Hurst Effect </b> <br/>
 
