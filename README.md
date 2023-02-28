@@ -125,6 +125,3 @@ Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
 
 V. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
 NBER Working Paper
-
-VI. [Ergodic Markov Chains](https://gregorygundersen.com/blog/2019/10/28/ergodic-markov-chains/)
-Gregory Gunderson
