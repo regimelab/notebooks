@@ -127,3 +127,9 @@ Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
 
 V. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
 NBER Working Paper
+
+VI. [Ergodic Regime not Process](http://science-memo.blogspot.com/2022/05/ergodic-regime-not-process.html)
+Mehmet Süzen
+
+VII. [Effective ergodicity in single-spin-flip dynamics](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.032141)
+Mehmet Süzen
