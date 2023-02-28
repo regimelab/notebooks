@@ -136,3 +136,6 @@ Mehmet Süzen
 
 VII. [Effective ergodicity in single-spin-flip dynamics](https://www.researchgate.net/publication/266945166_Effective_ergodicity_in_single-spin-flip_dynamics/link/5783964408ae3f355b4a1a02/download)
 Mehmet Süzen
+
+VIII.[Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
+Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
