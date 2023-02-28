@@ -30,6 +30,8 @@ $$
 References & Inspiration
 ------------------------
 
+Mostly just interesting papers. 
+
 <b> FGn/FBm, The Hurst Effect </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
