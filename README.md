@@ -111,6 +111,9 @@ Trevor Hastie, Robert Tibshirani, Jerome Friedman
 XII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
 
+XIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
+Bayesian Analysis
+
 <b> The Ergodicity Problem </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
