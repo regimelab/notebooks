@@ -50,6 +50,9 @@ Francis X. Diebold, Atsushi Inoue
 V. [On the continuing relevance of Mandelbrot’s non-ergodic fractional renewal models of 1963 to 1967](https://link.springer.com/content/pdf/10.1140/epjb/e2017-80357-3.pdf) 
 Nicholas W. Watkins, Centre for the Analysis of Time Series, London School of Economics and Political Science, London, UK, Centre for Fusion, Space and Astrophysics, University of Warwick, Coventry, UK, Faculty of Science, Technology, Engineering and Mathematics, Open University, Milton Keynes, UK
 
+VI. [The Zumbach effect under rough Heston](https://arxiv.org/pdf/1809.02098.pdf)
+Radoˇs Radoiˇci´c,, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
+
 <b> ML + Quant Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
@@ -137,5 +140,5 @@ Mehmet Süzen
 VII. [Effective ergodicity in single-spin-flip dynamics](https://www.researchgate.net/publication/266945166_Effective_ergodicity_in_single-spin-flip_dynamics/link/5783964408ae3f355b4a1a02/download)
 Mehmet Süzen
 
-VIII.[Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
+VIII. [Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
 Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
