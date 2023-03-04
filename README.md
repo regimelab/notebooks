@@ -144,3 +144,6 @@ Mehmet Süzen
 
 VIII. [Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
 Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
+
+IX. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
+Journal of Statistical Physics
