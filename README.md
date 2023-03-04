@@ -13,6 +13,8 @@ Areas of Research
 (2) Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 https://en.wikipedia.org/wiki/Regime_shift
 
+Additional Reference: https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
+
 (3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, economies. 
 
 (4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
