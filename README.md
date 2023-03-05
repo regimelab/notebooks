@@ -46,7 +46,7 @@ Anh Tong, Thanh Nguyen-Tang (Johns Hopkins University), Toan Tran (VinAI Researc
 III. [A Dynamical Systems Explanation of the Hurst Effect and Atmospheric Low-Frequency Variability](https://www.nature.com/articles/srep09068)
 Christian L. E. Franzke, Scott M. Osprey, Paolo Davini & Nicholas W. Watkins 
 
-IV. [Long memory and regime switching](https://www.sciencedirect.com/science/article/abs/pii/S0304407601000732?via%3Dihub)
+IV. [Long memory and regime switching](https://www.nber.org/papers/t0264)
 Francis X. Diebold, Atsushi Inoue
 
 V. [On the continuing relevance of Mandelbrot’s non-ergodic fractional renewal models of 1963 to 1967](https://link.springer.com/content/pdf/10.1140/epjb/e2017-80357-3.pdf) 
