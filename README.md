@@ -34,7 +34,18 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> FGn/FBm, The Hurst Effect </b> <br/>
+<b> Climate Regimes </b>
+
+I. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
+Frontiers in Marine Science
+
+II. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
+Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
+
+III. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
+Journal of Statistical Physics
+
+<b> The Hurst Effect </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
@@ -55,7 +66,7 @@ Nicholas W. Watkins, Centre for the Analysis of Time Series, London School of Ec
 VI. [The Zumbach effect under rough Heston](https://arxiv.org/pdf/1809.02098.pdf)
 Radoˇs Radoiˇci´c,, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
 
-<b> ML + Quant Finance </b> <br/>
+<b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
@@ -104,13 +115,10 @@ David M. Blei
 VIII. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
 
-IX. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
-Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
-
-X. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+IX. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
 
-XI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+X. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
 XII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
@@ -144,6 +152,3 @@ Mehmet Süzen
 
 VIII. [Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
 Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
-
-IX. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
-Journal of Statistical Physics
