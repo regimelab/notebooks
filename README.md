@@ -127,7 +127,7 @@ Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Z
 XIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
 Bayesian Analysis
 
-XIX: [A_guide_to_monte_carlo_simulations_in_statistical_physics (https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
+XIX: [A_guide_to_monte_carlo_simulations_in_statistical_physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
 David P. Landau, Kurt Binder 
 
 <b> The Ergodicity Problem </b> <br/> 
