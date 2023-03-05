@@ -19,11 +19,11 @@ Additional Reference: https://www.beringclimate.noaa.gov/regimes/rodionov_overvi
 
 (4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
 
-(5) Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability and the scientific method. 
+(5) Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability or a Humean induction and the scientific method. 
 
-(6) I study the importance of long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. 
+(6) Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
 
-<b> Eg. Fractional Gaussian Noise & Fractional Brownian Motion </b> <br/>
+<br/>
 
 $$
 \huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
@@ -36,14 +36,14 @@ Mostly just interesting papers or books.
 
 <b> Climate Regimes </b>
 
-I. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
-Frontiers in Marine Science
-
-II. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
+I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
 
-III. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
+II. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
 Journal of Statistical Physics
+
+III. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
+Frontiers in Marine Science
 
 <b> The Hurst Effect </b> <br/>
 
