@@ -21,7 +21,7 @@ Additional Reference: https://www.beringclimate.noaa.gov/regimes/rodionov_overvi
 
 (5) Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability or a Humean induction and the scientific method. 
 
-(6) Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
+(6) I study Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
 
 <br/>
 
