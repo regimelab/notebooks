@@ -45,6 +45,12 @@ Journal of Statistical Physics
 III. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
 Frontiers in Marine Science
 
+IV. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
+Department of Mathematics and Statistics, Joint Center for Earth Systems Technology, University of Maryland
+
+V. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
+Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae Yoo, Journal of Advances in Modeling Earth Systems
+
 <b> The Hurst Effect </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
@@ -103,31 +109,25 @@ Fernando Perez-Cruz, Melanie Pradier
 III. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
 Yee Whye Teh, University College London
 
-IV. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
-Department of Mathematics and Statistics, Joint Center for Earth Systems Technology, University of Maryland
-
-VI. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
-Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae Yoo, Journal of Advances in Modeling Earth Systems
-
-VII. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+IV. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 David M. Blei
 
-VIII. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+V. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
 
-IX. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+VI. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
 
-X. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+VII. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-XII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+VIII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
 
-XIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
+IX. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
 Bayesian Analysis
 
-XIX: [A_guide_to_monte_carlo_simulations_in_statistical_physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
+X: [A_guide_to_monte_carlo_simulations_in_statistical_physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
 David P. Landau, Kurt Binder 
 
 <b> The Ergodicity Problem </b> <br/> 
