@@ -156,4 +156,4 @@ Mehmet Süzen
 VIII. [Wealth Inequality and the Ergodic Hypothesis: Evidence from the United States](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2794830)
 Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
 
-IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigenvalue spectra](https://www.nature.com/articles/s41598-023-27751-9Wang-Fang](https://www.nature.com/articles/s41598-023-27751-9) Scientific Reports, Nature, Wang‐Fang Xu, W. J. Rao
+IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigenvalue spectra](https://www.nature.com/articles/s41598-023-27751-9) Scientific Reports, Nature, Wang‐Fang Xu, W. J. Rao
