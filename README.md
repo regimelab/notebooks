@@ -34,7 +34,7 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Climate Regimes </b>
+<b> Climate & Ecosystem Regimes </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
