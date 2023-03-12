@@ -147,7 +147,7 @@ Viktor Stojkoski, Trifce Sandev, Ljupco Kocarev, Arnab Pal
 V. [Self-fulfilling Prophecies, Quasi Non-Ergodicity & Wealth Inequality](https://www.nber.org/system/files/working_papers/w28261/w28261.pdf)
 NBER Working Paper
 
-VI. [Ergodic Regime not Process](http://science-memo.blogspot.com/2022/05/ergodic-regime-not-process.html)
+VI. [A misconception in ergodicity: Identify ergodic regime not ergodic process](http://science-memo.blogspot.com/2022/05/ergodic-regime-not-process.html)
 Mehmet Süzen
 
 VII. [Effective ergodicity in single-spin-flip dynamics](https://www.researchgate.net/publication/266945166_Effective_ergodicity_in_single-spin-flip_dynamics/link/5783964408ae3f355b4a1a02/download)
@@ -157,3 +157,5 @@ VIII. [Wealth Inequality and the Ergodic Hypothesis: Evidence from the United St
 Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical Laboratory; Santa Fe Institute, Alexander Adamou, London Mathematical Laboratory
 
 IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigenvalue spectra](https://www.nature.com/articles/s41598-023-27751-9) Scientific Reports, Nature, Wang‐Fang Xu, W. J. Rao
+
+
