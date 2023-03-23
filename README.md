@@ -166,4 +166,7 @@ Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical 
 
 IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigenvalue spectra](https://www.nature.com/articles/s41598-023-27751-9) Scientific Reports, Nature, Wang‐Fang Xu, W. J. Rao
 
+X. [ON THE ERGODIC PROPERTIES OF CLIMATE CHANGE WITH IMPLICATIONS FOR CLIMATE FINANCE, AGRICULTURAL RESILIENCE AND SUSTAINABILITY](https://ageconsearch.umn.edu/record/329265/)
+Calum G. Turvey, Shuxin Liu, Josefina Uranga, Morgan Mastrianni
+
 
