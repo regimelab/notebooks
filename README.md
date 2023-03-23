@@ -34,6 +34,11 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
+<b> Bayesian Theory </b> 
+
+I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
+Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
+
 <b> Climate & Ecosystem Regimes </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
