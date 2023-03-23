@@ -34,10 +34,13 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Bayesian Theory </b> 
+<b> Bayesian Inference </b> 
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
+
+II. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
+Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
 
 <b> Climate & Ecosystem Regimes </b>
 
