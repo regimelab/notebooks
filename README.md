@@ -34,13 +34,16 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Bayesian Inference </b> 
+<b> Inference </b> 
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
 
 II. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
 Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
+
+III. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+Richard T. Cox
 
 <b> Climate & Ecosystem Regimes </b>
 
@@ -106,7 +109,7 @@ Marcos Lopez de Prado
 VIII. [Rational Expectations Econometric Analysis Of Changes in Regime](https://www.bu.edu/econ/files/2014/01/Hamilton-Interest-Rates.pdf)
 James D. Hamilton
 
-<b> Mixture Models, Gaussian Processes, HMMs </b> <br/> 
+<b> Generative Modeling / Gaussian Processes </b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -123,20 +126,20 @@ David M. Blei
 V. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
 
-VI. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
-Richard T. Cox
-
-VII. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+VI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-VIII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+VII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
 
-IX. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
+VIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
 Bayesian Analysis
 
-X: [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
+IX: [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
 David P. Landau, Kurt Binder 
+
+X. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
 
 <b> The Ergodicity Problem </b> <br/> 
 
