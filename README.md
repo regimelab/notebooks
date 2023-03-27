@@ -109,6 +109,9 @@ Marcos Lopez de Prado
 VIII. [Rational Expectations Econometric Analysis Of Changes in Regime](https://www.bu.edu/econ/files/2014/01/Hamilton-Interest-Rates.pdf)
 James D. Hamilton
 
+IX. [The Volume Clock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858)
+Marcos Lopez de Prado, David Easley, Maureen O'Hara
+
 <b> Generative Modeling / Gaussian Processes </b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
