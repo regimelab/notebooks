@@ -34,7 +34,7 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Inference </b> 
+<b> Bayesian Inference </b> 
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
@@ -44,6 +44,12 @@ Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
 
 III. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
+
+IV. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
+Andrew Campbell, Yuyang Shi, Tom Rainforth, Arnaud Doucet
+
+V. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
+Minh-Ngoc Tran, Paco Tseng, Robert Kohn
 
 <b> Climate & Ecosystem Regimes </b>
 
