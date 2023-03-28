@@ -112,7 +112,7 @@ James D. Hamilton
 IX. [The Volume Clock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858)
 Marcos Lopez de Prado, David Easley, Maureen O'Hara
 
-<b> Generative Modeling / Gaussian Processes </b> <br/> 
+<b> Generative Modeling / Gaussian Processes / Latent Variable Models </b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -143,6 +143,9 @@ David P. Landau, Kurt Binder
 
 X. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
+
+XI. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+Jonathan Ho, Ajay Jain, Pieter Abbeel
 
 <b> The Ergodicity Problem </b> <br/> 
 
