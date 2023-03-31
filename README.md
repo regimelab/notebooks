@@ -118,6 +118,9 @@ James D. Hamilton
 IX. [The Volume Clock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858)
 Marcos Lopez de Prado, David Easley, Maureen O'Hara
 
+X. [A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle](https://www.jstor.org/stable/1912559)
+James D. Hamilton
+
 <b> Generative Modeling / Gaussian Processes / Latent Variable Models </b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
