@@ -11,7 +11,10 @@ Areas of Research
 (1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting) while simultaneously providing a quantity of uncertainty and entropy in the Bayesian sense. 
 
 (2) Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
+
 https://en.wikipedia.org/wiki/Regime_shift
+
+https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
 
 Additional Reference: https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
