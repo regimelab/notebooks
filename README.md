@@ -92,6 +92,10 @@ Nicholas W. Watkins, Centre for the Analysis of Time Series, London School of Ec
 VI. [The Zumbach effect under rough Heston](https://arxiv.org/pdf/1809.02098.pdf)
 Radoˇs Radoiˇci´c,, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
 
+VII. [Variational inference of fractional Brownian motion with linear computational complexity
+](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.055311)
+Hippolyte Verdier, François Laurent, Alhassan Cassé, Christian L. Vestergaard, and Jean-Baptiste Masson
+
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
