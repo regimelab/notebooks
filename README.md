@@ -68,6 +68,9 @@ Department of Mathematics and Statistics, Joint Center for Earth Systems Technol
 V. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
 Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae Yoo, Journal of Advances in Modeling Earth Systems
 
+VI. [Variational inference at glacier scale](https://www.sciencedirect.com/science/article/pii/S0021999122001577)
+Douglas J. Brinkerhoff
+
 <b> The Hurst Effect </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
