@@ -65,6 +65,9 @@ Minh-Ngoc Tran, Paco Tseng, Robert Kohn
 VI. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
 Gokhan Egri, Xinran (Nicole) Han
 
+VII. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
+Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
+
 <b> Climate & Ecosystem Regimes </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
