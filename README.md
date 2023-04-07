@@ -29,7 +29,7 @@ https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 <br/>
 
 $$
-\huge cov(s,t) = \frac{1}{2} \left( t^{2H} + s^{2H} - |t-s|^{2H} \right)
+\huge p(z | x, \alpha) = \frac{p(z, x | \alpha)}{\int_z p(z, x | \alpha)} 
 $$
 
 References & Inspiration
