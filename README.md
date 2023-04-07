@@ -88,7 +88,7 @@ Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae 
 VI. [Variational inference at glacier scale](https://www.sciencedirect.com/science/article/pii/S0021999122001577)
 Douglas J. Brinkerhoff
 
-<b> The Hurst Effect </b> <br/>
+<b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
