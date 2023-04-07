@@ -115,6 +115,9 @@ VII. [Variational inference of fractional Brownian motion with linear computatio
 ](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.055311)
 Hippolyte Verdier, François Laurent, Alhassan Cassé, Christian L. Vestergaard, and Jean-Baptiste Masson
 
+VIII. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
+Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
+
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
