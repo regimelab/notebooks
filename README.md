@@ -52,22 +52,25 @@ James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
 
-II. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
+II. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
+Tuomo Peltonen
+
+III. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
 Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
 
-III. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+IV. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
 
-IV. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
+V. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
 Andrew Campbell, Yuyang Shi, Tom Rainforth, Arnaud Doucet
 
-V. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
+VI. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
 Minh-Ngoc Tran, Paco Tseng, Robert Kohn
 
-VI. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
+VII. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
 Gokhan Egri, Xinran (Nicole) Han
 
-VII. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
+VIII. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
 
 <b> Climate & Ecosystem Regimes </b>
