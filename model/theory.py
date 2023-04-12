@@ -9,7 +9,7 @@ class DGPTheory:
     """
     def __init__(self, means, covariances, transition_matrix):
         """
-        Constructor that accepts arrays of means, covariance matrices, and a time-varying transition probability matrix.
+        Constructor that accepts arrays of means, covariance matrices, and a transition probability matrix.
 
         Parameters:
         - means (array): An array of means.
