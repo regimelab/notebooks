@@ -1,6 +1,19 @@
 import pandas as pd 
 import sqlite3
 
+"""
+From "Advances in Financial Machine Learning" by Marcos Lopez de Prado -- Volume Bars
+
+When dealing with financial data it is customary to use daily prices and convert then 
+to daily returns, which produces a stationary Gaussian distribution (albeit with fat 
+tails, skewness). The distribution is highly non-normal and per the research cited here: 
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858
+
+Using a sampling by volume method restores some normality. Sample the closing price
+only after a certain volume (# of shares) are traded INSTEAD of based on unit time e.g
+1 day. 
+"""
 QUERY = lambda volume_per_bar: f""" 
                     with cte_modulus as (select 
                           "Close", 
