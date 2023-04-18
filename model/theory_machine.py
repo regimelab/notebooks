@@ -8,22 +8,6 @@ from vcdf import make_dataframes
 import pyeeg
 
 assetlist = ['SPY']
-featurelist = ['time_per_bar', 'close_abs']
-n_estimators = 1e3
-type_of_sample = 'minutes'
-
-# Function to digitize data
-digitize_col = lambda N: np.digitize(N, [
-    np.percentile(N, 20),
-    np.percentile(N, 40),
-    np.percentile(N, 60),
-    np.percentile(N, 80)
-])
-
-df = pd.DataFrame()
-vcdf = pd.DataFrame()
-last_predict = None
-
 startdate = '2020-1-2'
 enddate = '2023-4-14'
 
