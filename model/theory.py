@@ -74,11 +74,10 @@ class RiskyForecast:
         sample_likelihood = [] 
         
         # Iterate over test data
-        for _xy in sampled_theory:
-            
+        for _xy in range(1, len(sampled_theory)):
             # Compute log likelihood assuming the existing posterior parameters 
             sample_likelihood = np.append(sample_likelihood, 
-                                          self.corpus.score(np.array([_xy])) ) 
+                                          self.corpus.score(np.array(sampled_theory[:_xy])) ) 
 
         return sample_likelihood, sampled_theory
         
