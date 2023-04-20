@@ -90,4 +90,51 @@ class RiskyForecast:
 
         return sample_likelihood, sampled_theory
     
+    def likelihood_in_regime(self, theory, regime_index, num_iter=100):
+        """
+        Method that returns the time-varying likelihood of the theory given the pre-fitted variational inference model,
+        which represents the "riskiness" in a Bayesian sense, for a specific regime index.
+
+        Parameters:
+        - theory (DGPTheory): An instance of the DGPTheory class.
+        - regime_index (int): The index of the regime to calculate the likelihood for.
+        - num_iter (int): The number of iterations to sample.
+
+        Returns:
+        - likelihood (float): The likelihood of the theory in the given regime.
+        """
+        sampled_theory, sampled_states = theory.sample(num_iter)
+        sub_theory = []
+        sub_theory_scores = [] 
+        
+        # Lambda Scorer 
+        import scipy 
+        sci_stats=scipy.stats
+        
+        # Scorer
+        _score_ = lambda theory_data, m, cov: np.mean([           
+                sci_stats.multivariate_normal.logpdf(
+                    M, 
+                    mean=m, 
+                    cov=cov
+                )
+                for M in theory_data 
+            ])
+        
+        # Iterate over test data 
+        for _xy, st in zip(sampled_theory, sampled_states):
+
+            # If in regime 
+            if st == regime_index: 
+                
+                # Compute log likelihood assuming the posterior parameters of specific latent state
+                m = self.corpus.means_[regime_index]
+                cov = self.corpus.covariances_[regime_index]
+                
+                # Add data and score  
+                sub_theory.append([_xy[0],_xy[1]])
+
+                if len(sub_theory) > 1: sub_theory_scores.append(_score_(sub_theory, m, cov))
+
+        return sub_theory_scores, sampled_theory
     
