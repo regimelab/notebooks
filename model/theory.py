@@ -27,41 +27,49 @@ class DGPTheory:
     def sample(self, num_samples=100): 
         
         # Declare empty states
-        choices = np.zeros(num_samples)
+        states = np.zeros(num_samples)
 
         # Sample the posterior distribution states based on transition matrix and multivariate normal 
         if len(self.covariances) > 1: 
-            choices = [ np.random.choice(len(self.covariances), 
-                                        p=self.transition_kernel[i][int(choices[i-1])]) for i in range(num_samples) ]
+            states = [ np.random.choice(len(self.covariances), 
+                                        p=self.transition_kernel[i][int(states[i-1])]) for i in range(num_samples) ]
 
         # Get X, and y dim 
         Xy = np.array([ 
                        np.random.multivariate_normal(
                            mean=self.means[state], 
-                           cov=self.covariances[state]) for state in map(int, choices) ])
-        return Xy
+                           cov=self.covariances[state]) for state in map(int, states) ])
+        return Xy, states
 
 
 class RiskyForecast:
     """
-    A class that represents a RiskyForecast which takes a BayesianGaussianMixture (should be trained) instance as input.
+    A class that represents a RiskyForecast which takes a BayesianGaussianMixture instance as input.
     """
     def __init__(self, corpus: BayesianGaussianMixture):
         """
         Constructor that accepts a BayesianGaussianMixture instance.
 
         Parameters:
-        - corpus (BayesianGaussianMixture): A BayesianGaussianMixture instance.
+        - corpus (BayesianGaussianMixture): A BayesianGaussianMixture instance that is trained. 
 
         """
-        assert corpus.means_ is not None
+        # assert that the model is already trained
+        assert corpus.means_ is not None 
         self.corpus = corpus
-     
-    def likelihood(self, theory: DGPTheory, num_iter=100):
+        
+    def likelihood_base(self, num_iter=100): 
         """
-        Method that returns the time-varying likelihood of the theory given the pre-fitted variational
-        inference model, which represents the "riskiness" in a Bayesian sense. It indicates how unlikely  
-        the outcomes are it is predicting, and is related to the falsifiability of the theory.
+        Method that returns the time-varying likelihood when the theory is just a sample directly from the BayesianGaussianMixture instance. We would expect a high log likelihood.
+
+        Returns:
+        - likelihood (float): The likelihood of the theory over time. 
+        """
+        return self.likelihood(self.corpus, num_iter=num_iter)
+
+    def likelihood(self, theory, num_iter=100):
+        """
+        Method that returns the time-varying likelihood of the theory given the pre-fitted variational inference model, which represents the "riskiness" in a Bayesian sense. It indicates how unlikely the outcomes are it is predicting, and is related to the falsifiability of the theory.
 
         Parameters:
         - theory (DGPTheory): An instance of the DGPTheory class.
@@ -70,14 +78,16 @@ class RiskyForecast:
         - likelihood (float): The likelihood of the theory over time. 
         
         """
-        sampled_theory = theory.sample(num_iter)
+        sampled_theory, _ = theory.sample(num_iter)
         sample_likelihood = [] 
         
         # Iterate over test data
         for _xy in range(1, len(sampled_theory)):
-            # Compute log likelihood assuming the existing posterior parameters 
+
+            # Compute log likelihood assuming the posterior parameters 
             sample_likelihood = np.append(sample_likelihood, 
                                           self.corpus.score(np.array(sampled_theory[:_xy])) ) 
 
         return sample_likelihood, sampled_theory
-        
+    
+    
