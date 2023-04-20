@@ -16,7 +16,7 @@ class DGPTheory:
         Parameters:
         - means (array): An array of means.
         - covariances (array): An array of covariance matrices.
-        - transition_kernel (2d array): A transition probability matrix for each time step.  
+        - transition_kernel (3d array): A transition probability matrix for each time step.  
         """
         self.covariances = covariances
         self.transition_kernel = transition_kernel   
