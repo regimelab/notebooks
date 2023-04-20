@@ -1,5 +1,6 @@
 from sklearn.mixture import BayesianGaussianMixture
 import numpy as np
+import scipy 
 
 class DGPTheory:
     
@@ -107,13 +108,9 @@ class RiskyForecast:
         sub_theory = []
         sub_theory_scores = [] 
         
-        # Lambda Scorer 
-        import scipy 
-        sci_stats=scipy.stats
-        
         # Scorer
         _score_ = lambda theory_data, m, cov: np.mean([           
-                sci_stats.multivariate_normal.logpdf(
+                scipy.stats.multivariate_normal.logpdf(
                     M, 
                     mean=m, 
                     cov=cov
