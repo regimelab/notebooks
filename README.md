@@ -49,31 +49,34 @@ James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
 <b> Inference, Attention Mechanism, Diffusion </b> 
 
-I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
+I. [Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence](https://www.jmlr.org/papers/volume23/20-442/20-442.pdf)
+Mattes Mollenhauer, Stefan Klus, Christof Schutte, Peter Koltai
+
+II. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
 
-II. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
+III. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
 
-III. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
+IV. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
 Tuomo Peltonen
 
-IV. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
+V. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
 Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
 
-V. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+VI. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
 Richard T. Cox
 
-VI. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
+VII. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
 Andrew Campbell, Yuyang Shi, Tom Rainforth, Arnaud Doucet
 
-VII. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
+VIII. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
 Minh-Ngoc Tran, Paco Tseng, Robert Kohn
 
-VIII. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
+IX. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
 Gokhan Egri, Xinran (Nicole) Han
 
-IX. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
+X. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
 
 <b> Climate & Ecosystem Regimes </b>
