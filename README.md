@@ -194,6 +194,9 @@ Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Er
 XI. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 Jonathan Ho, Ajay Jain, Pieter Abbeel
 
+XII. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
+Liu Yanga, Xuhui Menga, George Em Karniadakisa
+
 <b> The Ergodicity Problem </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
