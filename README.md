@@ -127,6 +127,9 @@ Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
 IX. [Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence](https://www.jmlr.org/papers/volume23/20-442/20-442.pdf)
 Mattes Mollenhauer, Stefan Klus, Christof Schutte, Peter Koltai
 
+X. [Efficiently Implementing the Maximum Likelihood Estimator for Hurst Exponent](https://www.hindawi.com/journals/mpe/2014/490568/)
+Yen-Ching Chang
+
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
