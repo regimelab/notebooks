@@ -96,6 +96,9 @@ Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae 
 VI. [Variational inference at glacier scale](https://www.sciencedirect.com/science/article/pii/S0021999122001577)
 Douglas J. Brinkerhoff
 
+VII. [Mapping Fire Regime Ecoregions in California](https://www.usgs.gov/publications/mapping-fire-regime-ecoregions-california)
+USGS
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
