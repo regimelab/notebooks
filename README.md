@@ -76,6 +76,9 @@ Gokhan Egri, Xinran (Nicole) Han
 IX. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
 
+X. [Spectrum Estimation from Samples](https://arxiv.org/abs/1602.00061)
+Weihao Kong, Gregory Valiant
+
 <b> Climate & Ecosystem Regimes </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
