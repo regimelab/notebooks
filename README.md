@@ -168,6 +168,9 @@ Marcos Lopez de Prado, David Easley, Maureen O'Hara
 X. [A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle](https://www.ssc.wisc.edu/~bhansen/718/Hamilton1989.pdf)
 James D. Hamilton
 
+XI. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
+Marcos Lopez de Prado 
+
 <b> Generative Modeling / Gaussian Processes / Latent Variable Models </b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
