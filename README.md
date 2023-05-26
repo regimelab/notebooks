@@ -139,7 +139,7 @@ Yen-Ching Chang
 XI. [Determination of Pipeline Leaks Based on the Analysis the Hurst Exponent of Acoustic Signals](https://www.mdpi.com/2073-4441/14/19/3190)
 Department of Industrial Heat Power and Heat Supply Systems, Kazan State Power Engineering University, Kazan, Russia
 
-XII. [Determination of the Hurst exponent by use of wavelet transforms](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.2779(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.2779)
+XII. [Determination of the Hurst exponent by use of wavelet transforms](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.2779)
 Ingve Simonsen, Alex Hansen, and Olav Magnar Nes, American Physical Society 
 
 <b> Mathematical Finance </b> <br/>
