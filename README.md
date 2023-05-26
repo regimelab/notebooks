@@ -136,6 +136,9 @@ Mattes Mollenhauer, Stefan Klus, Christof Schutte, Peter Koltai
 X. [Efficiently Implementing the Maximum Likelihood Estimator for Hurst Exponent](https://www.hindawi.com/journals/mpe/2014/490568/)
 Yen-Ching Chang
 
+XI. [Determination of Pipeline Leaks Based on the Analysis the Hurst Exponent of Acoustic Signals](https://www.mdpi.com/2073-4441/14/19/3190)
+Department of Industrial Heat Power and Heat Supply Systems, Kazan State Power Engineering University, Kazan, Russia
+
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
