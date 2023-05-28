@@ -215,6 +215,9 @@ Jonathan Ho, Ajay Jain, Pieter Abbeel
 XII. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
 Liu Yanga, Xuhui Menga, George Em Karniadakisa
 
+XIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
+Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
+
 <b> The Ergodicity Problem </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
