@@ -102,6 +102,10 @@ Douglas J. Brinkerhoff
 VII. [Mapping Fire Regime Ecoregions in California](https://www.usgs.gov/publications/mapping-fire-regime-ecoregions-california)
 USGS
 
+VIII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise
+](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
+Christopher Boettner and Niklas Boers
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
