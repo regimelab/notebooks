@@ -104,7 +104,7 @@ USGS
 
 VIII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
-Christopher Boettner and Niklas Boers
+Christopher Boettner, Niklas Boers
 
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
