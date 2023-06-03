@@ -106,6 +106,8 @@ VIII. [Critical slowing down in dynamical systems driven by nonstationary correl
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
 Christopher Boettner, Niklas Boers
 
+IX. (https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013230)
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
