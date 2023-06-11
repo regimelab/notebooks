@@ -108,6 +108,9 @@ Christopher Boettner, Niklas Boers
 
 IX. (https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013230)
 
+X. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
+Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike & Joanna Slawinska 
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
