@@ -261,5 +261,11 @@ IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigen
 X. [On The Ergodic Properties Of Climate Change with Implications for Climate Finance, Agricultural Resilience, and Sustainability](https://ageconsearch.umn.edu/record/329265/)
 Calum G. Turvey, Shuxin Liu, Josefina Uranga, Morgan Mastrianni
 
-L2 Spectral Ergodicity: https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf
+XI. L2 Spectral Ergodicity: https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf
 
+<b> Wavelets </b></br>
+
+I. [Wavelet Based Performance Analysis of SVM and
+RBF Kernel for Classifying Stress Conditions of
+Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
+Romanian Open Access Journal 
