@@ -106,9 +106,7 @@ VIII. [Critical slowing down in dynamical systems driven by nonstationary correl
 ](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
 Christopher Boettner, Niklas Boers
 
-IX. (https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013230)
-
-X. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
+IX. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
 Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike & Joanna Slawinska 
 
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
@@ -268,4 +266,4 @@ XI. L2 Spectral Ergodicity: https://www.stat.cmu.edu/~cshalizi/754/notes/lecture
 I. [Wavelet Based Performance Analysis of SVM and
 RBF Kernel for Classifying Stress Conditions of
 Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
-Romanian Open Access Journal 
+Prabhat Kumar Upadhyay, Chetna Nagpal
