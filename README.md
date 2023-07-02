@@ -109,6 +109,9 @@ Christopher Boettner, Niklas Boers
 IX. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
 Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike & Joanna Slawinska 
 
+X. [The most at-risk regions in the world for high-impact heatwaves](https://www.nature.com/articles/s41467-023-37554-1)
+Vikki Thompson, Dann Mitchell, Gabriele C. Hegerl, Matthew Collins, Nicholas J. Leach & Julia M. Slingo 
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
