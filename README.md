@@ -192,6 +192,8 @@ Marcos Lopez de Prado
 
 <b> Generative Modeling / Gaussian Processes / Latent Variable Models </b> <br/> 
 
+http://gaussianprocess.org/gpml/chapters/RW.pdf
+
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
 
