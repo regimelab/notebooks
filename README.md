@@ -1,6 +1,6 @@
 # regimelab-notebooks
 
-Exploratory data analysis (EDA) notebooks for the substack, and a place to grapple with some concepts in applied math and statistics, mathematical finance, and Bayesian machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary time series problems. 
+Exploratory data analysis (EDA) notebooks for the substack, and a place to grapple with some concepts in applied math and statistics, mathematical finance, and machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary time series problems. 
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
