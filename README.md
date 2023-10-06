@@ -8,7 +8,7 @@ https://regimelab.substack.com/p/what-are-regimes
 Areas of Research
 -----------------
 
-(1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting) while simultaneously providing a quantity of uncertainty and entropy in the Bayesian sense. 
+(1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting) while simultaneously providing a quantity of uncertainty.
 
 (2) Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 
