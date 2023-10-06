@@ -8,23 +8,23 @@ https://regimelab.substack.com/p/what-are-regimes
 Areas of Research
 -----------------
 
-(1) Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly (now-casting) while simultaneously providing a quantity of uncertainty.
+I. Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly while simultaneously providing a quantity of uncertainty.
 
-(2) Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
+II. Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
+
+E.g.
 
 https://en.wikipedia.org/wiki/Regime_shift
-
 https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
-
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
-(3) This all becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare (dynamic treatment regimes), economics.  
+III. This becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economics.  
 
-(4) Sequential decision problems with uncertain outcomes and rewards don't require 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management.
+IV. Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. 
 
-(5) Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability or a Humean induction and the scientific method (causal ML research). 
+V. Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability or a Humean induction and the scientific method.
 
-(6) I study Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
+VI. Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
 
 <br/>
 
