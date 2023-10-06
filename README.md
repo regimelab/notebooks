@@ -79,6 +79,9 @@ Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
 X. [Spectrum Estimation from Samples](https://arxiv.org/abs/1602.00061)
 Weihao Kong, Gregory Valiant
 
+XI. [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720)
+Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Rosenkranz
+
 <b> Climate & Ecosystem Regimes </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
