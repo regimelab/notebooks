@@ -14,8 +14,13 @@ II. Detecting regime shifts, including concept drift, dataset shift, distributio
 
 E.g.
 
+Regime shifts definition
 https://en.wikipedia.org/wiki/Regime_shift
+
+Vector institute
 https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
+
+NOAA regimes 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
 III. This becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economics.  
