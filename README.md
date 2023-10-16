@@ -272,7 +272,11 @@ IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigen
 X. [On The Ergodic Properties Of Climate Change with Implications for Climate Finance, Agricultural Resilience, and Sustainability](https://ageconsearch.umn.edu/record/329265/)
 Calum G. Turvey, Shuxin Liu, Josefina Uranga, Morgan Mastrianni
 
-XI. L2 Spectral Ergodicity: https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf
+XI. [L2 Spectral Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
+Carnegie Mellon University
+
+XII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
+B. O. Koopman
 
 <b> Wavelets </b></br>
 
