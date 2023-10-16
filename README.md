@@ -1,6 +1,6 @@
 # regimelab-notebooks
 
-Exploratory data analysis (EDA) notebooks for the substack, and a place to grapple with some concepts in applied math and statistics, mathematical finance, and machine learning. My belief is that this type of research has a lot to offer not just in the financial domain, but in codifying frameworks and best practices for working with non-stationary time series problems. 
+Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. 
 
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
@@ -241,6 +241,11 @@ Liu Yanga, Xuhui Menga, George Em Karniadakisa
 XIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
 Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
 
+XIV. [Wavelet Based Performance Analysis of SVM and
+RBF Kernel for Classifying Stress Conditions of
+Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
+Prabhat Kumar Upadhyay, Chetna Nagpal
+
 <b> The Ergodicity Problem </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
@@ -278,9 +283,5 @@ Carnegie Mellon University
 XII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
 B. O. Koopman
 
-<b> Wavelets </b></br>
-
-I. [Wavelet Based Performance Analysis of SVM and
-RBF Kernel for Classifying Stress Conditions of
-Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
-Prabhat Kumar Upadhyay, Chetna Nagpal
+XIII [Chaos as an intermittently forced linear system](https://www.nature.com/articles/s41467-017-00030-8)
+Nature Communications
