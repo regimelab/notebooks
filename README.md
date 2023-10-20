@@ -150,6 +150,9 @@ Ingve Simonsen, Alex Hansen, and Olav Magnar Nes, American Physical Society
 XIII. [Long-Range Dependence in Financial Markets: a Moving Average Cluster Entropy Approach](https://arxiv.org/abs/2004.14736)
 Pietro Murialdo, Linda Ponta, Anna Carbone
 
+XIV. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
+Julien Guyon, Jordan Lekeufack
+
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
