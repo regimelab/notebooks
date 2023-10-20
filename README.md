@@ -18,7 +18,7 @@ https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-in
 NOAA regimes 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
-Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. This becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economics.  
+Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. Risky phenomena face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economies.  
 
 <br/>
 
