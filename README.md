@@ -7,15 +7,13 @@ https://regimelab.substack.com/p/what-are-regimes
 
 Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 
-E.g.
-
-Regime shifts definition
+<b>Wikipedia</b><br/>
 https://en.wikipedia.org/wiki/Regime_shift
 
-Vector institute
+<b>Vector Institute</b><br/>
 https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
 
-NOAA regimes 
+<b>NOAA Regimes</b><br/> 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
 Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. Risky phenomena face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economies.  
