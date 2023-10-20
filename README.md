@@ -5,12 +5,7 @@ Exploratory data analysis notebooks for the substack. A place to grapple with so
 What are regimes?
 https://regimelab.substack.com/p/what-are-regimes
 
-Areas of Research
------------------
-
-I. Non-parametric models offer the flexibility to learn and generate data distributions that have not occurred yet, but may occur. They can learn new distributions on the fly while simultaneously providing a quantity of uncertainty.
-
-II. Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
+Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 
 E.g.
 
@@ -23,13 +18,7 @@ https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-in
 NOAA regimes 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
-III. This becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economics.  
-
-IV. Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. 
-
-V. Causal theories involving data must be falsifiable and interpretable in the sense of Popper falsifiability or a Humean induction and the scientific method.
-
-VI. Long memory/auto-correlation in data generating processes, stationarity, and ergodicity assumptions. E.g. fractional Gaussian Noise & fractional Brownian Motion. 
+Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. This becomes useful in dealing with complex, risky phenomena that face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economics.  
 
 <br/>
 
@@ -44,7 +33,7 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Optimization, Utility </b>
+<b> Optimization & Utility </b>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
 Daniel Kahneman and Amos Tversky
@@ -52,7 +41,7 @@ Daniel Kahneman and Amos Tversky
 II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
 James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
-<b> Inference, Attention Mechanism, Diffusion </b> 
+<b> Inference & Reasoning </b> 
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
@@ -198,7 +187,7 @@ James D. Hamilton
 XI. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
 Marcos Lopez de Prado 
 
-<b> Generative Modeling / Gaussian Processes / Latent Variable Models </b> <br/> 
+<b> Generative Modeling, Gaussian Processes, Latent Variable Models </b> <br/> 
 
 http://gaussianprocess.org/gpml/chapters/RW.pdf
 
