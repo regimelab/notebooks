@@ -31,16 +31,6 @@ References & Inspiration
 
 Mostly just interesting papers or books. 
 
-<b> Optimization & Utility </b>
-
-I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
-Daniel Kahneman and Amos Tversky
-
-II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
-James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
-
-<b> Inference & Reasoning </b> 
-
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
 
@@ -73,6 +63,14 @@ Weihao Kong, Gregory Valiant
 
 XI. [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720)
 Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Rosenkranz
+
+<b> Optimization & Utility </b>
+
+I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
+Daniel Kahneman and Amos Tversky
+
+II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
+James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
 <b> Climate & Ecosystem Regimes </b>
 
