@@ -111,6 +111,10 @@ Vikki Thompson, Dann Mitchell, Gabriele C. Hegerl, Matthew Collins, Nicholas J. 
 XI. [Maintaining human wellbeing as socio-environmental systems undergo regime shifts](https://arxiv.org/pdf/2309.04578.pdf)
 Andrew R. Tilman, Elisabeth H. Krueger, Lisa C. McManus, & James R. Watson
 
+XII. [Flickering as an early warning signal](https://www.researchgate.net/publication/257769537_Flickering_as_an_early_warning_signal)
+Vasilis Dakos, ETH Zurich, Egbert H. Van Nes
+
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
