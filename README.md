@@ -108,6 +108,9 @@ Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike & Joanna S
 X. [The most at-risk regions in the world for high-impact heatwaves](https://www.nature.com/articles/s41467-023-37554-1)
 Vikki Thompson, Dann Mitchell, Gabriele C. Hegerl, Matthew Collins, Nicholas J. Leach & Julia M. Slingo 
 
+XI. [Maintaining human wellbeing as socio-environmental systems undergo regime shifts](https://arxiv.org/pdf/2309.04578.pdf)
+Andrew R. Tilman, Elisabeth H. Krueger, Lisa C. McManus, & James R. Watson
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
