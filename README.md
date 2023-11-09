@@ -196,6 +196,9 @@ James D. Hamilton
 XI. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
 Marcos Lopez de Prado 
 
+XII. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
+Igor Halperin
+
 <b> Generative Modeling, Gaussian Processes, Latent Variable Models </b> <br/> 
 
 http://gaussianprocess.org/gpml/chapters/RW.pdf
