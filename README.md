@@ -13,7 +13,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 <b>Vector Institute</b><br/>
 https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
 
-<b>Nature Journal</b>
+<b>Nature Journal</b><br/>
 [Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
 
 <b>NOAA Regimes</b><br/> 
