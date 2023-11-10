@@ -13,6 +13,9 @@ https://en.wikipedia.org/wiki/Regime_shift
 <b>Vector Institute</b><br/>
 https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
 
+<b>Nature Journal</b>
+[Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
+
 <b>NOAA Regimes</b><br/> 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
@@ -114,6 +117,8 @@ Andrew R. Tilman, Elisabeth H. Krueger, Lisa C. McManus, & James R. Watson
 XII. [Flickering as an early warning signal](https://www.researchgate.net/publication/257769537_Flickering_as_an_early_warning_signal)
 Vasilis Dakos, ETH Zurich, Egbert H. Van Nes
 
+XIII. [Non-equilibrium early-warning signals for critical transitions in ecological systems](https://www.pnas.org/doi/10.1073/pnas.2218663120)
+Li Xu, Denis Patterson, Simon Asher Levin, Jin Wang
 
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
