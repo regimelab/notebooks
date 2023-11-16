@@ -70,6 +70,9 @@ Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Ro
 XII. [Dripping Faucet As a Model Chaotic System](https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf)
 Robert Shaw
 
+XIII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
+JW Gibbs
+
 <b> Optimization & Utility </b>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
