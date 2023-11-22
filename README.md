@@ -126,6 +126,9 @@ Vasilis Dakos, ETH Zurich, Egbert H. Van Nes
 XIII. [Non-equilibrium early-warning signals for critical transitions in ecological systems](https://www.pnas.org/doi/10.1073/pnas.2218663120)
 Li Xu, Denis Patterson, Simon Asher Levin, Jin Wang
 
+XIV. [Critical slowing down theory provides early warning signals for sandstone failure](https://www.frontiersin.org/articles/10.3389/feart.2022.934498/full)
+Yao Tang, Xing Zhu, Chunlei He, Jiewei Hu, Jie Fan 
+
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
