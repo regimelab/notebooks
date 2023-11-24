@@ -32,7 +32,7 @@ $$
 References & Inspiration
 ------------------------
 
-Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, and more. 
+Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, complexity of stochastic processes, and more. 
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
