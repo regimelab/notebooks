@@ -73,7 +73,7 @@ Robert Shaw
 XIII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
 JW Gibbs
 
-XIV. [AN INTRODUCTION TO LONG-MEMORY TIME SERIES MODELS AND FRACTIONAL DIFFERENCING](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
+XIV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
 XV. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
