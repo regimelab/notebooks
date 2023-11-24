@@ -19,18 +19,8 @@ https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-in
 <b>NOAA Regimes</b><br/> 
 https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 
-Sequential decision problems with uncertain outcomes and rewards don't always require or even allow for 'prediction' in the strictest sense, but decisions can still be optimized. This is central to successful business and operational planning, and risk management in a stochastic environment. Risky phenomena face us in the real world across many domains: the climate, supply chains, weather patterns, financial systems, healthcare systems, and economies.  
-
-<br/>
-
-(Variational Inference Posterior Distribution) 
-
-$$
-\huge p(z | x, \alpha) = \frac{p(z, x | \alpha)}{\int_z p(z, x | \alpha)} 
-$$
-
-References & Inspiration
-------------------------
+Further Reading & Inspiration
+-----------------------------
 
 Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, complexity of stochastic processes, and more. 
 
