@@ -32,7 +32,7 @@ $$
 References & Inspiration
 ------------------------
 
-Mostly just interesting papers or books. 
+Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, and more. 
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
@@ -78,6 +78,9 @@ Granger, Joyeux
 
 XV. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
 Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
+
+XVI. [An Introducton to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
+Judea Pearl 
 
 <b> Optimization & Utility </b>
 
