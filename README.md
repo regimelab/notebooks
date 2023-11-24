@@ -76,6 +76,9 @@ JW Gibbs
 XIV. [AN INTRODUCTION TO LONG-MEMORY TIME SERIES MODELS AND FRACTIONAL DIFFERENCING](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
+XV. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
+Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
+
 <b> Optimization & Utility </b>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
