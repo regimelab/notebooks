@@ -69,9 +69,12 @@ Granger, Joyeux
 XV. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
 Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
 
-XVI. [An Introducton to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
+XVI. [An Introduction to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
 Judea Pearl 
 
+XVII. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
+Judea Pearl
+ 
 <b> Optimization & Utility </b>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
