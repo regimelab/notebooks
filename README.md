@@ -22,7 +22,7 @@ https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
 Further Reading & Inspiration
 -----------------------------
 
-Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, complexity of stochastic processes, and more. 
+Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, complexity of stochastic processes, and some philosophy sprinkled in. 
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
