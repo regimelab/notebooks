@@ -260,6 +260,9 @@ RBF Kernel for Classifying Stress Conditions of
 Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
 Prabhat Kumar Upadhyay, Chetna Nagpal
 
+XV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
+Julie Delon, Agnès Desolneux
+
 <b> The Ergodicity Problem </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
