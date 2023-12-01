@@ -214,8 +214,6 @@ Igor Halperin
 
 <b> Generative Modeling, Gaussian Processes, Latent Variable Models </b> <br/> 
 
-http://gaussianprocess.org/gpml/chapters/RW.pdf
-
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
 
@@ -262,6 +260,9 @@ Prabhat Kumar Upadhyay, Chetna Nagpal
 
 XV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
 Julie Delon, Agnès Desolneux
+
+XVI. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
+Rasmussen et al 
 
 <b> The Ergodicity Problem </b> <br/> 
 
