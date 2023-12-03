@@ -1,11 +1,9 @@
 # regimelab-notebooks
 
-Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. 
+Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 
 What are regimes?<br/>
 https://regimelab.substack.com/p/what-are-regimes
-
-Detecting regime shifts, including concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production ML/data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves.  
 
 <b>Wikipedia</b><br/>
 https://en.wikipedia.org/wiki/Regime_shift
