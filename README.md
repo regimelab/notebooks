@@ -10,80 +10,12 @@ Detecting regime shifts, including concept drift, dataset shift, distributional 
 <b>Wikipedia</b><br/>
 https://en.wikipedia.org/wiki/Regime_shift
 
-<b>Vector Institute</b><br/>
-https://vectorinstitute.ai/responding-to-major-shifts-in-data-vector-industry-innovation-report-on-dataset-shift-project/
-
-<b>Nature Journal</b><br/>
-[Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
-
-<b>NOAA Regimes</b><br/> 
-https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf
-
 Further Reading & Inspiration
 -----------------------------
 
-Mostly just interesting papers or books covering machine learning, causal ML, bayesian stats, ecosystem regime shift modeling, complexity of stochastic processes, and some philosophy sprinkled in. 
+Mostly just interesting papers or books covering ML, bayesian statistics, eco-system regime shift modeling, complexity of stochastic processes and some philosophy sprinkled in. The first section emphasizes models from statistical physics and their relation to critical transitions in natural phenomena. 
 
-I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
-Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
-
-II. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
-Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
-
-III. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
-Tuomo Peltonen
-
-IV. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
-Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
-
-V. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
-Richard T. Cox
-
-VI. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
-Andrew Campbell, Yuyang Shi, Tom Rainforth, Arnaud Doucet
-
-VII. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
-Minh-Ngoc Tran, Paco Tseng, Robert Kohn
-
-VIII. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
-Gokhan Egri, Xinran (Nicole) Han
-
-IX. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
-Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
-
-X. [Spectrum Estimation from Samples](https://arxiv.org/abs/1602.00061)
-Weihao Kong, Gregory Valiant
-
-XI. [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720)
-Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Rosenkranz
-
-XII. [Dripping Faucet As a Model Chaotic System](https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf)
-Robert Shaw
-
-XIII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
-JW Gibbs
-
-XIV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
-Granger, Joyeux 
-
-XV. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
-Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
-
-XVI. [An Introduction to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
-Judea Pearl 
-
-XVII. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
-Judea Pearl
- 
-<b> Optimization & Utility </b>
-
-I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
-Daniel Kahneman and Amos Tversky
-
-II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
-James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
-
-<b> Climate & Ecosystem Regimes </b>
+<b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
@@ -106,8 +38,7 @@ Douglas J. Brinkerhoff
 VII. [Mapping Fire Regime Ecoregions in California](https://www.usgs.gov/publications/mapping-fire-regime-ecoregions-california)
 USGS
 
-VIII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise
-](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
+VIII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
 Christopher Boettner, Niklas Boers
 
 IX. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
@@ -130,6 +61,72 @@ Yao Tang, Xing Zhu, Chunlei He, Jiewei Hu, Jie Fan
 
 XV. [Critical slowing down associated with regime shifts in the US housing market](https://link.springer.com/article/10.1140/epjb/e2014-41038-1)
 James Peng Lung Tan, Siew Siew Ann Cheong 
+
+XVI. [Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
+Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk & George Sugihara 
+
+XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
+NOAA
+
+<b> Causal Inference </b>
+
+I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
+Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
+
+II. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
+Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
+
+III. [An Introduction to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
+Judea Pearl 
+
+IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
+Judea Pearl
+
+<b> Miscellaneous Bayesian/Statistical Physics </b>
+
+I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
+Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
+
+II. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
+Tuomo Peltonen
+
+III. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
+Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
+
+IV. [The Algebra of Probable Inference](https://bayes.wustl.edu/Manual/cox-algebra.pdf)
+Richard T. Cox
+
+V. [Online Variational Filtering and Parameter Learning](https://openreview.net/pdf?id=et2st4Jqhc)
+Andrew Campbell, Yuyang Shi, Tom Rainforth, Arnaud Doucet
+
+VI. [Particle Mean Field Variational Bayes](https://arxiv.org/pdf/2303.13930v1.pdf)
+Minh-Ngoc Tran, Paco Tseng, Robert Kohn
+
+VII. [Attention is Kernel Trick Reloaded](https://egrigokhan.github.io/data/cs_229_br_Project_Report_KernelAttention.pdf)
+Gokhan Egri, Xinran (Nicole) Han
+
+VIII. [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
+Jascha Sohl-Dickstein, Eric A. Weiss, Niru Maheswaranathan, Surya Ganguli
+
+IX. [Spectrum Estimation from Samples](https://arxiv.org/abs/1602.00061)
+Weihao Kong, Gregory Valiant
+
+X. [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720)
+Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Rosenkranz
+
+XI. [Dripping Faucet As a Model Chaotic System](https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf)
+Robert Shaw
+
+XII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
+JW Gibbs
+ 
+<b> Optimization & Utility </b>
+
+I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
+Daniel Kahneman and Amos Tversky
+
+II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
+James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
 <b> Hurst Effect, Auto-correlation, LRD </b> <br/>
 
@@ -176,6 +173,9 @@ Pietro Murialdo, Linda Ponta, Anna Carbone
 
 XIV. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
 Julien Guyon, Jordan Lekeufack
+
+XV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
+Granger, Joyeux 
 
 <b> Mathematical Finance </b> <br/>
 
