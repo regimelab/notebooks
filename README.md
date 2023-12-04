@@ -66,20 +66,6 @@ Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. C
 XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
 NOAA
 
-<b> Causal Inference </b>
-
-I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
-Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
-
-II. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
-Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
-
-III. [An Introduction to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
-Judea Pearl 
-
-IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
-Judea Pearl
-
 <b> Miscellaneous Bayesian/Statistical Physics </b>
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
@@ -301,6 +287,20 @@ Carnegie Mellon University
 
 XII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
 B. O. Koopman
+
+<b> Causal Inference </b>
+
+I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
+Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
+
+II. [Dormant Independence](https://pure.johnshopkins.edu/en/publications/dormant-independence)
+Ilya Shpitser, Judea Pearl, Bloomberg School of Public Health
+
+III. [An Introduction to Causal Inference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2836213/)
+Judea Pearl 
+
+IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
+Judea Pearl
 
 XIII [Chaos as an intermittently forced linear system](https://www.nature.com/articles/s41467-017-00030-8)
 Nature Communications
