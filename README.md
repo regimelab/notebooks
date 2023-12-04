@@ -11,7 +11,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Mostly just interesting papers or books covering ML, bayesian statistics, eco-system regime shift modeling, complexity of stochastic processes and some philosophy sprinkled in. The first section emphasizes models from statistical physics and their relation to critical transitions in natural phenomena. 
+Mostly just interesting papers or books covering ML with a heavy dose of gaussian processes, bayesian statistics, eco-system regime shift modeling, stochastic processes and some philosophy sprinkled in. The first section emphasizes models from statistical physics and their relation to critical transitions in natural phenomena as well. 
 
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
 
