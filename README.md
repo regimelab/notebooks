@@ -68,7 +68,8 @@ XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_over
 NOAA
 
 <br/>
-<b> Miscellaneous Bayesian/Statistical Physics </b>
+<b> Miscellaneous ML/Bayesian/Statistical Physics </b>
+<br/>
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
@@ -112,8 +113,12 @@ B. O. Koopman
 XIV. [Chaos as an Intermittently Forced Linear System](https://www.nature.com/articles/s41467-017-00030-8)
 Nature Communications
 
+XV. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
+Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
+
 <br/>
-<b> Hurst, LRD, Multifractal Property </b> <br/>
+<b> fBm & Hurst Effect/Long Memory </b> 
+<br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
@@ -138,32 +143,30 @@ VII. [Variational inference of fractional Brownian motion with linear computatio
 ](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.055311)
 Hippolyte Verdier, François Laurent, Alhassan Cassé, Christian L. Vestergaard, and Jean-Baptiste Masson
 
-VIII. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
-Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
-
-IX. [Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence](https://www.jmlr.org/papers/volume23/20-442/20-442.pdf)
+VIII. [Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence](https://www.jmlr.org/papers/volume23/20-442/20-442.pdf)
 Mattes Mollenhauer, Stefan Klus, Christof Schutte, Peter Koltai
 
-X. [Efficiently Implementing the Maximum Likelihood Estimator for Hurst Exponent](https://www.hindawi.com/journals/mpe/2014/490568/)
+IX. [Efficiently Implementing the Maximum Likelihood Estimator for Hurst Exponent](https://www.hindawi.com/journals/mpe/2014/490568/)
 Yen-Ching Chang
 
-XI. [Determination of Pipeline Leaks Based on the Analysis the Hurst Exponent of Acoustic Signals](https://www.mdpi.com/2073-4441/14/19/3190)
+X. [Determination of Pipeline Leaks Based on the Analysis the Hurst Exponent of Acoustic Signals](https://www.mdpi.com/2073-4441/14/19/3190)
 Department of Industrial Heat Power and Heat Supply Systems, Kazan State Power Engineering University, Kazan, Russia
 
-XII. [Determination of the Hurst exponent by use of wavelet transforms](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.2779)
+XI. [Determination of the Hurst exponent by use of wavelet transforms](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.58.2779)
 Ingve Simonsen, Alex Hansen, and Olav Magnar Nes, American Physical Society 
 
-XIII. [Long-Range Dependence in Financial Markets: a Moving Average Cluster Entropy Approach](https://arxiv.org/abs/2004.14736)
+XII. [Long-Range Dependence in Financial Markets: a Moving Average Cluster Entropy Approach](https://arxiv.org/abs/2004.14736)
 Pietro Murialdo, Linda Ponta, Anna Carbone
 
-XIV. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
+XIII. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
 Julien Guyon, Jordan Lekeufack
 
-XV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
+XIV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
 <br/>
-<b> Mathematical Finance </b> <br/>
+<b> Mathematical Finance </b> 
+<br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
@@ -202,7 +205,8 @@ XII. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilib
 Igor Halperin
 
 <br/>
-<b> Gaussian Processes, Latent States</b> <br/> 
+<b> Gaussian Processes, Latent State or Generative Models</b> 
+<br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -243,9 +247,7 @@ Liu Yanga, Xuhui Menga, George Em Karniadakisa
 XIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
 Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
 
-XIV. [Wavelet Based Performance Analysis of SVM and
-RBF Kernel for Classifying Stress Conditions of
-Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
+XIV. [Wavelet Based Performance Analysis of SVM and RBF Kernel for Classifying Stress Conditions of Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
 Prabhat Kumar Upadhyay, Chetna Nagpal
 
 XV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
@@ -255,7 +257,8 @@ XVI. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf
 Rasmussen et al 
 
 <br/>
-<b> Ergodicity & Diffusion </b> <br/> 
+<b> Ergodicity & Diffusion </b> 
+<br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
 Ole Peters, Nature Physics
@@ -291,6 +294,7 @@ Carnegie Mellon University
 
 <br/>
 <b> Causal Inference </b>
+<br/>
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
@@ -306,6 +310,7 @@ Judea Pearl
 
 <br/>
 <b> Optimization & Utility </b>
+<br/>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
 Daniel Kahneman and Amos Tversky
