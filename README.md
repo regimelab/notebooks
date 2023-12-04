@@ -164,6 +164,9 @@ Julien Guyon, Jordan Lekeufack
 XIV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
+XV. [Dynamic Hurst Exponent in Time Series](https://arxiv.org/abs/1903.07809)
+Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
+
 <br/>
 <b> Mathematical Finance </b> 
 <br/>
