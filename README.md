@@ -13,6 +13,7 @@ Further Reading & Inspiration
 
 Mostly just interesting papers or books covering ML with a heavy dose of gaussian processes, bayesian statistics, eco-system regime shift modeling, stochastic processes and some philosophy sprinkled in. The first section emphasizes models from statistical physics and their relation to critical transitions in natural phenomena as well. 
 
+<br/>
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
@@ -66,6 +67,7 @@ Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. C
 XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
 NOAA
 
+<br/>
 <b> Miscellaneous Bayesian/Statistical Physics </b>
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
@@ -103,16 +105,15 @@ Robert Shaw
 
 XII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
 JW Gibbs
- 
-<b> Optimization & Utility </b>
 
-I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
-Daniel Kahneman and Amos Tversky
+XIII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
+B. O. Koopman
 
-II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
-James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
+XIV. [Chaos as an Intermittently Forced Linear System](https://www.nature.com/articles/s41467-017-00030-8)
+Nature Communications
 
-<b> Hurst Effect, Auto-correlation, LRD </b> <br/>
+<br/>
+<b> Hurst, LRD, Multifractal Property </b> <br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
@@ -161,6 +162,7 @@ Julien Guyon, Jordan Lekeufack
 XV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
+<br/>
 <b> Mathematical Finance </b> <br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
@@ -199,7 +201,8 @@ Marcos Lopez de Prado
 XII. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
 Igor Halperin
 
-<b> Generative Modeling, Gaussian Processes, Latent Variable Models </b> <br/> 
+<br/>
+<b> Gaussian Processes, Latent States</b> <br/> 
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -251,7 +254,8 @@ Julie Delon, Agnès Desolneux
 XVI. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 Rasmussen et al 
 
-<b> The Ergodicity Problem </b> <br/> 
+<br/>
+<b> Ergodicity & Diffusion </b> <br/> 
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
 Ole Peters, Nature Physics
@@ -285,9 +289,7 @@ Calum G. Turvey, Shuxin Liu, Josefina Uranga, Morgan Mastrianni
 XI. [L2 Spectral Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
 Carnegie Mellon University
 
-XII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
-B. O. Koopman
-
+<br/>
 <b> Causal Inference </b>
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
@@ -302,5 +304,11 @@ Judea Pearl
 IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
 Judea Pearl
 
-XIII [Chaos as an intermittently forced linear system](https://www.nature.com/articles/s41467-017-00030-8)
-Nature Communications
+<br/>
+<b> Optimization & Utility </b>
+
+I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
+Daniel Kahneman and Amos Tversky
+
+II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
+James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
