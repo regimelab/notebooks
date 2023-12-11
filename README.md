@@ -14,8 +14,8 @@ Further Reading & Inspiration
 Mostly just interesting papers or books covering ML with a heavy dose of Gaussian processes, bayesian statistics, ecosystem regime shift modeling, stochastic processes and some philosophy sprinkled in. 
 
 <br/>
-<b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
-<br/>
+<b> Climate, Ecosystem Regimes & Critical Slowing Down </b><br/>
+
 This section emphasizes models from statistical physics and their relation to critical transitions, ecosystem modeling, or climate; ideas about hysteresis and irreversibility and early warning signals. 
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
