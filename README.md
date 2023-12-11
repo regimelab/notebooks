@@ -15,9 +15,9 @@ Mostly just interesting papers or books covering ML with a heavy dose of Gaussia
 
 <br/>
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
-<br/>
+<br/><br/>
 
-This section emphasizes models from statistical physics and their relation to critical transitions, ecosystem modeling, or climate; ideas about hysteresis and irreversibility and early warning signals. 
+This section emphasizes models from statistical physics and their relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis and irreversibility -- early warning signals for critical transitions. 
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
