@@ -72,7 +72,7 @@ NOAA
 
 <br/>
 <b> Miscellaneous ML/Bayesian/Statistical Physics </b>
-<br/>
+<br/><br/>
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
@@ -121,7 +121,7 @@ Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
 
 <br/>
 <b> fBm & Hurst Effect/Long Memory </b> 
-<br/>
+<br/><br/>
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
@@ -172,7 +172,7 @@ Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
 
 <br/>
 <b> Mathematical Finance </b> 
-<br/>
+<br/><br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
@@ -212,7 +212,7 @@ Igor Halperin
 
 <br/>
 <b> Gaussian Processes, Latent State or Generative Models</b> 
-<br/> 
+<br/><br/>
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -264,7 +264,7 @@ Rasmussen et al
 
 <br/>
 <b> Ergodicity & Diffusion </b> 
-<br/> 
+<br/><br/>
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
 Ole Peters, Nature Physics
@@ -300,7 +300,7 @@ Carnegie Mellon University
 
 <br/>
 <b> Causal Inference </b>
-<br/>
+<br/><br/>
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
@@ -316,7 +316,7 @@ Judea Pearl
 
 <br/>
 <b> Optimization & Utility </b>
-<br/>
+<br/><br/>
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
 Daniel Kahneman and Amos Tversky
