@@ -119,9 +119,8 @@ Nature Communications
 XV. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
 Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
 
-<br/>
-<b> fBm & Hurst Effect/Long Memory </b> 
-<br/><br/>
+fBm & Hurst Effect/Long Memory
+------------------------------
 
 I. [Basic properties of the Multivariate Fractional Brownian Motion](https://hal.science/hal-00497639/document)
 Pierre-Olivier Amblard, Jean-François Coeurjolly, Frédéric Lavancier, Anne Philippe. Basic properties
