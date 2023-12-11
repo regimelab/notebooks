@@ -1,6 +1,6 @@
 # regimelab-notebooks
 
-Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting questions and applications are with non-stationary data and path-dependent (non-ergodic) outcomes. 
+Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting questions and applications seem to involve non-stationary data and path-dependent (non-ergodic) sets of outcomes. 
 
 What are regimes?<br/>
 https://regimelab.substack.com/p/what-are-regimes
@@ -11,10 +11,12 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Mostly just interesting papers or books covering ML with a heavy dose of gaussian processes, bayesian statistics, eco-system regime shift modeling, stochastic processes and some philosophy sprinkled in. The first section emphasizes models from statistical physics and their relation to critical transitions in natural phenomena as well. 
+Mostly just interesting papers or books covering ML with a heavy dose of Gaussian processes, bayesian statistics, ecosystem regime shift modeling, stochastic processes and some philosophy sprinkled in. 
 
 <br/>
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
+
+This section emphasizes models from statistical physics and their relation to critical transitions, ecosystem modeling, or climate; ideas about hysteresis and irreversibility and early warning signals. 
 
 I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
 Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
