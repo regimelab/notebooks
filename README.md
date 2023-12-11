@@ -261,9 +261,8 @@ Julie Delon, Agnès Desolneux
 XVI. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 Rasmussen et al 
 
-<br/>
-<b> Ergodicity & Diffusion </b> 
-<br/><br/>
+Ergodicity & Diffusion
+----------------------
 
 I. [The ergodicity problem in economics](https://www.nature.com/articles/s41567-019-0732-0)
 Ole Peters, Nature Physics
