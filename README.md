@@ -1,6 +1,10 @@
 # regimelab-notebooks
 
-Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting questions and applications seem to involve non-stationary data and path-dependent (non-ergodic) sets of outcomes. 
+Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. 
+
+Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. 
+
+Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting questions and applications seem to involve non-stationary data and path-dependent (non-ergodic) sets of outcomes. 
 
 What are regimes?<br/>
 https://regimelab.substack.com/p/what-are-regimes
@@ -11,7 +15,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books in machine learning with a heavy dose of Gaussian processes, bayesian statistics, ecosystem regime shift modeling, stochastic processes and some philosophy sprinkled in. 
+Interesting papers or books covering ML with a heavy dose of Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate regime shift modeling.
 
 The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis, irreversibility and early warning signals. 
 
