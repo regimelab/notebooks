@@ -11,9 +11,9 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Mostly just interesting papers or books covering ML with a heavy dose of Gaussian processes, bayesian statistics, ecosystem regime shift modeling, stochastic processes and some philosophy sprinkled in. 
+Interesting papers or books in machine learning with a heavy dose of Gaussian processes, bayesian statistics, ecosystem regime shift modeling, stochastic processes and some philosophy sprinkled in. 
 
-The first section emphasizes models influenced by statistical mechanics and thermodynamics and the relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis and irreversibility and early warning signals for critical transitions. 
+The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis, irreversibility and early warning signals. 
 
 <br/>
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
