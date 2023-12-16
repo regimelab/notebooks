@@ -15,7 +15,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books involving Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate regime shift modeling.
+Interesting papers or books about Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate regime shift modeling.
 
 The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis, irreversibility and early warning signals. 
 
