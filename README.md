@@ -4,7 +4,9 @@ Exploratory data analysis notebooks for the substack. A place to grapple with so
 
 Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. 
 
-Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes. 
+Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. 
+
+Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes. 
 
 What are regimes?<br/>
 https://regimelab.substack.com/p/what-are-regimes
@@ -172,6 +174,9 @@ Granger, Joyeux
 
 XV. [Dynamic Hurst Exponent in Time Series](https://arxiv.org/abs/1903.07809)
 Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
+
+XVI. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/handle/fub188/9631/03_chapter3.pdf?sequence=4) 
+FU Berlin
 
 <br/>
 <b> Mathematical Finance </b> 
