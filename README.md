@@ -8,7 +8,7 @@ Additionally, regime shifts are a feature of many natural and physical phenomena
 
 Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes. 
 
-What are regimes?<br/>
+<b>What are regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
 
 <b>Wikipedia</b><br/>
