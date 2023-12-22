@@ -25,55 +25,52 @@ The first section emphasizes models influenced by statistical mechanics and ther
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
 <br/><br/>
 
-I. [Climate regime shift detection with a trans-dimensional, sequential Monte Carlo, variational Bayes method](https://onlinelibrary.wiley.com/doi/abs/10.1111/anzs.12265)
-Clare A. McGrory, Daniel C. Ahfock, Ricardo T. Lemos, Australia & New Zealand Journal of Statistics
-
-II. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
+I. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
 Journal of Statistical Physics
 
-III. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
+II. [Irreversibility of regime shifts in the North Sea](https://www.frontiersin.org/articles/10.3389/fmars.2022.945204/full)
 Frontiers in Marine Science
 
-IV. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
+III. [Variational Bayes Estimation of Hidden Markov Models for Daily Precipitation with Semi-Continuous Emissions](http://hpcf-files.umbc.edu/research/papers/MajumderHPCF20218.pdf)
 Department of Mathematics and Statistics, Joint Center for Earth Systems Technology, University of Maryland
 
-V. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
+IV. [A Bayesian Deep Learning Approach to Near-Term Climate Prediction](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022MS003058?af=R)
 Xihaier Luo, Balasubramanya T. Nadiga, Ji Hwan Park, Yihui Ren, Wei Xu, Shinjae Yoo, Journal of Advances in Modeling Earth Systems
 
-VI. [Variational inference at glacier scale](https://www.sciencedirect.com/science/article/pii/S0021999122001577)
+V. [Variational inference at glacier scale](https://www.sciencedirect.com/science/article/pii/S0021999122001577)
 Douglas J. Brinkerhoff
 
-VII. [Mapping Fire Regime Ecoregions in California](https://www.usgs.gov/publications/mapping-fire-regime-ecoregions-california)
+VI. [Mapping Fire Regime Ecoregions in California](https://www.usgs.gov/publications/mapping-fire-regime-ecoregions-california)
 USGS
 
-VIII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
+VII. [Critical slowing down in dynamical systems driven by nonstationary correlated noise](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013230)
 Christopher Boettner, Niklas Boers
 
-IX. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
+VIII. [Spectral analysis of climate dynamics with operator-theoretic approaches](https://www.nature.com/articles/s41467-021-26357-x)
 Gary Froyland, Dimitrios Giannakis, Benjamin R. Lintner, Maxwell Pike & Joanna Slawinska 
 
-X. [The most at-risk regions in the world for high-impact heatwaves](https://www.nature.com/articles/s41467-023-37554-1)
+IX. [The most at-risk regions in the world for high-impact heatwaves](https://www.nature.com/articles/s41467-023-37554-1)
 Vikki Thompson, Dann Mitchell, Gabriele C. Hegerl, Matthew Collins, Nicholas J. Leach & Julia M. Slingo 
 
-XI. [Maintaining human wellbeing as socio-environmental systems undergo regime shifts](https://arxiv.org/pdf/2309.04578.pdf)
+X. [Maintaining human wellbeing as socio-environmental systems undergo regime shifts](https://arxiv.org/pdf/2309.04578.pdf)
 Andrew R. Tilman, Elisabeth H. Krueger, Lisa C. McManus, & James R. Watson
 
-XII. [Flickering as an early warning signal](https://www.researchgate.net/publication/257769537_Flickering_as_an_early_warning_signal)
+XI. [Flickering as an early warning signal](https://www.researchgate.net/publication/257769537_Flickering_as_an_early_warning_signal)
 Vasilis Dakos, ETH Zurich, Egbert H. Van Nes
 
-XIII. [Non-equilibrium early-warning signals for critical transitions in ecological systems](https://www.pnas.org/doi/10.1073/pnas.2218663120)
+XII. [Non-equilibrium early-warning signals for critical transitions in ecological systems](https://www.pnas.org/doi/10.1073/pnas.2218663120)
 Li Xu, Denis Patterson, Simon Asher Levin, Jin Wang
 
-XIV. [Critical slowing down theory provides early warning signals for sandstone failure](https://www.frontiersin.org/articles/10.3389/feart.2022.934498/full)
+XIII. [Critical slowing down theory provides early warning signals for sandstone failure](https://www.frontiersin.org/articles/10.3389/feart.2022.934498/full)
 Yao Tang, Xing Zhu, Chunlei He, Jiewei Hu, Jie Fan 
 
-XV. [Critical slowing down associated with regime shifts in the US housing market](https://link.springer.com/article/10.1140/epjb/e2014-41038-1)
+XIV. [Critical slowing down associated with regime shifts in the US housing market](https://link.springer.com/article/10.1140/epjb/e2014-41038-1)
 James Peng Lung Tan, Siew Siew Ann Cheong 
 
-XVI. [Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
+XV. [Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
 Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk & George Sugihara 
 
-XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
+XVI. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
 NOAA
 
 <br/>
