@@ -4,9 +4,7 @@ Exploratory data analysis notebooks for the substack. A place to grapple with so
 
 Detecting regime shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. 
 
-Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. 
-
-Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes. 
+Additionally, regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes. 
 
 <b>What are regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
@@ -214,6 +212,10 @@ Marcos Lopez de Prado
 
 XII. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
 Igor Halperin
+
+XII. [On The Distribution of Stock Price Differences](https://users.math.yale.edu/~bbm3/web_pdfs/050onthedistribution.pdf)
+Mandelbrot, Taylor
+
 
 <br/>
 <b> Gaussian Processes, Latent State or Generative Models</b> 
