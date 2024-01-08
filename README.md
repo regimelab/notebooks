@@ -69,6 +69,9 @@ Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. C
 XVI. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
 NOAA
 
+XVII. [A ‘regime shift’ is happening in the Arctic Ocean, Stanford Scientists Say](https://news.stanford.edu/2020/07/09/regime-shift-happening-arctic-ocean)
+Josie Garthwaite
+
 <br/>
 <b> Miscellaneous ML/Bayesian/Statistical Physics </b>
 <br/><br/>
