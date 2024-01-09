@@ -1,4 +1,4 @@
-# regimelab-notebooks
+# Regime Lab 
 
 Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. 
 
