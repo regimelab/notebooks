@@ -181,7 +181,7 @@ XVI. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/h
 FU Berlin
 
 <br/>
-<b> Mathematical Finance </b> 
+<b> Mathematical Finance, Econometrics </b> 
 <br/><br/>
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
@@ -208,19 +208,25 @@ Marcos Lopez de Prado
 VIII. [Rational Expectations Econometric Analysis Of Changes in Regime](https://www.bu.edu/econ/files/2014/01/Hamilton-Interest-Rates.pdf)
 James D. Hamilton
 
-IX. [The Volume Clock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858)
-Marcos Lopez de Prado, David Easley, Maureen O'Hara
+IX. [Macroeconomic Regimes and Regime Shifts](https://www.nber.org/papers/w21863)
+James D. Hamilton
 
 X. [A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle](https://www.ssc.wisc.edu/~bhansen/718/Hamilton1989.pdf)
 James D. Hamilton
 
-XI. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
+XI. [The Volume Clock](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2034858)
+Marcos Lopez de Prado, David Easley, Maureen O'Hara
+
+XII. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
 Marcos Lopez de Prado 
 
-XII. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
+XIII. [Regime Switching with Time-Varying Transition Probabilities]
+Francis X. Diebold, Joon-Haeng Lee, Gretchen C. Weinbach
+
+XIV. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
 Igor Halperin
 
-XII. [On The Distribution of Stock Price Differences](https://users.math.yale.edu/~bbm3/web_pdfs/050onthedistribution.pdf)
+XV. [On The Distribution of Stock Price Differences](https://users.math.yale.edu/~bbm3/web_pdfs/050onthedistribution.pdf)
 Mandelbrot, Taylor
 
 
