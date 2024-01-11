@@ -4,7 +4,7 @@ Exploratory data analysis notebooks for the substack. A place to grapple with so
 
 Detecting statistical shifts: concept drift, dataset shift, distributional shift, higher moments and so on, is a worthy enterprise for the purpose of monitoring stability in production data pipelines. 
 
-Regime shifts are a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes.  
+Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. Some of the most interesting applications involve non-stationary data and path-dependent, non-ergodic sets of outcomes.  
 
 <b>What are regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
