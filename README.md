@@ -9,6 +9,9 @@ Regime shifts are additionally a feature of many natural and physical phenomena 
 <b>What are regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
 
+<b>Ergodic vs non-Ergodic Regimes</b><br/>
+https://regimelab.substack.com/p/ergodic-regimes
+
 <b>Wikipedia</b><br/>
 https://en.wikipedia.org/wiki/Regime_shift
 
