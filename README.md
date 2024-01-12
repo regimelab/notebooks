@@ -220,7 +220,7 @@ Marcos Lopez de Prado, David Easley, Maureen O'Hara
 XII. [Pseudo-factors and Factor Investing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336002)
 Marcos Lopez de Prado 
 
-XIII. [Regime Switching with Time-Varying Transition Probabilities]
+XIII. [Regime Switching with Time-Varying Transition Probabilities](https://www.sas.upenn.edu/~fdiebold/papers/paper69/pa.dlw.pdf)
 Francis X. Diebold, Joon-Haeng Lee, Gretchen C. Weinbach
 
 XIV. [The Inverted Parabola World of Classical Quantitative Finance: Non-Equilibrium and Non-Perturbative Finance Perspective](https://arxiv.org/pdf/2008.03623.pdf)
