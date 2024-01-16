@@ -72,11 +72,14 @@ James Peng Lung Tan, Siew Siew Ann Cheong
 XVI. [Early Warning Signals for Critical Transitions](https://www.nature.com/articles/nature08227)
 Marten Scheffer, Jordi Bascompte, William A. Brock, Victor Brovkin, Stephen R. Carpenter, Vasilis Dakos, Hermann Held, Egbert H. van Nes, Max Rietkerk & George Sugihara 
 
-XVII. [Climate Regimes](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
-NOAA
-
-XVIII. [A ‘regime shift’ is happening in the Arctic Ocean, Stanford Scientists Say](https://news.stanford.edu/2020/07/09/regime-shift-happening-arctic-ocean)
+XVII. [A ‘regime shift’ is happening in the Arctic Ocean, Stanford Scientists Say](https://news.stanford.edu/2020/07/09/regime-shift-happening-arctic-ocean)
 Josie Garthwaite
+
+XVIII. [A Brief Overview of the Regime shift Detection Methods](https://www.beringclimate.noaa.gov/regimes/rodionov_overview.pdf)
+NOAA, Sergei Rodionov, Joint Institute for the Study of the Atmosphere and Ocean, University of Washington
+
+XIX. [Researchers Study Effects of Harmful Algal Blooms](https://www.fisheries.noaa.gov/feature-story/researchers-study-effects-harmful-algal-blooms)
+NOAA 
 
 <br/>
 <b> Miscellaneous ML/Bayesian/Statistical Physics </b>
