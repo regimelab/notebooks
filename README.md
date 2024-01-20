@@ -18,9 +18,8 @@ Further Reading & Inspiration
 
 Interesting papers or books about Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate modeling. The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
-<br/>
-<b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
-<br/><br/>
+Climate, Ecosystem Regimes & Critical Slowing Down 
+--------------------------------------------------
 
 I. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
 Journal of Statistical Physics
@@ -85,9 +84,8 @@ Nature Communications
 XXI. [Significantly wetter or drier future conditions for one to two thirds of the world’s population](https://www.nature.com/articles/s41467-023-44513-3)
 Nature Communications
 
-<br/>
-<b> Miscellaneous ML/Bayesian/Statistical Physics </b>
-<br/><br/>
+Miscellaneous ML, Statistical Physics, Bayesian Analysis
+--------------------------------------------------------
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
@@ -187,9 +185,8 @@ Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
 XVI. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/handle/fub188/9631/03_chapter3.pdf?sequence=4) 
 FU Berlin
 
-<br/>
-<b> Mathematical Finance, Econometrics </b> 
-<br/><br/>
+Mathematical Finance, Econometrics
+----------------------------------
 
 I. [Advances in Financial Machine Learning](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)
 Marcos Lopez de Prado 
@@ -236,10 +233,8 @@ Igor Halperin
 XV. [On The Distribution of Stock Price Differences](https://users.math.yale.edu/~bbm3/web_pdfs/050onthedistribution.pdf)
 Mandelbrot, Taylor
 
-
-<br/>
-<b> Gaussian Processes, Latent State or Generative Models</b> 
-<br/><br/>
+Gaussian Processes, Latent State or Generative Models 
+-----------------------------------------------------
 
 I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
@@ -321,9 +316,8 @@ Calum G. Turvey, Shuxin Liu, Josefina Uranga, Morgan Mastrianni
 XI. [L2 Spectral Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
 Carnegie Mellon University
 
-<br/>
-<b> Causal Inference </b>
-<br/><br/>
+Causal Inference
+----------------
 
 I. [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
 Raha Moraffah, Paras Sheth, Mansooreh Karami, Anchit Bhattacharya, Qianru Wang, Anique Tahir, Adrienne Raglin, Huan Liu
@@ -337,9 +331,8 @@ Judea Pearl
 IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
 Judea Pearl
 
-<br/>
-<b> Optimization & Utility </b>
-<br/><br/>
+Optimization & Utility
+----------------------
 
 I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
 Daniel Kahneman and Amos Tversky
@@ -347,9 +340,8 @@ Daniel Kahneman and Amos Tversky
 II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
 James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
-<br/>
-<b> Sleep & Brain </b>
-<br/><br/>
+Sleep & Brain
+-------------
 
 I. [Wavelet Based Performance Analysis of SVM and RBF Kernel for Classifying Stress Conditions of Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
 Prabhat Kumar Upadhyay, Chetna Nagpal
