@@ -280,13 +280,10 @@ Liu Yanga, Xuhui Menga, George Em Karniadakisa
 XIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
 Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
 
-XIV. [Wavelet Based Performance Analysis of SVM and RBF Kernel for Classifying Stress Conditions of Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
-Prabhat Kumar Upadhyay, Chetna Nagpal
-
-XV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
+XIV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
 Julie Delon, Agnès Desolneux
 
-XVI. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
+XV. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 Rasmussen et al 
 
 Ergodicity & Diffusion
@@ -349,3 +346,19 @@ Daniel Kahneman and Amos Tversky
 
 II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
 James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
+
+<br/>
+<b> Sleep & Brain </b>
+<br/><br/>
+
+I. [Wavelet Based Performance Analysis of SVM and RBF Kernel for Classifying Stress Conditions of Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
+Prabhat Kumar Upadhyay, Chetna Nagpal
+
+II. [Discovery of key whole-brain transitions and dynamics during human wakefulness and non-REM sleep](https://www.nature.com/articles/s41467-019-08934-3)
+Nature Communications
+
+III. [Dynamics of sleep: Exploring critical transitions and early warning signals](https://www.sciencedirect.com/science/article/pii/S0169260719319108)
+Susanne M.M. de Mooij a, Tessa F. Blanken b, Raoul P.P.P. Grasman a, Jennifer R. Ramautar b, Eus J.W. Van Someren b c d, Han L.J. van der Maas a
+
+IV. [Automatic Segmentation of Sleep Spindles: A Variational Switching State-Space Approach](https://ieeexplore.ieee.org/document/10052015)
+IEEE
