@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books about Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate regime shift modeling. The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions, ecosystem modeling, or climate; ideas about hysteresis, irreversibility and early warning signals. 
+Interesting papers or books about Gaussian/stochastic processes, bayesian statistics, causal inference, and ecosystem or climate modeling. The first section emphasizes models influenced by statistical mechanics and thermodynamics and their relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
 <br/>
 <b> Climate, Ecosystem Regimes & Critical Slowing Down </b>
@@ -80,6 +80,12 @@ NOAA, Sergei Rodionov, Joint Institute for the Study of the Atmosphere and Ocean
 
 XIX. [Researchers Study Effects of Harmful Algal Blooms](https://www.fisheries.noaa.gov/feature-story/researchers-study-effects-harmful-algal-blooms)
 NOAA 
+
+XX. [Nonlinear El Niño impacts on the global economy under climate change](https://www.nature.com/articles/s41467-023-41551-9)
+Nature Communications 
+
+XXI. [Significantly wetter or drier future conditions for one to two thirds of the world’s population](https://www.nature.com/articles/s41467-023-44513-3)
+Nature Communications
 
 <br/>
 <b> Miscellaneous ML/Bayesian/Statistical Physics </b>
