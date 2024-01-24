@@ -84,14 +84,14 @@ Nature Communications
 XXI. [Significantly wetter or drier future conditions for one to two thirds of the world’s population](https://www.nature.com/articles/s41467-023-44513-3)
 Nature Communications
 
-Miscellaneous ML, Statistical Physics, Bayesian Analysis
---------------------------------------------------------
+ML, Bayesian analysis, Generative modeling, Gaussian processes
+--------------------------------------------------------------
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
 
 II. [Popper’s Critical Rationalism as a Response to the Problem of Induction: Predictive Reasoning in the Early Stages of the Covid-19 Epidemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9589766/pdf/40926_2022_Article_203.pdf)
-Tuomo Peltonen
+Tuodmo Peltonen
 
 III. [Transformers Can Do Bayesian Inference](https://arxiv.org/pdf/2112.10510.pdf) 
 Samuel Muller, Noah Hollmann, Sebastian Pineda, Josif Grabocka, Frank Hutter
@@ -131,6 +131,51 @@ Nature Communications
 
 XV. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
 Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
+
+XVI. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+Tengyu Ma and Andrew Ng
+
+XVII. [Infinite Mixture of Global Gaussian Processes](https://melaniefp.github.io/contents/papers/DDP_regression_paper_BNPNG.pdf)
+Fernando Perez-Cruz, Melanie Pradier
+
+XVIII. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
+Yee Whye Teh, University College London
+
+IXX. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+David M. Blei
+
+XX. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
+
+XXI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+Trevor Hastie, Robert Tibshirani, Jerome Friedman
+
+XXII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
+
+XXIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
+Bayesian Analysis
+
+XXIV. [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
+David P. Landau, Kurt Binder 
+
+XXV. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
+
+XXVI. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+Jonathan Ho, Ajay Jain, Pieter Abbeel
+
+XXVII. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
+Liu Yanga, Xuhui Menga, George Em Karniadakisa
+
+XXVIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
+Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
+
+XXIX. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
+Julie Delon, Agnès Desolneux
+
+XXX. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
+Rasmussen et al 
 
 fBm & Hurst Effect/Long Memory
 ------------------------------
@@ -173,16 +218,13 @@ Ingve Simonsen, Alex Hansen, and Olav Magnar Nes, American Physical Society
 XII. [Long-Range Dependence in Financial Markets: a Moving Average Cluster Entropy Approach](https://arxiv.org/abs/2004.14736)
 Pietro Murialdo, Linda Ponta, Anna Carbone
 
-XIII. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
-Julien Guyon, Jordan Lekeufack
-
-XIV. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
+XII. [An Introduction to Long-memory time series models and Fractional Differencing](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9892.1980.tb00297.x)
 Granger, Joyeux 
 
-XV. [Dynamic Hurst Exponent in Time Series](https://arxiv.org/abs/1903.07809)
+XIV. [Dynamic Hurst Exponent in Time Series](https://arxiv.org/abs/1903.07809)
 Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
 
-XVI. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/handle/fub188/9631/03_chapter3.pdf?sequence=4) 
+XV. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/handle/fub188/9631/03_chapter3.pdf?sequence=4) 
 FU Berlin
 
 Mathematical Finance, Econometrics
@@ -233,53 +275,8 @@ Igor Halperin
 XV. [On The Distribution of Stock Price Differences](https://users.math.yale.edu/~bbm3/web_pdfs/050onthedistribution.pdf)
 Mandelbrot, Taylor
 
-Gaussian Processes, Latent State or Generative Models 
------------------------------------------------------
-
-I. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
-Tengyu Ma and Andrew Ng
-
-II. [Infinite Mixture of Global Gaussian Processes](https://melaniefp.github.io/contents/papers/DDP_regression_paper_BNPNG.pdf)
-Fernando Perez-Cruz, Melanie Pradier
-
-III. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
-Yee Whye Teh, University College London
-
-IV. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
-David M. Blei
-
-V. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
-Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
-
-VI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
-Trevor Hastie, Robert Tibshirani, Jerome Friedman
-
-VII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
-Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
-
-VIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
-Bayesian Analysis
-
-IX: [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
-David P. Landau, Kurt Binder 
-
-X. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
-Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
-
-XI. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
-Jonathan Ho, Ajay Jain, Pieter Abbeel
-
-XII. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
-Liu Yanga, Xuhui Menga, George Em Karniadakisa
-
-XIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
-Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
-
-XIV. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
-Julie Delon, Agnès Desolneux
-
-XV. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
-Rasmussen et al 
+XVI. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
+Julien Guyon, Jordan Lekeufack
 
 Ergodicity & Diffusion
 ----------------------
