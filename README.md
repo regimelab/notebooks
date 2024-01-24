@@ -369,3 +369,6 @@ Nature
 
 IV. [The gastrointestinal microbiome in dairy cattle is constrained by the deterministic driver of the region and the modified effect of diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01453-2)
 Microbiome Journal
+
+V. [Resource Competition and Host Feedbacks Underlie Regime Shifts in Gut Microbiota](https://www.journals.uchicago.edu/doi/abs/10.1086/714527?journalCode=an)
+University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christopher A. Klausmeier, Elena Litchman
