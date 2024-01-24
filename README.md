@@ -370,5 +370,14 @@ Nature
 IV. [The gastrointestinal microbiome in dairy cattle is constrained by the deterministic driver of the region and the modified effect of diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01453-2)
 Microbiome Journal
 
-V. [Resource Competition and Host Feedbacks Underlie Regime Shifts in Gut Microbiota](https://www.journals.uchicago.edu/doi/abs/10.1086/714527?journalCode=an)
+V. [Timescales of gut microbiome dynamics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6899164/)
+Brandon H. Schlomann, Raghuveer Parthasarathy
+
+VI. [Ecological dynamics of the gut microbiome in response to dietary fiber](https://www.nature.com/articles/s41396-022-01253-4) 
+The ISME Journal 
+
+VII. [Resource Competition and Host Feedbacks Underlie Regime Shifts in Gut Microbiota](https://www.journals.uchicago.edu/doi/abs/10.1086/714527?journalCode=an)
 University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christopher A. Klausmeier, Elena Litchman
+
+VIII. [Microbiota in health and diseases](https://www.nature.com/articles/s41392-022-00974-4) 
+Signal Transduction and Targeted Therapy, Kaijian Hou, Zhuo-Xun Wu, Xuan-Yu Chen, Jing-Quan Wang, Dongya Zhang, Chuanxing Xiao, Dan Zhu, Jagadish B. Koya, Liuya Wei, Jilin Li & Zhe-Sheng Chen
