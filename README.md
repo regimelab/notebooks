@@ -354,3 +354,18 @@ Susanne M.M. de Mooij a, Tessa F. Blanken b, Raoul P.P.P. Grasman a, Jennifer R.
 
 IV. [Automatic Segmentation of Sleep Spindles: A Variational Switching State-Space Approach](https://ieeexplore.ieee.org/document/10052015)
 IEEE
+
+Microbiome
+----------
+
+I. [Two dynamic regimes in the human gut microbiome](https://pubmed.ncbi.nlm.nih.gov/28222117/)
+Sean M Gibbons, Sean M Kearney, Chris S Smillie, Eric J Alm
+
+II. [Diversity, stability and resilience of the human gut microbiota](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3577372/)
+Catherine A. Lozupone, Jesse I. Stombaugh, Jeffrey I. Gordon, Janet K. Jansson, Rob Knight
+
+III. [The gut microbiome as a modulator of healthy ageing](https://www.nature.com/articles/s41575-022-00605-x)
+Nature
+
+IV. [The gastrointestinal microbiome in dairy cattle is constrained by the deterministic driver of the region and the modified effect of diet](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01453-2)
+Microbiome Journal
