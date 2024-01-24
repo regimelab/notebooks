@@ -84,8 +84,8 @@ Nature Communications
 XXI. [Significantly wetter or drier future conditions for one to two thirds of the world’s population](https://www.nature.com/articles/s41467-023-44513-3)
 Nature Communications
 
-ML, Bayesian analysis, Generative modeling, Gaussian processes
---------------------------------------------------------------
+Misc ML/Bayesian/Statistical Physics & Generative Modeling
+----------------------------------------------------------
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
