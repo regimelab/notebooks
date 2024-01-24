@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books about stochastic processes, bayesian statistics, causal inference, and ecosystem or climate modeling. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
+Interesting papers or books about stochastic processes, Gaussian processes, variational inference, causal inference, and ecosystem or climate modeling. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
