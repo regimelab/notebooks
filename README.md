@@ -93,6 +93,9 @@ Scientific Reports
 XXIV. [Atmospheric Rivers: What are they and how does NOAA study them?](https://research.noaa.gov/2023/01/11/atmospheric-rivers-what-are-they-and-how-does-noaa-study-them/)
 NOAA
 
+XXV. [Combined effects of the Pacific Decadal Oscillation and El Niño-Southern Oscillation on Global Land Dry–Wet Changes](https://www.nature.com/articles/srep06651)
+Scientific Reports
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
