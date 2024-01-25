@@ -87,6 +87,9 @@ Nature Communications
 XXII. [Food System Transformation: Integrating a Political–Economy and Social–Ecological Approach to Regime Shifts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068403/)
 Intl Journal of Environmental Research & Public Health
 
+XXIII. [Precipitation regime change in Western North America: The role of Atmospheric Rivers](https://www.nature.com/articles/s41598-019-46169-w)
+Scientific Reports
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
