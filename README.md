@@ -84,6 +84,9 @@ Nature Communications
 XXI. [Significantly wetter or drier future conditions for one to two thirds of the world’s population](https://www.nature.com/articles/s41467-023-44513-3)
 Nature Communications
 
+XXII. [Food System Transformation: Integrating a Political–Economy and Social–Ecological Approach to Regime Shifts](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7068403/)
+Intl Journal of Environmental Research & Public Health
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
