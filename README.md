@@ -90,6 +90,9 @@ Intl Journal of Environmental Research & Public Health
 XXIII. [Precipitation regime change in Western North America: The role of Atmospheric Rivers](https://www.nature.com/articles/s41598-019-46169-w)
 Scientific Reports
 
+XXIV. [Atmospheric Rivers: What are they and how does NOAA study them?](https://research.noaa.gov/2023/01/11/atmospheric-rivers-what-are-they-and-how-does-noaa-study-them/)
+NOAA
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
