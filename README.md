@@ -99,6 +99,12 @@ Scientific Reports
 XXVI. [Ancient Underwater Mountains in the Bay](https://baykeeper.org/blog/ancient-underwater-mountains-bay)
 SF Baykeeper
 
+XXVII. [Biological communities in San Francisco Bay track large-scale climate forcing over the North Pacific](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010GL044774)
+Geophysical Research Letters
+
+XXVIII. [The Impact of Regime Shifts on Long-Range Persistence and the Scaling of Sea Surface Temperature Off the Coast of California](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014922)
+Breaker, L. C., & Carroll, D. (2019), Journal of Geophysical Research
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
