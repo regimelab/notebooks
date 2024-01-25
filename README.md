@@ -96,6 +96,9 @@ NOAA
 XXV. [Combined effects of the Pacific Decadal Oscillation and El Niño-Southern Oscillation on Global Land Dry–Wet Changes](https://www.nature.com/articles/srep06651)
 Scientific Reports
 
+XXVI. [Ancient Underwater Mountains in the Bay](https://baykeeper.org/blog/ancient-underwater-mountains-bay)
+SF Baykeeper
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
