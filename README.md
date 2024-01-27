@@ -405,3 +405,13 @@ University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christop
 
 VIII. [Microbiota in health and diseases](https://www.nature.com/articles/s41392-022-00974-4) 
 Signal Transduction and Targeted Therapy, Kaijian Hou, Zhuo-Xun Wu, Xuan-Yu Chen, Jing-Quan Wang, Dongya Zhang, Chuanxing Xiao, Dan Zhu, Jagadish B. Koya, Liuya Wei, Jilin Li & Zhe-Sheng Chen
+
+fBm for Image Processing
+------------------------
+
+I. [Fractional Brownian Motion and Rao Geodesic Distance for Bone X-Ray Image Characterization](https://pubmed.ncbi.nlm.nih.gov/27775545/)
+Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Rachid Jennane
+
+II. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
+Gokilavani Chinnasamy, Vanitha S
+
