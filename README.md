@@ -299,6 +299,9 @@ Mandelbrot, Taylor
 XVI. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
 Julien Guyon, Jordan Lekeufack
 
+XVII [Principal Component Analysis for Nonstationary Series](https://www.nber.org/system/files/working_papers/w32068/w32068.pdf)
+NBER, James D. Hamilton, Jin Xi
+
 Ergodicity & Diffusion
 ----------------------
 
