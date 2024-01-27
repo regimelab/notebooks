@@ -376,6 +376,9 @@ Susanne M.M. de Mooij a, Tessa F. Blanken b, Raoul P.P.P. Grasman a, Jennifer R.
 IV. [Automatic Segmentation of Sleep Spindles: A Variational Switching State-Space Approach](https://ieeexplore.ieee.org/document/10052015)
 IEEE
 
+V. [Critical slowing down as early warning for the onset and termination of depression](https://www.pnas.org/doi/full/10.1073/pnas.1312114110)
+PNAS
+
 Microbiome
 ----------
 
