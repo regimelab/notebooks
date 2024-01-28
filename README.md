@@ -105,6 +105,9 @@ Geophysical Research Letters
 XXVIII. [The Impact of Regime Shifts on Long-Range Persistence and the Scaling of Sea Surface Temperature Off the Coast of California](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014922)
 Breaker, L. C., & Carroll, D. (2019), Journal of Geophysical Research
 
+XXIX. [Historical and future maximum sea surface temperatures](https://www.science.org/doi/10.1126/sciadv.adj5569)
+Science Advances, B. B. CAEL, FRIEDRICH A. BURGER, STEPHANIE A. HENSON, GREGORY L. BRITTEN, THOMAS L. FRÖLICHER 
+
 Misc ML/Bayesian/Statistical Physics & Generative Modeling
 ----------------------------------------------------------
 
