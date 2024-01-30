@@ -421,7 +421,18 @@ JW Gibbs
 IV. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
 B. O. Koopman
 
-V. [Chaos as an Intermittently Forced Linear System](https://www.nature.com/articles/s41467-017-00030-8)
-Nature Communications
+Path Integrals
+--------------
 
+I. [Path Integrals in Quantum Physics](https://arxiv.org/pdf/1209.1315.pdf)
+R. Rosenfelder, ETH Zurich
+
+II. [Path integrals, particular kinds, and strange things](https://arxiv.org/abs/2210.12761)
+Karl Friston, Lancelot Da Costa, Dalton A.R. Sakthivadivel, Conor Heins, Grigorios A. Pavliotis, Maxwell Ramstead, Thomas Parr
+
+III. [Covariant path integrals for quantum fields back-reacting on classical space-time](https://arxiv.org/abs/2302.07283)
+Jonathan Oppenheim, Zachary Weller-Davies
+
+IV. [Path integrals and stochastic calculus](https://arxiv.org/pdf/2211.09470.pdf)
+Thibaut Arnoulx de Pireya, Leticia F. Cugliandolob, Vivien Lecomted and Frederic van Wijlande
 
