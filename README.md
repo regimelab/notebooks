@@ -108,8 +108,8 @@ Breaker, L. C., & Carroll, D. (2019), Journal of Geophysical Research
 XXIX. [Historical and future maximum sea surface temperatures](https://www.science.org/doi/10.1126/sciadv.adj5569)
 Science Advances, B. B. CAEL, FRIEDRICH A. BURGER, STEPHANIE A. HENSON, GREGORY L. BRITTEN, THOMAS L. FRÖLICHER 
 
-Misc ML/Bayesian/Statistical Physics & Generative Modeling
-----------------------------------------------------------
+Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
+----------------------------------------------------------------
 
 I. [A Bayesian perspective on severity: risky predictions and specific hypotheses](https://link.springer.com/article/10.3758/s13423-022-02069-1)
 Noah van Dongen, Jan Sprenger & Eric-Jan Wagenmakers 
@@ -141,64 +141,52 @@ Weihao Kong, Gregory Valiant
 X. [Variational inference with a quantum computer](https://arxiv.org/abs/2103.06720)
 Marcello Benedetti, Brian Coyle, Mattia Fiorentini, Michael Lubasch, Matthias Rosenkranz
 
-XI. [Dripping Faucet As a Model Chaotic System](https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf)
-Robert Shaw
-
-XII. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
-JW Gibbs
-
-XIII. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
-B. O. Koopman
-
-XIV. [Chaos as an Intermittently Forced Linear System](https://www.nature.com/articles/s41467-017-00030-8)
-Nature Communications
-
-XV. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
+XI. [Generative modeling for time series via Schrödinger bridge](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412434)
 Mohamed Hamdouche, Pierre Henry-Labordere, Huyên Pham
 
-XVI. [EM Algorithm - CS229 Lecture](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
+XII. [EM Algorithm](http://cs229.stanford.edu/notes2020spring/cs229-notes8.pdf)
 Tengyu Ma and Andrew Ng
 
-XVII. [Infinite Mixture of Global Gaussian Processes](https://melaniefp.github.io/contents/papers/DDP_regression_paper_BNPNG.pdf)
+XIII. [Infinite Mixture of Global Gaussian Processes](https://melaniefp.github.io/contents/papers/DDP_regression_paper_BNPNG.pdf)
 Fernando Perez-Cruz, Melanie Pradier
 
-XVIII. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
+XIV. [Dirichlet Process](https://www.gatsby.ucl.ac.uk/~ywteh/research/npbayes/dp.pdf)
 Yee Whye Teh, University College London
 
-IXX. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+XV. [Variational Inference](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 David M. Blei
 
-XX. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
+XVI. [Graphical Models, Exponential Families, and Variational Inference](https://people.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf)
 Martin J. Wainwright, Michael I. Jordan, University of California, Berkeley
 
-XXI. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+XVII. [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
 Trevor Hastie, Robert Tibshirani, Jerome Friedman
 
-XXII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
+XVII. [A New Approach to Data Driven Clustering](https://mlg.eng.cam.ac.uk/zoubin/papers/AzrGhaICML06.pdf)
 Arik Azran, Gatsby Computational Neuroscience Unit, University College London, Zoubin Ghahramani, Department of Engineering, University of Cambridge, Cambridge
 
-XXIII. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
+XIX. [Particle Learning for Bayesian Non-Parametric Markov Switching Stochastic Volatility Model](https://hedibert.org/wp-content/uploads/2016/07/2016-virbickaite-lopes-ausin-galeano.pdf)
 Bayesian Analysis
 
-XXIV. [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
+XXI. [A Guide To Monte Carlo Simulations In Statistical Physics](https://el.us.edu.pl/ekonofizyka/images/6/6b/A_guide_to_monte_carlo_simulations_in_statistical_physics.pdf)
 David P. Landau, Kurt Binder 
 
-XXV. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+XXII. [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
 
-XXVI. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
+XXIII. [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 Jonathan Ho, Ajay Jain, Pieter Abbeel
 
-XXVII. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
+XXIV. [B-PINNs: Bayesian Physics-Informed Neural Networks for Forward and Inverse PDE Problems with Noisy Data](https://arxiv.org/pdf/2003.06097.pdf)
 Liu Yanga, Xuhui Menga, George Em Karniadakisa
 
-XXVIII. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
+XXV. [Deep Signature Transforms](https://arxiv.org/abs/1905.08494)
 Patric Bonnier, Patrick Kidger, Imanol Perez Arribas, Cristopher Salvi, Terry Lyons
 
-XXIX. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
+XXVI. [A Wasserstein-type distance in the space of Gaussian Mixture Models](https://hal.science/hal-02178204v4/document)
 Julie Delon, Agnès Desolneux
 
-XXX. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
+XXVII. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 Rasmussen et al 
 
 fBm & Hurst Effect/Long Memory
@@ -409,7 +397,7 @@ University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christop
 VIII. [Microbiota in health and diseases](https://www.nature.com/articles/s41392-022-00974-4) 
 Signal Transduction and Targeted Therapy, Kaijian Hou, Zhuo-Xun Wu, Xuan-Yu Chen, Jing-Quan Wang, Dongya Zhang, Chuanxing Xiao, Dan Zhu, Jagadish B. Koya, Liuya Wei, Jilin Li & Zhe-Sheng Chen
 
-fBm for Image Processing
+Medical Image Processing
 ------------------------
 
 I. [Fractional Brownian Motion and Rao Geodesic Distance for Bone X-Ray Image Characterization](https://pubmed.ncbi.nlm.nih.gov/27775545/)
@@ -418,9 +406,22 @@ Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Ra
 II. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
 Gokilavani Chinnasamy, Vanitha S
 
-Reservoir Computing
--------------------
+Chaos, Statistical Mechanics
+----------------------------
 
 I. [Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](https://link.aps.org/accepted/10.1103/PhysRevLett.120.024102)
 Jaideep Pathak, Brian Hunt, Michelle Girvan, Zhixin Lu, and Edward Ott
+
+II. [The Dripping Faucet As a Model Chaotic System](https://ia800706.us.archive.org/1/items/ShawRobertDrippingFaucetAsAModelChaoticSystem1984_201811/ShawRobert-DrippingFaucetAsAModelChaoticSystem1984.pdf)
+Robert Shaw
+
+III. [Elementary Principles of Statistical Mechanics](https://www.gutenberg.org/files/50992/50992-pdf.pdf)
+JW Gibbs
+
+IV. [Hamiltonian Systems and Transformation in Hilbert Space](https://www.pnas.org/doi/10.1073/pnas.17.5.315)
+B. O. Koopman
+
+V. [Chaos as an Intermittently Forced Linear System](https://www.nature.com/articles/s41467-017-00030-8)
+Nature Communications
+
 
