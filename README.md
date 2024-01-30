@@ -418,3 +418,9 @@ Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Ra
 II. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
 Gokilavani Chinnasamy, Vanitha S
 
+Reservoir Computing
+-------------------
+
+I. [Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](https://link.aps.org/accepted/10.1103/PhysRevLett.120.024102)
+Jaideep Pathak, Brian Hunt, Michelle Girvan, Zhixin Lu, and Edward Ott
+
