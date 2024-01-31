@@ -106,6 +106,12 @@ Breaker, L. C., & Carroll, D. (2019), Journal of Geophysical Research
 XXIX. [Historical and future maximum sea surface temperatures](https://www.science.org/doi/10.1126/sciadv.adj5569)
 Science Advances, B. B. CAEL, FRIEDRICH A. BURGER, STEPHANIE A. HENSON, GREGORY L. BRITTEN, THOMAS L. FRÖLICHER 
 
+Lorenz
+------
+
+I. [Regimes in Simple Systems](https://journals.ametsoc.org/view/journals/atsc/63/8/jas3727.1.xml)
+Edward Norton Lorenz 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
