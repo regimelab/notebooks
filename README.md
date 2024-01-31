@@ -1,6 +1,6 @@
 # Regime Lab 
 
-Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, and machine learning. 
+Exploratory data analysis notebooks for the substack. A place to grapple with some concepts in applied math and statistics, dynamical systems, mathematical finance, econometrics, and machine learning. 
 
 Detecting statistical shifts: concept drift, dataset shift, or distributional shift is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
 
@@ -16,7 +16,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books about stochastic processes, Gaussian processes, variational inference, causal inference, and ecosystem or climate modeling. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
+Interesting papers or books about stochastic processes, Gaussian processes, variational inference, causal inference, and ecosystem or climate modeling amongst much more. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
@@ -188,6 +188,9 @@ Julie Delon, Agnès Desolneux
 
 XXVII. [Gaussian Processes for ML](http://gaussianprocess.org/gpml/chapters/RW.pdf)
 Rasmussen et al 
+
+XXVIII. [Advances in Variational Inference](https://arxiv.org/pdf/1711.05597.pdf)
+IEEE
 
 fBm & Hurst Effect/Long Memory
 ------------------------------
