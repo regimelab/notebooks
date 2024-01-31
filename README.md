@@ -213,7 +213,7 @@ VI. [The Zumbach effect under rough Heston](https://arxiv.org/pdf/1809.02098.pdf
 Radoˇs Radoiˇci´c,, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
 
 VII. [Variational inference of fractional Brownian motion with linear computational complexity
-](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.055311)
+](https://arxiv.org/pdf/2203.07961.pdf)
 Hippolyte Verdier, François Laurent, Alhassan Cassé, Christian L. Vestergaard, and Jean-Baptiste Masson
 
 VIII. [Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence](https://www.jmlr.org/papers/volume23/20-442/20-442.pdf)
