@@ -190,6 +190,9 @@ Rasmussen et al
 XXVIII. [Advances in Variational Inference](https://arxiv.org/pdf/1711.05597.pdf)
 IEEE
 
+XXIX. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
+James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
@@ -291,8 +294,11 @@ Mandelbrot, Taylor
 XVI. [Volatility is mostly Path-Dependent](https://cermics.enpc.fr/~guyon/documents/VolatilityIsMostlyPathDependent_Slides_RiO2022_22Aug2022.pdf)
 Julien Guyon, Jordan Lekeufack
 
-XVII [Principal Component Analysis for Nonstationary Series](https://www.nber.org/system/files/working_papers/w32068/w32068.pdf)
+XVII. [Principal Component Analysis for Nonstationary Series](https://www.nber.org/system/files/working_papers/w32068/w32068.pdf)
 NBER, James D. Hamilton, Jin Xi
+
+XVIII. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
+Daniel Kahneman and Amos Tversky
 
 Ergodicity & Diffusion
 ----------------------
@@ -343,15 +349,6 @@ Judea Pearl
 
 IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
 Judea Pearl
-
-Optimization & Utility
-----------------------
-
-I. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
-Daniel Kahneman and Amos Tversky
-
-II. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
-James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
 Sleep & Brain
 -------------
