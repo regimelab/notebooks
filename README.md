@@ -106,6 +106,11 @@ Breaker, L. C., & Carroll, D. (2019), Journal of Geophysical Research
 XXIX. [Historical and future maximum sea surface temperatures](https://www.science.org/doi/10.1126/sciadv.adj5569)
 Science Advances
 
+XXX. [A review of possible pathways of marine microplastics transport in the ocean](https://cdnsciencepub.com/doi/full/10.1139/anc-2018-0030)
+Yanfang Li, Hua Zhang, Cheng Tang
+
+XXXI. [Microplastics in aquatic systems, a comprehensive review: origination, accumulation, impact, and removal technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9531539/)
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
