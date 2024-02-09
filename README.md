@@ -109,7 +109,7 @@ Science Advances
 XXX. [A review of possible pathways of marine microplastics transport in the ocean](https://cdnsciencepub.com/doi/full/10.1139/anc-2018-0030)
 Yanfang Li, Hua Zhang, Cheng Tang
 
-XXXI. [Microplastics in aquatic systems, a comprehensive review: origination, accumulation, impact, and removal technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9531539/)
+XXXI. [Microplastics in aquatic systems, a comprehensive review: origination, accumulation, impact, and removal technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9531539/) Antonio Tursi, Mariafrancesca Baratta, Thomas Easton, Efthalia Chatzisymeon, Francesco Chidichimo, Michele De Biase, Giovanni De Filpo
 
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
