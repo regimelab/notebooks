@@ -204,6 +204,9 @@ IEEE
 XXIX. [Stochastic Optimization](https://www.jhuapl.edu/spsa/comp_stat_handbook_2nd-edition_spall.pdf)
 James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
+XXX. [Bayesian estimation of information-theoretic metrics for sparsely sampled distributions](https://www.sciencedirect.com/science/article/pii/S0960077924001152?via%3Dihub) Angelo Piga, Lluc Font-Pomarol, Marta Sales-Pardo, Roger Guimerà
+
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
