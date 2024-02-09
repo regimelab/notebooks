@@ -257,6 +257,9 @@ Carlos Arturo Soto Campos, Leopoldo Sánchez Cantú, Zeus Hernández Veleros
 XV. [Markov Chains and Metastability](https://refubium.fu-berlin.de/bitstream/handle/fub188/9631/03_chapter3.pdf?sequence=4) 
 FU Berlin
 
+XVI. [Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion](https://npg.copernicus.org/articles/24/481/2017/)
+Jonathan M. Lilly, Adam M. Sykulski, Jeffrey J. Early, Sofia C. Olhede
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
