@@ -111,6 +111,12 @@ Yanfang Li, Hua Zhang, Cheng Tang
 
 XXXI. [Microplastics in aquatic systems, a comprehensive review: origination, accumulation, impact, and removal technologies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9531539/) Antonio Tursi, Mariafrancesca Baratta, Thomas Easton, Efthalia Chatzisymeon, Francesco Chidichimo, Michele De Biase, Giovanni De Filpo
 
+XXXII. [Risks of hydroclimatic regime shifts across the western United States](https://www.nature.com/articles/s41598-019-42692-y)
+Subhrendu Gangopadhyay, Gregory McCabe, Gregory Pederson, Justin Martin & Jeremy S. Littell 
+
+XXXIII. [Turning back from the brink: Detecting an impending regime shift in time to avert it](https://www.pnas.org/doi/full/10.1073/pnas.0811729106)
+Reinette Biggs, Stephen R. Carpenter, William A. Brock
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
