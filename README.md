@@ -117,6 +117,9 @@ Subhrendu Gangopadhyay, Gregory McCabe, Gregory Pederson, Justin Martin & Jeremy
 XXXIII. [Turning back from the brink: Detecting an impending regime shift in time to avert it](https://www.pnas.org/doi/full/10.1073/pnas.0811729106)
 Reinette Biggs, Stephen R. Carpenter, William A. Brock
 
+XXXIV. [Physics-based early warning signal shows that AMOC is on tipping course](https://www.science.org/doi/10.1126/sciadv.adk1189)
+Rene M. Van Westen, Michael Kliphuis, Henk A. Dijkstra
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
