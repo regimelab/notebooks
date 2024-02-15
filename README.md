@@ -466,6 +466,9 @@ Jae-Won Chung, Yile Gu, Insu Jang, Luoxi Meng, Nikhil Bansal, Mosharaf Chowdhury
 II. [Climate change from Large Language Models](https://arxiv.org/pdf/2312.11985.pdf)
 Hongyin Zhu, Prayag Tiwari, IEEE
 
+III. [Estimating the Carbon Footprint of Bloom, A 176B Parameter Language Model](https://arxiv.org/pdf/2211.02001.pdf)
+Alexandra Sasha Luccioni, Sylvain Viguier, Anne-Laure Ligozat
+
 Ideology, Normative beliefs & Morality in LLMs
 ----------------------------------------------
 
