@@ -421,8 +421,8 @@ Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Ra
 II. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
 Gokilavani Chinnasamy, Vanitha S
 
-Chaos, Statistical Mechanics
-----------------------------
+Chaos & Statistical Mechanics
+-----------------------------
 
 I. [Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach](https://link.aps.org/accepted/10.1103/PhysRevLett.120.024102)
 Jaideep Pathak, Brian Hunt, Michelle Girvan, Zhixin Lu, and Edward Ott
@@ -455,5 +455,23 @@ III. [Covariant path integrals for quantum fields back-reacting on classical spa
 Jonathan Oppenheim, Zachary Weller-Davies
 
 IV. [Path integrals and stochastic calculus](https://arxiv.org/pdf/2211.09470.pdf)
-Thibaut Arnoulx de Pireya, Leticia F. Cugliandolob, Vivien Lecomted and Frederic van Wijlande
+Thibaut Arnoulx de Pireya, Leticia F. Cugliandolob, Vivien Lecomted, Frederic van Wijlande
+
+Energy Usage, Climate & ML
+--------------------------
+
+I. [Perseus: Removing Energy Bloat from Large Model Training](https://arxiv.org/abs/2312.06902)
+Jae-Won Chung, Yile Gu, Insu Jang, Luoxi Meng, Nikhil Bansal, Mosharaf Chowdhury
+
+II. [Climate change from Large Language Models](https://arxiv.org/pdf/2312.11985.pdf)
+Hongyin Zhu, Prayag Tiwari, IEEE
+
+Ideology, Normative beliefs & Morality in LLMs
+----------------------------------------------
+
+I. [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324)
+Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei
+
+II. [LLMs Grasp Morality in Concept](https://arxiv.org/pdf/2311.02294.pdf)
+Mark Pock, Andre Ye, Jared Moore
 
