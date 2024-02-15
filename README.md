@@ -475,3 +475,9 @@ Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei
 II. [LLMs Grasp Morality in Concept](https://arxiv.org/pdf/2311.02294.pdf)
 Mark Pock, Andre Ye, Jared Moore
 
+III. [Exploring the psychology of GPT-4's Moral and Legal Reasoning](https://arxiv.org/abs/2308.01264)
+Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Marcelo de Araújo
+
+IV. [Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity](https://arxiv.org/abs/2209.12106)
+Gabriel Simmons
+III
