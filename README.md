@@ -1,9 +1,9 @@
 # Regime Lab 
 
-re·gime 
+re·gime <br/>
 A set of parameter states and a time partition in which a dynamical system has a characteristic behavior that may shift or diffuse away.
 
-![image](https://github.com/regimelab/notebooks/assets/114866071/49bf7a49-5733-49c8-b341-b9ef69ed8661)
+<img src="https://github.com/regimelab/notebooks/assets/114866071/49bf7a49-5733-49c8-b341-b9ef69ed8661" width="64" height="64">
 
 This is a place for EDA (exploratory analysis) notebooks dealing with some concepts in applied math and statistics, dynamical systems, mathematical finance, econometrics, and machine learning. Detecting statistical shifts is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
 
