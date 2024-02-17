@@ -120,6 +120,15 @@ Reinette Biggs, Stephen R. Carpenter, William A. Brock
 XXXIV. [Physics-based early warning signal shows that AMOC is on tipping course](https://www.science.org/doi/10.1126/sciadv.adk1189)
 Rene M. Van Westen, Michael Kliphuis, Henk A. Dijkstra
 
+XXXV. [What is happening in the Atlantic Ocean to the AMOC?](https://www.realclimate.org/index.php/archives/2023/07/what-is-happening-in-the-atlantic-ocean-to-the-amoc/)
+realclimate.org
+
+XXXVI. [Warning of a forthcoming collapse of the Atlantic meridional overturning circulation](https://www.nature.com/articles/s41467-023-39810-w)
+Peter Ditlevsen, Susanne Ditlevsen 
+
+XXXVII. [A Generative Adversarial Network for Climate Tipping Point Discovery (TIP-GAN)](https://arxiv.org/abs/2302.10274)
+Johns Hopkins University Applied Physics Laboratory, Duke University, Jennifer Sleeman, David Chung, Anand Gnanadesikan, Jay Brett, Yannis Kevrekidis, Marisa Hughes, Thomas Haine, Marie-Aude Pradal, Renske Gelderloos, Chace Ashcraft, Caroline Tang, Anshu Saksena, Larry White
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
