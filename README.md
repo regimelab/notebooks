@@ -1,6 +1,6 @@
 # Regime Lab 
 
-A set of parameter states and a time partition in which a dynamical system has a characteristic behavior that may shift or diffuse away.
+A set of parameter values and a time partition when a dynamical system has a characteristic behavior that may shift or diffuse away.
 
 <p align="center">
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
