@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Interesting papers or books about stochastic processes, Gaussian processes, variational inference, causal inference, and ecosystem or climate modeling amongst much more. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
+Interesting papers or books about stochastic processes, Gaussian processes, variational inference, and ecosystem or climate modeling amongst much more. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
@@ -278,6 +278,12 @@ FU Berlin
 XVI. [Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion](https://npg.copernicus.org/articles/24/481/2017/)
 Jonathan M. Lilly, Adam M. Sykulski, Jeffrey J. Early, Sofia C. Olhede
 
+XVII. [Fractional Brownian Motion and Rao Geodesic Distance for Bone X-Ray Image Characterization](https://pubmed.ncbi.nlm.nih.gov/27775545/)
+Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Rachid Jennane
+
+XVIII. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
+Gokilavani Chinnasamy, Vanitha S
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
@@ -382,8 +388,8 @@ Judea Pearl
 IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
 Judea Pearl
 
-Sleep & Brain
--------------
+Sleep, Brain, Health
+--------------------
 
 I. [Wavelet Based Performance Analysis of SVM and RBF Kernel for Classifying Stress Conditions of Sleep EEG](https://romjist.ro/full-texts/paper664.pdf)
 Prabhat Kumar Upadhyay, Chetna Nagpal
@@ -399,6 +405,9 @@ IEEE
 
 V. [Critical slowing down as early warning for the onset and termination of depression](https://www.pnas.org/doi/full/10.1073/pnas.1312114110)
 PNAS
+
+VI. [Dynamic Treatment Regimes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4231831)
+Bibhas Chakraborty, Susan A. Murphy
 
 Microbiome
 ----------
@@ -426,15 +435,6 @@ University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christop
 
 VIII. [Microbiota in health and diseases](https://www.nature.com/articles/s41392-022-00974-4) 
 Signal Transduction and Targeted Therapy, Kaijian Hou, Zhuo-Xun Wu, Xuan-Yu Chen, Jing-Quan Wang, Dongya Zhang, Chuanxing Xiao, Dan Zhu, Jagadish B. Koya, Liuya Wei, Jilin Li & Zhe-Sheng Chen
-
-Medical Image Processing
-------------------------
-
-I. [Fractional Brownian Motion and Rao Geodesic Distance for Bone X-Ray Image Characterization](https://pubmed.ncbi.nlm.nih.gov/27775545/)
-Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Rachid Jennane
-
-II. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
-Gokilavani Chinnasamy, Vanitha S
 
 Chaos & Statistical Mechanics
 -----------------------------
