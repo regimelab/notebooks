@@ -224,6 +224,8 @@ James C. Spall, The Johns Hopkins University, Applied Physics Laboratory
 
 XXX. [Bayesian estimation of information-theoretic metrics for sparsely sampled distributions](https://www.sciencedirect.com/science/article/pii/S0960077924001152?via%3Dihub) Angelo Piga, Lluc Font-Pomarol, Marta Sales-Pardo, Roger Guimerà
 
+XXXI. [Variational Inference for Model-Free and Model-Based Reinforcement Learning](https://arxiv.org/abs/2209.01693)
+Felix Leibfried
 
 fBm & Hurst Effect/Long Memory
 ------------------------------
