@@ -370,7 +370,7 @@ Yonatan Berman, London Mathematical Laboratory, Ole Peters, London Mathematical 
 
 IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigenvalue spectra](https://www.nature.com/articles/s41598-023-27751-9) Scientific Reports, Nature, Wang‐Fang Xu, W. J. Rao
 
-X. [Spectral Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
+X. [Spectral Analysis and L2 Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
 Carnegie Mellon University
 
 Causal Inference
