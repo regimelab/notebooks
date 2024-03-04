@@ -42,7 +42,7 @@ class GPModel(gpytorch.models.ApproximateGP):
         
         self.mean_module = gpytorch.means.ConstantMean()
         kern = gpytorch.kernels.MaternKernel()
-        kern.initialize(lengthscale=1)
+        kern.initialize(lengthscale=2)
         self.covar_module = gpytorch.kernels.ScaleKernel(kern)
         
         C = self.covar_module(
