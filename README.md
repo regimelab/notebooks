@@ -133,6 +133,9 @@ Peter Ditlevsen, Susanne Ditlevsen
 XXXVII. [A Generative Adversarial Network for Climate Tipping Point Discovery (TIP-GAN)](https://arxiv.org/abs/2302.10274)
 Johns Hopkins University Applied Physics Laboratory, Duke University, Jennifer Sleeman, David Chung, Anand Gnanadesikan, Jay Brett, Yannis Kevrekidis, Marisa Hughes, Thomas Haine, Marie-Aude Pradal, Renske Gelderloos, Chace Ashcraft, Caroline Tang, Anshu Saksena, Larry White
 
+XXXVIII. [Predicting changes in bee assemblages following state transitions at North American dryland ecotones](https://www.nature.com/articles/s41598-020-57553-2)
+Melanie R. Kazenel, Karen W. Wright, Julieta Bettinelli, Terry L. Griswold, Kenneth D. Whitney, Jennifer A. Rudgers 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
