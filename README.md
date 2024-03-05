@@ -228,6 +228,9 @@ XXX. [Bayesian estimation of information-theoretic metrics for sparsely sampled 
 XXXI. [Variational Inference for Model-Free and Model-Based Reinforcement Learning](https://arxiv.org/abs/2209.01693)
 Felix Leibfried
 
+XXXII. [Deep Kernel Learning](https://proceedings.mlr.press/v51/wilson16.pdf)
+Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing, CMU, University of Toronto 
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
