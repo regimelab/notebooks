@@ -232,7 +232,7 @@ XXXII. [Deep Kernel Learning](https://proceedings.mlr.press/v51/wilson16.pdf)
 Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing, CMU, University of Toronto 
 
 XXXIII. [Exact Gaussian processes for massive datasets via non-stationary sparsity-discovering kernels](https://www.nature.com/articles/s41598-023-30062-8) 
-Nature
+Nature, Marcus M. Noack, Harinarayan Krishnan, Mark D. Risser & Kristofer G. Reyes 
 
 fBm & Hurst Effect/Long Memory
 ------------------------------
