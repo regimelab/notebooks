@@ -136,6 +136,9 @@ Johns Hopkins University Applied Physics Laboratory, Duke University, Jennifer S
 XXXVIII. [Predicting changes in bee assemblages following state transitions at North American dryland ecotones](https://www.nature.com/articles/s41598-020-57553-2)
 Melanie R. Kazenel, Karen W. Wright, Julieta Bettinelli, Terry L. Griswold, Kenneth D. Whitney, Jennifer A. Rudgers 
 
+XXXIX. [In places most prone to wildfires and hurricanes, state “insurers of last resort” are absorbing trillions of dollars in risk](https://www.bloomberg.com/features/2024-home-insurance-real-estate-crisis)
+Bloomberg
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
