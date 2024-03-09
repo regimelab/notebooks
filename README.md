@@ -400,6 +400,9 @@ Judea Pearl
 IV. [Causality: Models, Reasoning, and Inference](http://bayes.cs.ucla.edu/BOOK-2K/neuberg-review.pdf)
 Judea Pearl
 
+V. [Measuring Cause-Effect with the Distribution of the Largest Eigenvalue](https://arxiv.org/abs/2307.04953)
+Alejandro Rodriguez Dominguez, Irving Ramirez Carrillo, David Parraga Riquelme
+
 Sleep, Brain, Health
 --------------------
 
