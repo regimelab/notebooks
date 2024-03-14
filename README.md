@@ -353,6 +353,9 @@ NBER, James D. Hamilton, Jin Xi
 XVIII. [Prospect Theory: An Analysis of Decision under Risk](https://www.uzh.ch/cmsssl/suz/dam/jcr:00000000-64a0-5b1c-0000-00003b7ec704/10.05-kahneman-tversky-79.pdf)
 Daniel Kahneman and Amos Tversky
 
+XIX. [Time-Varying Gaussian-Cauchy Mixture Models for Financial Risk Management](https://arxiv.org/pdf/2002.06102.pdf)
+Shuguang Zhang, Minjing Tao, Xu-Feng Niu, Fred Huffer, Department of Statistics, Florida State University
+
 Ergodicity & Diffusion
 ----------------------
 
