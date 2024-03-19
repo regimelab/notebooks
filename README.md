@@ -237,6 +237,9 @@ Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing, CMU, Unive
 XXXIII. [Exact Gaussian processes for massive datasets via non-stationary sparsity-discovering kernels](https://www.nature.com/articles/s41598-023-30062-8) 
 Nature, Marcus M. Noack, Harinarayan Krishnan, Mark D. Risser & Kristofer G. Reyes 
 
+XXXIV. [Non-Stationary Spectral Kernels](https://arxiv.org/abs/1705.08736)
+Sami Remes, Markus Heinonen, Samuel Kaski
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
