@@ -139,6 +139,9 @@ Melanie R. Kazenel, Karen W. Wright, Julieta Bettinelli, Terry L. Griswold, Kenn
 XXXIX. [In places most prone to wildfires and hurricanes, state “insurers of last resort” are absorbing trillions of dollars in risk](https://www.bloomberg.com/features/2024-home-insurance-real-estate-crisis)
 Bloomberg
 
+XXXX. [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
+Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
