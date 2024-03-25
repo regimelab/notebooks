@@ -243,6 +243,9 @@ Nature, Marcus M. Noack, Harinarayan Krishnan, Mark D. Risser & Kristofer G. Rey
 XXXIV. [Non-Stationary Spectral Kernels](https://arxiv.org/abs/1705.08736)
 Sami Remes, Markus Heinonen, Samuel Kaski
 
+XXXV. [Residual Diffusion Modeling for Km-scale Atmospheric Downscaling](https://arxiv.org/abs/2309.15214)
+Morteza Mardani, Noah Brenowitz, Yair Cohen, Jaideep Pathak, Chieh-Yu Chen, Cheng-Chin Liu, Arash Vahdat, Karthik Kashinath, Jan Kautz, Mike Pritchard
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
