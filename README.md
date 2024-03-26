@@ -463,6 +463,9 @@ University of Chicago Press, John Guittar, Thomas Koffel, Ashley Shade, Christop
 VIII. [Microbiota in health and diseases](https://www.nature.com/articles/s41392-022-00974-4) 
 Signal Transduction and Targeted Therapy, Kaijian Hou, Zhuo-Xun Wu, Xuan-Yu Chen, Jing-Quan Wang, Dongya Zhang, Chuanxing Xiao, Dan Zhu, Jagadish B. Koya, Liuya Wei, Jilin Li & Zhe-Sheng Chen
 
+IX. [Gut microbiome diversity is associated with sleep physiology in humans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6779243/)
+National Library of Medicine
+
 Chaos & Statistical Mechanics
 -----------------------------
 
