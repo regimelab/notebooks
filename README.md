@@ -246,6 +246,9 @@ Sami Remes, Markus Heinonen, Samuel Kaski
 XXXV. [Residual Diffusion Modeling for Km-scale Atmospheric Downscaling](https://arxiv.org/abs/2309.15214)
 Morteza Mardani, Noah Brenowitz, Yair Cohen, Jaideep Pathak, Chieh-Yu Chen, Cheng-Chin Liu, Arash Vahdat, Karthik Kashinath, Jan Kautz, Mike Pritchard
 
+XXXVI. [Attention is All You Need](https://arxiv.org/abs/1706.03762)
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
