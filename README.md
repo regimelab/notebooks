@@ -418,6 +418,9 @@ Judea Pearl
 V. [Measuring Cause-Effect with the Distribution of the Largest Eigenvalue](https://arxiv.org/abs/2307.04953)
 Alejandro Rodriguez Dominguez, Irving Ramirez Carrillo, David Parraga Riquelme
 
+VI. [On the top eigenvalue of heavy-tailed random matrices](https://arxiv.org/abs/cond-mat/0609070v1)
+Giulio Biroli, Jean-Philippe Bouchaud, Marc Potters
+
 Sleep, Brain, Health
 --------------------
 
