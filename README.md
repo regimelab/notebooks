@@ -142,6 +142,9 @@ Bloomberg
 XXXX. [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
 Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel 
 
+XXXXI. [GraphCast AI Model for Weather Forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
+DeepMind
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
