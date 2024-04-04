@@ -1,4 +1,4 @@
-# Regime Lab 
+# Notebooks
 
 This is a place for EDA (exploratory analysis) notebooks dealing with some concepts in applied math and statistics, dynamical systems, mathematical finance, econometrics, and machine learning. Detecting statistical shifts is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
 
