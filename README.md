@@ -311,6 +311,9 @@ Mohammed El Hassouni, Abdessamad Tafraouti, Hechmi Toumi, Eric Lespessailles, Ra
 XVIII. [Fractional brownian motion and fractal analysis of brain mri images: A review](https://www.allresearchjournal.com/archives/2015/vol1issue3/PartA/75.1-573.pdf)
 Gokilavani Chinnasamy, Vanitha S
 
+XIX. [A Multifractal Model of Asset Returns](https://users.math.yale.edu/~bbm3/web_pdfs/Cowles1164.pdf)
+Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
