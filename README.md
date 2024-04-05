@@ -427,6 +427,17 @@ Alejandro Rodriguez Dominguez, Irving Ramirez Carrillo, David Parraga Riquelme
 VI. [On the top eigenvalue of heavy-tailed random matrices](https://arxiv.org/abs/cond-mat/0609070v1)
 Giulio Biroli, Jean-Philippe Bouchaud, Marc Potters
 
+VII. [Variable-lag Granger Causality for Time Series Analysis](https://arxiv.org/pdf/1912.10829.pdf)
+Chainarong Amornbunchornvej, Elena Zheleva, Tanya Y. Berger-Wolf
+
+VIII. [Post-COVID Inflation & the Monetary Policy Dilemma: An Agent-Based Scenario Analysis](https://arxiv.org/pdf/2306.01284.pdf)
+
+IX. [Causal Effects of Monetary Shocks](https://economics.mit.edu/sites/default/files/publications/Causal%20Effects%20of%20Monetary%20Shocks%20%20Semiparametric%20.pdf)
+Joshua D. Angrist, Guido M. Kuersteiner
+
+X. [Expectations, lags, and the transmission of monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/february/expectations-lags-and-the-transmission-of-monetary-policy-speech-by-catherine-l-mann.pdf?la=en&hash=E2FA96CE6649CFDE921D586594258D198C55E932)
+Catherine L. Mann
+
 Sleep, Brain, Health
 --------------------
 
