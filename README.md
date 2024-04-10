@@ -20,7 +20,13 @@ Further Reading & Inspiration
 
 Interesting papers or books about stochastic processes, Gaussian processes, variational inference, and ecosystem or climate modeling amongst much more. The first section emphasizes models influenced by statistical physics/mechanics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics and early warning signals for critical transitions. 
 
-** Definitely have NOT read all these, but I find them all interesting and want to follow-up ** 
+** I have not read all of these, but I find them all interesting and want to follow-up ** 
+
+Business Cycles
+---------------
+
+I. [The Recession and Recovery of 1973-1976]https://www.nber.org/system/files/chapters/c9101/c9101.pdf
+NBER 
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
