@@ -20,15 +20,6 @@ Further Reading & Inspiration
 
 ** Have NOT read all of these, but want to keep them for follow-up ** 
 
-Business Cycles
----------------
-
-I. [The Recession and Recovery of 1973-1976](https://www.nber.org/system/files/chapters/c9101/c9101.pdf)
-NBER 
-
-II. [The Anatomy of Double-digit Inflation in the 1970s](https://www.nber.org/system/files/chapters/c11462/c11462.pdf)
-NBER 
-
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
 
@@ -325,6 +316,15 @@ Gokilavani Chinnasamy, Vanitha S
 
 XIX. [A Multifractal Model of Asset Returns](https://users.math.yale.edu/~bbm3/web_pdfs/Cowles1164.pdf)
 Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
+
+Business Cycles
+---------------
+
+I. [The Recession and Recovery of 1973-1976](https://www.nber.org/system/files/chapters/c9101/c9101.pdf)
+NBER 
+
+II. [The Anatomy of Double-digit Inflation in the 1970s](https://www.nber.org/system/files/chapters/c11462/c11462.pdf)
+NBER 
 
 Mathematical Finance, Econometrics
 ----------------------------------
