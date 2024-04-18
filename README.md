@@ -154,6 +154,9 @@ Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel
 XXXXI. [GraphCast AI Model for Weather Forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 DeepMind
 
+XXXXII. [Where are the Coexisting Parallel Climates?](https://pubs.aip.org/aip/cha/article/33/3/031104/2881120/Where-are-the-coexisting-parallel-climates-Large)
+M. Herein, T. Tél, T. Haszpra 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
