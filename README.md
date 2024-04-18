@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-** Have NOT read all of these, but want to keep them for follow-up ** 
+Haven't read all of these but want to keep them for follow-up. 
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
