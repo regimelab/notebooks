@@ -275,7 +275,7 @@ V. [On the continuing relevance of Mandelbrot’s non-ergodic fractional renewal
 Nicholas W. Watkins, Centre for the Analysis of Time Series, London School of Economics and Political Science, London, UK, Centre for Fusion, Space and Astrophysics, University of Warwick, Coventry, UK, Faculty of Science, Technology, Engineering and Mathematics, Open University, Milton Keynes, UK
 
 VI. [The Zumbach effect under rough Heston](https://arxiv.org/pdf/1809.02098.pdf)
-Radoˇs Radoiˇci´c,, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
+Rados Radoicic, Mathieu Rosenbaum, Omar El Euch, Jim Gatheral, Baruch College, CUNY, Ecole Polytechnique
 
 VII. [Variational inference of fractional Brownian motion with linear computational complexity
 ](https://arxiv.org/pdf/2203.07961.pdf)
