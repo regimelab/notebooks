@@ -1,6 +1,6 @@
 # Notebooks
 
-This is a place for EDA notebooks dealing with some concepts in applied math and statistics, dynamical systems, mathematical finance, econometrics, and machine learning. Detecting statistical shifts is a worthy enterprise for the purpose of monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
+This is a place for EDA notebooks dealing with some concepts in applied math and statistics, dynamical systems, mathematical finance, econometrics, and machine learning. Detecting statistical shifts is important for monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
 
 <p align="center">
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
