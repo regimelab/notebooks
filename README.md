@@ -1,5 +1,7 @@
 # Regime Lab Notebooks
 
+This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. 
+
 Detecting statistical shifts is important for monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
 
 <p align="center">
