@@ -1,4 +1,4 @@
-# Regime Lab Notebooks
+# Regime Lab 
 
 This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. 
 
