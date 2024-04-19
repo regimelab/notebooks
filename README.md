@@ -6,7 +6,7 @@ This is a place for EDA notebooks dealing with some concepts in applied math and
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
 </p>
 
-<b>What are regimes?</b><br/>
+<b>What are Data Regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
 
 <b>Ergodic vs non-Ergodic Regimes</b><br/>
