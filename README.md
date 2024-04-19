@@ -18,7 +18,9 @@ https://en.wikipedia.org/wiki/Regime_shift
 Further Reading & Inspiration
 -----------------------------
 
-Haven't read all of these but want to keep them for follow-up. 
+The first section emphasizes models influenced by statistical physics in relation to state transitions: ideas about hysteresis, irreversibility in the dynamics, and critical transitions in climate or ecological systems. This is relevant across domains such as climate change, biodiversity loss in ecosystems, supply chains, mental health & addiction treatment, and much more. 
+
+Have not read all of these papers but want to keep them for follow-up.
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
