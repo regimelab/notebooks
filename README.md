@@ -11,7 +11,7 @@ Detecting statistical shifts is important for monitoring stability in production
 <b>What are Regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
 
-<b>Ergodic vs non-Ergodic Regimes</b><br/>
+<b>Ergodicity</b><br/>
 https://regimelab.substack.com/p/ergodic-regimes
 
 <b>Wikipedia</b><br/>
