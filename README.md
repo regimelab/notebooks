@@ -152,6 +152,9 @@ DeepMind
 XXXXII. [Where are the Coexisting Parallel Climates?](https://pubs.aip.org/aip/cha/article/33/3/031104/2881120/Where-are-the-coexisting-parallel-climates-Large)
 M. Herein, T. Tél, T. Haszpra 
 
+XXXXIII. [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
+NASA 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
