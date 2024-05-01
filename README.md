@@ -262,6 +262,9 @@ Morteza Mardani, Noah Brenowitz, Yair Cohen, Jaideep Pathak, Chieh-Yu Chen, Chen
 XXXVI. [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin
 
+XXXVII. [Annealed Importance Sampling](https://arxiv.org/pdf/physics/9803008)
+Radford M. Neal
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
