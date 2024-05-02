@@ -1,8 +1,4 @@
 <p align="center">
-<span style="font-size: x-large;"Characteristic Behaviors of Dynamical Systems</span>
-</p>
-
-<p align="center">
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
 </p>
 
