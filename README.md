@@ -1,4 +1,4 @@
-<p align="center" style="font-size:14px">
+<p align="center" style="font-size:14px;">
 Characteristic Behaviors of Dynamical Systems 
 </p>
 
