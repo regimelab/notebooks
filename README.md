@@ -1,12 +1,19 @@
-# Regime Lab 
+# Characteristic Behaviors of Dynamical Systems 
 
-This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. 
-
-Detecting statistical shifts is important for monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
+<center>
+Econometrics | Political economy | Philosophy | Business cycles | Dynamical systems
+</center>
 
 <p align="center">
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
 </p>
+
+This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. This overlaps with generative modeling as well as statistical physics. 
+
+Detecting statistical shifts is important for monitoring stability in production data pipelines. Regime shifts are additionally a feature of many natural and physical phenomena worth modeling in themselves. 
+
+Blog
+----
 
 <b>What are Regimes?</b><br/>
 https://regimelab.substack.com/p/what-are-regimes
@@ -14,7 +21,8 @@ https://regimelab.substack.com/p/what-are-regimes
 <b>Ergodicity</b><br/>
 https://regimelab.substack.com/p/ergodic-regimes
 
-<b>Wikipedia</b><br/>
+Wikipedia
+---------
 https://en.wikipedia.org/wiki/Regime_shift
 
 Further Reading & Inspiration
