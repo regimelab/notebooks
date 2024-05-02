@@ -1,8 +1,8 @@
 # Characteristic Behaviors of Dynamical Systems 
 
-<center>
-Econometrics | Political economy | Philosophy | Business cycles | Dynamical systems
-</center>
+<p align="center"><b>
+Econometrics | Political Economy | Philosophy | Business Cycles | Dynamical Systems
+</b></p>
 
 <p align="center">
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
