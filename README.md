@@ -1,5 +1,5 @@
 <p align="center">
-<div style="font-size: x-large;"Characteristic Behaviors of Dynamical Systems</div>
+<span style="font-size: x-large;"Characteristic Behaviors of Dynamical Systems</span>
 </p>
 
 <p align="center">
