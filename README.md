@@ -1,5 +1,5 @@
-<p align="center">
-# Characteristic Behaviors of Dynamical Systems 
+<p align="center" size=4>
+Characteristic Behaviors of Dynamical Systems 
 </p>
 
 <p align="center">
