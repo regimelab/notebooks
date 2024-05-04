@@ -334,14 +334,17 @@ Gokilavani Chinnasamy, Vanitha S
 XIX. [A Multifractal Model of Asset Returns](https://users.math.yale.edu/~bbm3/web_pdfs/Cowles1164.pdf)
 Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
 
-Business Cycles
----------------
+Business Cycle Data
+-------------------
 
 I. [The Recession and Recovery of 1973-1976](https://www.nber.org/system/files/chapters/c9101/c9101.pdf)
 NBER 
 
 II. [The Anatomy of Double-digit Inflation in the 1970s](https://www.nber.org/system/files/chapters/c11462/c11462.pdf)
 NBER 
+
+III. [FRED-MD: A Monthly Database for Macroeconomic Research](https://research.stlouisfed.org/wp/more/2015-012)
+St. Louis Fed 
 
 Mathematical Finance, Econometrics
 ----------------------------------
