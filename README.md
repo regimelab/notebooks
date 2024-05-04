@@ -159,6 +159,9 @@ M. Herein, T. Tél, T. Haszpra
 XXXXIII. [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
 NASA 
 
+XXXXIV. [Climate Feedback Loops Project](https://scientistswarning.forestry.oregonstate.edu/climate_feedbacks)
+Oregon State University 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
