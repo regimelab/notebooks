@@ -162,6 +162,9 @@ NASA
 XXXXIV. [Climate Feedback Loops Project](https://scientistswarning.forestry.oregonstate.edu/climate_feedbacks)
 Oregon State University 
 
+XXXXV. [Coastal Risk Index](https://oceanriskalliance.org/project/the-coastal-risk-index/)
+ORRAA 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
