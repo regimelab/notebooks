@@ -6,7 +6,7 @@ Econometrics | Political Economy | Philosophy | Business Cycles | Dynamical Syst
 <img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
 </p>
 
-This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. Detecting statistical shifts or structural breaks in data is important for monitoring stability in production data pipelines. Regime shifts in the sense of dynamical systems are additionally a feature of many natural and physical phenomena worth modeling in themselves. Insights from statistical physics have also been instrumental in the development of generative modeling and synthetic data generation (Generative AI). 
+This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. Detecting statistical shifts or structural breaks in data is important for monitoring stability in production data pipelines. Regime shifts in dynamical physical systems are additionally a feature of many natural and physical phenomena worth modeling in themselves. Insights from statistical physics, e.g. non-equilibrium thermodynamics, have also been instrumental in the development of generative modeling and synthetic data modeling or generative "AI".  
 
 Blog
 ----
