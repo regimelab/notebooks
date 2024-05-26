@@ -409,6 +409,9 @@ Daniel Kahneman and Amos Tversky
 XIX. [Time-Varying Gaussian-Cauchy Mixture Models for Financial Risk Management](https://arxiv.org/pdf/2002.06102.pdf)
 Shuguang Zhang, Minjing Tao, Xu-Feng Niu, Fred Huffer, Department of Statistics, Florida State University
 
+XX. [Noise](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1986.tb04513.x)
+Fischer Black 
+
 Ergodicity & Diffusion
 ----------------------
 
