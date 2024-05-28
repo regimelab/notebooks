@@ -337,8 +337,8 @@ Gokilavani Chinnasamy, Vanitha S
 XIX. [A Multifractal Model of Asset Returns](https://users.math.yale.edu/~bbm3/web_pdfs/Cowles1164.pdf)
 Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
 
-Business Cycle Data
--------------------
+Inflation Cycles, Monetary & Fiscal Policy
+------------------------------------------
 
 I. [The Recession and Recovery of 1973-1976](https://www.nber.org/system/files/chapters/c9101/c9101.pdf)
 NBER 
@@ -348,6 +348,9 @@ NBER
 
 III. [FRED-MD: A Monthly Database for Macroeconomic Research](https://research.stlouisfed.org/wp/more/2015-012)
 St. Louis Fed 
+
+IV. [Fiscal Dominance](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-040.pdf)
+St. Louis Fed, Fernando M. Martin 
 
 Mathematical Finance, Econometrics
 ----------------------------------
