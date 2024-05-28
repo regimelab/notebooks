@@ -361,6 +361,9 @@ Dallas Fed
 VII. [Fiscal Policy in the Shadow of the Great Depression](https://www.nber.org/system/files/chapters/c6888/c6888.pdf)
 NBER
 
+VIII. [Classification of monetary and fiscal dominance regimes using machine learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000623)
+Natascha Hinterlang, Josef Hollmayr
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
