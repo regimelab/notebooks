@@ -352,6 +352,15 @@ St. Louis Fed
 IV. [Fiscal Dominance](https://s3.amazonaws.com/real.stlouisfed.org/wp/2020/2020-040.pdf)
 St. Louis Fed, Fernando M. Martin 
 
+V. [Fiscal Dominance and the Return of Zero-Interest Bank Reserve Requirements](https://files.stlouisfed.org/files/htdocs/publications/review/2023/10/02/fiscal-dominance-and-the-return-of-zero-interest-bank-reserve-requirements.pdf)
+St. Louis Fed
+
+VI. [Seigniorage Revenue and Monetary Policy](https://www.dallasfed.org/~/media/documents/research/er/1998/er9803b.pdf)
+Dallas Fed
+
+VII. [Fiscal Policy in the Shadow of the Great Depression](https://www.nber.org/system/files/chapters/c6888/c6888.pdf)
+NBER
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
