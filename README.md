@@ -592,7 +592,9 @@ Guilherme F. C. F. Almeida, José Luiz Nunes, Neele Engelmann, Alex Wiegmann, Ma
 
 IV. [Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity](https://arxiv.org/abs/2209.12106)
 Gabriel Simmons
-III
 
 V. [Who Are All The Stochastic Parrots Imitating? They Should Tell Us!](https://arxiv.org/abs/2310.10583)
 Sagi Shaier, Lawrence E. Hunter, Katharina von der Wense
+
+VI. [Do large language models have a legal duty to tell the truth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4771884)
+Sandra Wachter, Brent Mittelstadt, Chris Russell
