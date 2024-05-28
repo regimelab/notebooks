@@ -587,8 +587,8 @@ Hongyin Zhu, Prayag Tiwari, IEEE
 III. [Estimating the Carbon Footprint of Bloom, A 176B Parameter Language Model](https://arxiv.org/pdf/2211.02001.pdf)
 Alexandra Sasha Luccioni, Sylvain Viguier, Anne-Laure Ligozat
 
-Ideology, Normative beliefs & Morality in LLMs
-----------------------------------------------
+LLMs & AI
+---------
 
 I. [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324)
 Nino Scherrer, Claudia Shi, Amir Feder, David M. Blei
@@ -607,3 +607,7 @@ Sagi Shaier, Lawrence E. Hunter, Katharina von der Wense
 
 VI. [Do large language models have a legal duty to tell the truth?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4771884)
 Sandra Wachter, Brent Mittelstadt, Chris Russell
+
+VII. [The Simple Macroeconomics of AI](https://www.nber.org/papers/w32487)
+Daron Acemoglu
+
