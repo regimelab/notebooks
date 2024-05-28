@@ -427,6 +427,9 @@ Shuguang Zhang, Minjing Tao, Xu-Feng Niu, Fred Huffer, Department of Statistics,
 XX. [Noise](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.1986.tb04513.x)
 Fischer Black 
 
+XXI. [Risk Revisited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825844)
+Xindi He, Yucheng Liang
+
 Ergodicity & Diffusion
 ----------------------
 
