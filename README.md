@@ -278,6 +278,9 @@ Radford M. Neal
 XXXVIII. [Reality Only Happens Once: Single-Path Generalization Bounds for Transformers](https://arxiv.org/abs/2405.16563)
 Yannick Limmer, Anastasis Kratsios, Xuwei Yang, Raeid Saqur, Blanka Horvath
 
+XXXIX. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
+Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
