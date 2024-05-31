@@ -275,6 +275,9 @@ Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N
 XXXVII. [Annealed Importance Sampling](https://arxiv.org/pdf/physics/9803008)
 Radford M. Neal
 
+XXXVIII. [Reality Only Happens Once: Single-Path Generalization Bounds for Transformers](https://arxiv.org/abs/2405.16563)
+Yannick Limmer, Anastasis Kratsios, Xuwei Yang, Raeid Saqur, Blanka Horvath
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
