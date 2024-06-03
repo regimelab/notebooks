@@ -436,6 +436,9 @@ Fischer Black
 XXI. [Risk Revisited](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4825844)
 Xindi He, Yucheng Liang
 
+XXII. [A Geometric Approach to Asset Allocation with Investor Views](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840636)
+Alexandre Antonov, Koushik Balasubramanian, Alex Lipton, Marcos Lopez de Prado
+
 Ergodicity & Diffusion
 ----------------------
 
