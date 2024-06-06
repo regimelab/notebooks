@@ -165,6 +165,9 @@ Oregon State University
 XXXXV. [Coastal Risk Index](https://oceanriskalliance.org/project/the-coastal-risk-index/)
 ORRAA 
 
+XXXXVI. [Monterey Sardine Story](https://swfsc-publications.fisheries.noaa.gov/publications/CR/2000/2000ParrR2.pdf)
+Richard H. Parrish, Pacific Fisheries Environmental Group, National Marine Service 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
