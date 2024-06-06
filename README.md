@@ -168,6 +168,9 @@ ORRAA
 XXXXVI. [Monterey Sardine Story](https://swfsc-publications.fisheries.noaa.gov/publications/CR/2000/2000ParrR2.pdf)
 Richard H. Parrish, Pacific Fisheries Environmental Group, National Marine Service 
 
+XXXXVII. [The rise and fall of the California sardine empire](https://swfsc-publications.fisheries.noaa.gov/publications/CR/1992/92104.PDF)
+Edward Ueber, Alec MacCall
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
