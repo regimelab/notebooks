@@ -378,6 +378,9 @@ NBER
 VIII. [Classification of monetary and fiscal dominance regimes using machine learning techniques](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000623)
 Natascha Hinterlang, Josef Hollmayr
 
+IX. [An Analysis of Pandemic-Era Inflation in 11 Economies](https://www.nber.org/papers/w32532)
+Olivier J. Blanchard, Ben S. Bernanke
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
