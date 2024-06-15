@@ -149,29 +149,32 @@ Melanie R. Kazenel, Karen W. Wright, Julieta Bettinelli, Terry L. Griswold, Kenn
 XXXIX. [In places most prone to wildfires and hurricanes, state “insurers of last resort” are absorbing trillions of dollars in risk](https://www.bloomberg.com/features/2024-home-insurance-real-estate-crisis)
 Bloomberg
 
-XXXX. [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
+XL. [Global warming and heat extremes to enhance inflationary pressures](https://www.nature.com/articles/s43247-023-01173-x)
 Maximilian Kotz, Friderike Kuik, Eliza Lis, Christiane Nickel 
 
-XXXXI. [GraphCast AI Model for Weather Forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
+XLI. [GraphCast AI Model for Weather Forecasting](https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/)
 DeepMind
 
-XXXXII. [Where are the Coexisting Parallel Climates?](https://pubs.aip.org/aip/cha/article/33/3/031104/2881120/Where-are-the-coexisting-parallel-climates-Large)
+XLII. [Where are the Coexisting Parallel Climates?](https://pubs.aip.org/aip/cha/article/33/3/031104/2881120/Where-are-the-coexisting-parallel-climates-Large)
 M. Herein, T. Tél, T. Haszpra 
 
-XXXXIII. [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
+XLIII. [The Ocean Has a Fever](https://earthobservatory.nasa.gov/images/151743/the-ocean-has-a-fever)
 NASA 
 
-XXXXIV. [Climate Feedback Loops Project](https://scientistswarning.forestry.oregonstate.edu/climate_feedbacks)
+XLIV. [Climate Feedback Loops Project](https://scientistswarning.forestry.oregonstate.edu/climate_feedbacks)
 Oregon State University 
 
-XXXXV. [Coastal Risk Index](https://oceanriskalliance.org/project/the-coastal-risk-index/)
+XLV. [Coastal Risk Index](https://oceanriskalliance.org/project/the-coastal-risk-index/)
 ORRAA 
 
-XXXXVI. [Monterey Sardine Story](https://swfsc-publications.fisheries.noaa.gov/publications/CR/2000/2000ParrR2.pdf)
+XLVI. [Monterey Sardine Story](https://swfsc-publications.fisheries.noaa.gov/publications/CR/2000/2000ParrR2.pdf)
 Richard H. Parrish, Pacific Fisheries Environmental Group, National Marine Service 
 
-XXXXVII. [The rise and fall of the California sardine empire](https://swfsc-publications.fisheries.noaa.gov/publications/CR/1992/92104.PDF)
+XLVII. [The rise and fall of the California sardine empire](https://swfsc-publications.fisheries.noaa.gov/publications/CR/1992/92104.PDF)
 Edward Ueber, Alec MacCall
+
+XLVIII. [Decades of Data on a Changing Atlantic Circulation](https://www.ncei.noaa.gov/news/decades-data-changing-atlantic-circulation)
+NOAA
 
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
