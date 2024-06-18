@@ -176,6 +176,9 @@ Edward Ueber, Alec MacCall
 XLVIII. [Decades of Data on a Changing Atlantic Circulation](https://www.ncei.noaa.gov/news/decades-data-changing-atlantic-circulation)
 NOAA
 
+XLIX. [Climate Change and Monetary Policy](https://www.imf.org/en/Publications/fandd/issues/2021/09/isabel-schnabel-ECB-climate-change)
+IMF
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
