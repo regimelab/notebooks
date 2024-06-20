@@ -182,6 +182,9 @@ IMF
 L. [Critical transitions in the Amazon forest system](https://www.nature.com/articles/s41586-023-06970-0)
 Bernardo M. Flores, Encarni Montoya, Boris Sakschewski, Nathália Nascimento, Arie Staal, Richard A. Betts, Carolina Levis, David M. Lapola, Adriane Esquível-Muelbert, Catarina Jakovac, Carlos A. Nobre, Rafael S. Oliveira, Laura S. Borma, Da Nian, Niklas Boers, Susanna B. Hecht, Hans ter Steege, Julia Arieira, Isabella L. Lucas, Erika Berenguer, José A. Marengo, Luciana V. Gatti, Caio R. C. Mattos & Marina Hirota 
 
+LI. [Climate regime shift and forest loss amplify fire in Amazonian forests](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15279)
+Xiyan Xu, Gensuo Jia, Xiaoyan Zhang, William J. Riley, Ying Xue
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
