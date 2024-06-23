@@ -649,3 +649,14 @@ Sandra Wachter, Brent Mittelstadt, Chris Russell
 VII. [The Simple Macroeconomics of AI](https://www.nber.org/papers/w32487)
 Daron Acemoglu
 
+Degrowth
+--------
+
+I. [Growth, degrowth, and the challenge of artificial superintelligence](https://arxiv.org/abs/1905.04288)
+Salvador Pueyo
+
+II. [Ecological Econophysics for Degrowth](https://www.mdpi.com/2071-1050/6/6/3431)
+Salvador Pueyo
+
+III. [Do Mature Economies Grow Exponentially?](https://arxiv.org/pdf/1601.04028)
+Georg August University Gottingen, Hamburg University
