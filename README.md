@@ -185,6 +185,9 @@ Bernardo M. Flores, Encarni Montoya, Boris Sakschewski, Nathália Nascimento, Ar
 LI. [Climate regime shift and forest loss amplify fire in Amazonian forests](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15279)
 Xiyan Xu, Gensuo Jia, Xiaoyan Zhang, William J. Riley, Ying Xue
 
+LII. [Time, Irreversibility and Entropy Production in Nonequilibrium System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7517493/)
+Umberto Lucia, Giulia Grisolia, Alexander L. Kuzemsky
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
