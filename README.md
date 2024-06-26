@@ -402,6 +402,15 @@ Natascha Hinterlang, Josef Hollmayr
 IX. [An Analysis of Pandemic-Era Inflation in 11 Economies](https://www.nber.org/papers/w32532)
 Olivier J. Blanchard, Ben S. Bernanke
 
+X. [Post-COVID Inflation & the Monetary Policy Dilemma: An Agent-Based Scenario Analysis](https://arxiv.org/pdf/2306.01284.pdf)
+Max Sina Knicker1, Karl Naumann-Woleske, Jean-Philippe Bouchaud, Francesco Zamponi
+
+XI. [Causal Effects of Monetary Shocks](https://economics.mit.edu/sites/default/files/publications/Causal%20Effects%20of%20Monetary%20Shocks%20%20Semiparametric%20.pdf)
+Joshua D. Angrist, Guido M. Kuersteiner
+
+XII. [Expectations, lags, and the transmission of monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/february/expectations-lags-and-the-transmission-of-monetary-policy-speech-by-catherine-l-mann.pdf?la=en&hash=E2FA96CE6649CFDE921D586594258D198C55E932)
+Catherine L. Mann
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
@@ -526,14 +535,6 @@ Giulio Biroli, Jean-Philippe Bouchaud, Marc Potters
 
 VII. [Variable-lag Granger Causality for Time Series Analysis](https://arxiv.org/pdf/1912.10829.pdf)
 Chainarong Amornbunchornvej, Elena Zheleva, Tanya Y. Berger-Wolf
-
-VIII. [Post-COVID Inflation & the Monetary Policy Dilemma: An Agent-Based Scenario Analysis](https://arxiv.org/pdf/2306.01284.pdf)
-
-IX. [Causal Effects of Monetary Shocks](https://economics.mit.edu/sites/default/files/publications/Causal%20Effects%20of%20Monetary%20Shocks%20%20Semiparametric%20.pdf)
-Joshua D. Angrist, Guido M. Kuersteiner
-
-X. [Expectations, lags, and the transmission of monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/february/expectations-lags-and-the-transmission-of-monetary-policy-speech-by-catherine-l-mann.pdf?la=en&hash=E2FA96CE6649CFDE921D586594258D198C55E932)
-Catherine L. Mann
 
 Sleep, Brain, Health
 --------------------
