@@ -512,6 +512,9 @@ IX. [Non-ergodic extended regime in random matrix ensembles: insights from eigen
 X. [Spectral Analysis and L2 Ergodicity](https://www.stat.cmu.edu/~cshalizi/754/notes/lecture-22.pdf)
 Carnegie Mellon University
 
+XI. [Anomalous diffusion and ergodicity breaking in heterogeneous diffusion processes](https://arxiv.org/abs/1303.5533)
+Andrey G. Cherstvy, Aleksei V. Chechkin, Ralf Metzler
+
 Causal Inference
 ----------------
 
