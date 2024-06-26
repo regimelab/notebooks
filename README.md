@@ -613,8 +613,8 @@ Non-equilibrium Thermodynamics
 I. [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y)
 Miguel Aguilera, Masanao Igarashi, Hideaki Shimazaki 
 
-II. [Nonequilibrium Thermodynamics in Biochemical Systems and Its Application](
-Dongliang Zhang1, Qi Ouyang
+II. [Nonequilibrium Thermodynamics in Biochemical Systems and Its Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996154/)
+Dongliang Zhang, Qi Ouyang
 
 Path Integrals
 --------------
