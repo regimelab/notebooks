@@ -607,6 +607,15 @@ Edward Norton Lorenz
 VI. [Designing Chaotic Models](https://journals.ametsoc.org/view/journals/atsc/62/5/jas3430.1.xml?tab_body=pdf)
 Edward Norton Lorenz 
 
+Non-equilibrium Thermodynamics
+------------------------------
+
+I. [Nonequilibrium thermodynamics of the asymmetric Sherrington-Kirkpatrick model](https://www.nature.com/articles/s41467-023-39107-y)
+Miguel Aguilera, Masanao Igarashi, Hideaki Shimazaki 
+
+II. [Nonequilibrium Thermodynamics in Biochemical Systems and Its Application](
+Dongliang Zhang1, Qi Ouyang
+
 Path Integrals
 --------------
 
