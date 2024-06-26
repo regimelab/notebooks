@@ -616,6 +616,9 @@ Miguel Aguilera, Masanao Igarashi, Hideaki Shimazaki
 II. [Nonequilibrium Thermodynamics in Biochemical Systems and Its Application](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7996154/)
 Dongliang Zhang, Qi Ouyang
 
+III. [Fundamentals Of Nonequilibrium Thermodynamics](https://courses.physics.ucsd.edu/2020/Fall/physics210b/Non-Eqbrm%20Thermo_Demirel%20and%20Gerbaud.pdf)
+UCSD 
+
 Path Integrals
 --------------
 
