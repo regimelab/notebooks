@@ -611,6 +611,9 @@ Edward Norton Lorenz
 VI. [Designing Chaotic Models](https://journals.ametsoc.org/view/journals/atsc/62/5/jas3430.1.xml?tab_body=pdf)
 Edward Norton Lorenz 
 
+VII. [Modern Koopman Theory for Dynamical Systems](https://arxiv.org/abs/2102.12086)
+Steven L. Brunton, Marko Budišić, Eurika Kaiser, J. Nathan Kutz
+
 Non-equilibrium Thermodynamics
 ------------------------------
 
