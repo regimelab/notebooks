@@ -480,6 +480,9 @@ Xindi He, Yucheng Liang
 XXII. [A Geometric Approach to Asset Allocation with Investor Views](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4840636)
 Alexandre Antonov, Koushik Balasubramanian, Alex Lipton, Marcos Lopez de Prado
 
+XXIII. [Fully Flexible Views: Theory and Practice](https://www.mathworks.com/matlabcentral/fileexchange/21307-fully-flexible-views-and-stress-testing)
+A. Meucci
+
 Ergodicity & Diffusion
 ----------------------
 
