@@ -310,6 +310,9 @@ Yannick Limmer, Anastasis Kratsios, Xuwei Yang, Raeid Saqur, Blanka Horvath
 XXXIX. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin Soljačić, Thomas Y. Hou, Max Tegmark
 
+XL. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
+Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
