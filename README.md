@@ -313,6 +313,9 @@ Ziming Liu, Yixuan Wang, Sachin Vaidya, Fabian Ruehle, James Halverson, Marin So
 XL. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
 Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
 
+XLI. [Explaining the Machine Learning Solution of the Ising Model](https://arxiv.org/abs/2402.11701)
+Roberto C. Alamino
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
