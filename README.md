@@ -686,6 +686,9 @@ Sandra Wachter, Brent Mittelstadt, Chris Russell
 VII. [The Simple Macroeconomics of AI](https://www.nber.org/papers/w32487)
 Daron Acemoglu
 
+VIII. [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/pdf/2409.12917)
+Google DeepMind
+
 Degrowth
 --------
 
