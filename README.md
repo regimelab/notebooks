@@ -489,6 +489,9 @@ Alexandre Antonov, Koushik Balasubramanian, Alex Lipton, Marcos Lopez de Prado
 XXIII. [Fully Flexible Views: Theory and Practice](https://www.mathworks.com/matlabcentral/fileexchange/21307-fully-flexible-views-and-stress-testing)
 A. Meucci
 
+XXIV. [PCA for Implied Volatility Surfaces](https://math.stanford.edu/~papanico/pubftp/jfds.2020.1.032.full.pdf)
+Marco Avellaneda, Brian Healy, Andrew Papanicolaou, George Papanicolaou
+
 Ergodicity & Diffusion
 ----------------------
 
