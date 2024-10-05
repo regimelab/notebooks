@@ -417,6 +417,9 @@ Joshua D. Angrist, Guido M. Kuersteiner
 XII. [Expectations, lags, and the transmission of monetary policy](https://www.bankofengland.co.uk/-/media/boe/files/speech/2023/february/expectations-lags-and-the-transmission-of-monetary-policy-speech-by-catherine-l-mann.pdf?la=en&hash=E2FA96CE6649CFDE921D586594258D198C55E932)
 Catherine L. Mann
 
+XIII. [Seigniorage payments and the Federal Reserve’s new operating regime](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003548)
+Bryan P. Cutsinger,  William J. Luther c
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
