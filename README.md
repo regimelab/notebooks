@@ -316,6 +316,9 @@ Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
 XLI. [Explaining the Machine Learning Solution of the Ising Model](https://arxiv.org/abs/2402.11701)
 Roberto C. Alamino
 
+XLII. [Intelligence at the Edge of Chaos](https://www.arxiv.org/pdf/2410.02536)
+Shiyang Zhang, Aakash Patel, Syed A Rizvi, Nianchen Liu, Sizhuang He, Amin Karbasi, Emanuele Zappala, David van Dijk
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
