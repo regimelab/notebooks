@@ -421,7 +421,7 @@ XII. [Expectations, lags, and the transmission of monetary policy](https://www.b
 Catherine L. Mann
 
 XIII. [Seigniorage payments and the Federal Reserve’s new operating regime](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003548)
-Bryan P. Cutsinger,  William J. Luther c
+Bryan P. Cutsinger,  William J. Luther 
 
 Mathematical Finance, Econometrics
 ----------------------------------
@@ -698,8 +698,8 @@ Daron Acemoglu
 VIII. [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/pdf/2409.12917)
 Google DeepMind
 
-Degrowth
---------
+Degrowth, Politics, Institutions
+--------------------------------
 
 I. [Growth, degrowth, and the challenge of artificial superintelligence](https://arxiv.org/abs/1905.04288)
 Salvador Pueyo
@@ -709,3 +709,6 @@ Salvador Pueyo
 
 III. [Do Mature Economies Grow Exponentially?](https://arxiv.org/pdf/1601.04028)
 Georg August University Gottingen, Hamburg University
+
+IV. [The Crisis Of Global Capitalism](https://www.georgesoros.com/wp-content/uploads/2017/10/the_crisis_of_global_capitalism-chap-1-2017_10_05.pdf)
+George Soros
