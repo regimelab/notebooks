@@ -194,6 +194,9 @@ Irene Cordero, Ainara Leizeaga, Lettice C. Hicks, Johannes Rousk, Richard D. Bar
 LIV. [Stockholm Resilience Center: Research](https://www.stockholmresilience.org/research.html)
 Stockholm Resilience Center
 
+LV. [Open Letter by Climate Scientists to the Nordic Council of Ministers](https://en.vedur.is/media/ads_in_header/AMOC-letter_Final.pdf)
+Reykjavik 
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
