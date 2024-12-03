@@ -31,7 +31,6 @@ The first section emphasizes models influenced by statistical physics in relatio
 Have not read all of these papers but want to keep them for follow-up.
 
 Climate, Ecosystem Regimes & Critical Slowing Down 
------------------------------v---------------------
 
 I. [The Theory of Parallel Climate Realizations](https://link.springer.com/article/10.1007/s10955-019-02445-7)
 Journal of Statistical Physics
