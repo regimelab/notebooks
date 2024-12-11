@@ -566,6 +566,9 @@ Chainarong Amornbunchornvej, Elena Zheleva, Tanya Y. Berger-Wolf
 VIII. [Variational Causal Inference](https://arxiv.org/abs/2209.05935)
 Yulun Wu, Layne C. Price, Zichen Wang, Vassilis N. Ioannidis, Robert A. Barton, George Karypis
 
+IX. [Regime Identification for Improving Causal Analysis in Non-stationary Timeseries](https://arxiv.org/pdf/2405.02315)
+Friedrich Schiller University Jena, Germany
+
 Sleep, Brain, Health
 --------------------
 
