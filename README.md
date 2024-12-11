@@ -563,6 +563,9 @@ Giulio Biroli, Jean-Philippe Bouchaud, Marc Potters
 VII. [Variable-lag Granger Causality for Time Series Analysis](https://arxiv.org/pdf/1912.10829.pdf)
 Chainarong Amornbunchornvej, Elena Zheleva, Tanya Y. Berger-Wolf
 
+VIII. [Variational Causal Inference](https://arxiv.org/abs/2209.05935)
+Yulun Wu, Layne C. Price, Zichen Wang, Vassilis N. Ioannidis, Robert A. Barton, George Karypis
+
 Sleep, Brain, Health
 --------------------
 
