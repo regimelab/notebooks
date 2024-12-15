@@ -724,3 +724,9 @@ Georg August University Gottingen, Hamburg University
 
 IV. [The Crisis Of Global Capitalism](https://www.georgesoros.com/wp-content/uploads/2017/10/the_crisis_of_global_capitalism-chap-1-2017_10_05.pdf)
 George Soros
+
+Quantum Computing
+-----------------
+
+I. [Fully Quantum Hash Function](https://arxiv.org/abs/2408.03672)
+Shreya Banerjee, Harshita Meena, Somanath Tripathy, Prasanta K. Panigrahi
