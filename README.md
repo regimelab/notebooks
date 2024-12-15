@@ -426,6 +426,9 @@ Catherine L. Mann
 XIII. [Seigniorage payments and the Federal Reserve’s new operating regime](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003548)
 Bryan P. Cutsinger,  William J. Luther 
 
+XIV. [The climate-sovereign debt doom loop: what does the literature suggest?](https://www.sciencedirect.com/science/article/pii/S1877343524000010)
+Stavros A Zenios 
+
 Mathematical Finance, Econometrics
 ----------------------------------
 
