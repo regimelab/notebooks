@@ -322,6 +322,9 @@ Roberto C. Alamino
 XLII. [Intelligence at the Edge of Chaos](https://www.arxiv.org/pdf/2410.02536)
 Shiyang Zhang, Aakash Patel, Syed A Rizvi, Nianchen Liu, Sizhuang He, Amin Karbasi, Emanuele Zappala, David van Dijk
 
+XLIII. [Of woodlice and men: A Bayesian account of cognition, life and consciousness](https://www.aliusresearch.org/uploads/9/1/6/0/91600416/friston_-_of_woodlice_and_men.pdf)
+Karl Friston, Martin Fortier, Daniel A. Friedman
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
