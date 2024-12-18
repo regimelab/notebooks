@@ -742,3 +742,8 @@ Ron Cottam, Roger Vounckx
 
 III. [Quantum Advantage in Variational Bayes Inference](https://arxiv.org/abs/2207.03104)
 Hideyuki Miyahara, Vwani Roychowdhury
+
+IV. [A Faster Algorithm for the Free Energy in One-Dimensional Quantum Systems](https://arxiv.org/abs/2402.19030)
+Samuel O. Scalet
+
+
