@@ -736,3 +736,6 @@ Quantum Computing
 
 I. [Fully Quantum Hash Function](https://arxiv.org/abs/2408.03672)
 Shreya Banerjee, Harshita Meena, Somanath Tripathy, Prasanta K. Panigrahi
+
+II. [Computation in biological systems as a quantum mechanical simulation](https://www.sciencedirect.com/science/article/abs/pii/S0303264722000272)
+Ron Cottam, Roger Vounckx
