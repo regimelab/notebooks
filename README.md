@@ -739,3 +739,6 @@ Shreya Banerjee, Harshita Meena, Somanath Tripathy, Prasanta K. Panigrahi
 
 II. [Computation in biological systems as a quantum mechanical simulation](https://www.sciencedirect.com/science/article/abs/pii/S0303264722000272)
 Ron Cottam, Roger Vounckx
+
+III. [Quantum Advantage in Variational Bayes Inference](https://arxiv.org/abs/2207.03104)
+Hideyuki Miyahara, Vwani Roychowdhury
