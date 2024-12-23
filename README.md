@@ -575,6 +575,9 @@ Yulun Wu, Layne C. Price, Zichen Wang, Vassilis N. Ioannidis, Robert A. Barton, 
 IX. [Regime Identification for Improving Causal Analysis in Non-stationary Timeseries](https://arxiv.org/pdf/2405.02315)
 Friedrich Schiller University Jena, Germany
 
+X. [Granger Causality Detection with Kolmogorov-Arnold Networks](https://arxiv.org/abs/2412.15373v1)
+Hongyu Lin, Mohan Ren, Paolo Barucca, Tomaso Aste
+
 Sleep, Brain, Health
 --------------------
 
