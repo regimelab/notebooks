@@ -387,6 +387,9 @@ Gokilavani Chinnasamy, Vanitha S
 XIX. [A Multifractal Model of Asset Returns](https://users.math.yale.edu/~bbm3/web_pdfs/Cowles1164.pdf)
 Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
 
+XX. [The characteristic function of rough Heston models](https://arxiv.org/abs/1609.02108)
+Omar El Euch, Mathieu Rosenbaum
+
 Inflation Cycles, Monetary & Fiscal Policy
 ------------------------------------------
 
