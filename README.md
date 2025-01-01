@@ -197,6 +197,18 @@ Stockholm Resilience Center
 LV. [Open Letter by Climate Scientists to the Nordic Council of Ministers](https://en.vedur.is/media/ads_in_header/AMOC-letter_Final.pdf)
 Reykjavik 
 
+Food Systems & Agriculture
+--------------------------
+
+I. [Energetic closure of the spatially resolved global food system](https://arxiv.org/abs/2412.10421)
+Maxwell Kaye, Graham K. MacDonald, Eric Galbraith
+
+II. [A Novel Framework for Analyzing Structural Transformation in Data-Constrained Economies Using Bayesian Modeling and Machine Learning](https://arxiv.org/html/2409.16738v1)
+Ronald Katende
+
+III. [Global Crop-Specific Fertilization Dataset from 1961–2019](https://arxiv.org/html/2406.10001v2)
+Fernando Coello, Thomas Decorte, Iris Janssens, Steven Mortier, Jordi Sardans, Josep Peñuelas, Tim Verdonck
+
 Miscellaneous (ML, Bayesian stats, Physics, Generative Modeling)
 ----------------------------------------------------------------
 
