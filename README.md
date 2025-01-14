@@ -197,6 +197,9 @@ Stockholm Resilience Center
 LV. [Open Letter by Climate Scientists to the Nordic Council of Ministers](https://en.vedur.is/media/ads_in_header/AMOC-letter_Final.pdf)
 Reykjavik 
 
+LVI. [Hydroclimate volatility on a warming Earth](https://www.nature.com/articles/s43017-024-00624-z)
+Daniel L. Swain, Andreas F. Prein, John T. Abatzoglou, Christine M. Albano, Manuela Brunner, Noah S. Diffenbaugh, Deepti Singh, Christopher B. Skinner, Danielle Touma 
+
 Food Systems & Agriculture
 --------------------------
 
