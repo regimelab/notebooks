@@ -405,7 +405,7 @@ Benoit Mandelbrot, Adlai Fisher, Laurent Calvet
 XX. [The characteristic function of rough Heston models](https://arxiv.org/abs/1609.02108)
 Omar El Euch, Mathieu Rosenbaum
 
-XXI. [Fractal Patterns May Illuminate the Success of Next-Token Prediction](https://openreview.net/forum?id=clAFYReaYE&referrer=%5Bthe%20profile%20of%20Mostafa%20Dehghani%5D(%2Fprofile%3Fid%3D~Mostafa_Dehghani1)
+XXI. [Fractal Patterns May Illuminate the Success of Next-Token Prediction](https://openreview.net/forumid=clAFYReaYE&referrer=%5Bthe%20profile%20of%20Mostafa%20Dehghani%5D(%2Fprofile%3Fid%3D~Mostafa_Dehghani1)
 Ibrahim Alabdulmohsin, Vinh Q. Tran, Mostafa Dehghani
 
 Inflation Cycles, Monetary & Fiscal Policy
