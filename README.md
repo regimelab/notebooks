@@ -740,7 +740,7 @@ Daron Acemoglu
 VIII. [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/pdf/2409.12917)
 Google DeepMind
 
-IX. [https://www.nature.com/articles/s41562-024-02077-2](https://www.nature.com/articles/s41562-024-02077-2)
+IX. [How human–AI feedback loops alter human perceptual, emotional and social judgements](https://www.nature.com/articles/s41562-024-02077-2)
 Moshe Glickman, Tali Sharot 
 
 Degrowth, Politics, Institutions
