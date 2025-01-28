@@ -200,6 +200,12 @@ Reykjavik
 LVI. [Hydroclimate volatility on a warming Earth](https://www.nature.com/articles/s43017-024-00624-z)
 Daniel L. Swain, Andreas F. Prein, John T. Abatzoglou, Christine M. Albano, Manuela Brunner, Noah S. Diffenbaugh, Deepti Singh, Christopher B. Skinner, Danielle Touma 
 
+Bird Flu
+--------
+
+I. [Will bird flu spark a human pandemic? Scientists say the risk is rising](https://www.nature.com/articles/d41586-025-00245-6)
+Nature 
+
 Food Systems & Agriculture
 --------------------------
 
