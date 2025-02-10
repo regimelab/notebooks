@@ -680,6 +680,9 @@ Edward Norton Lorenz
 VII. [Modern Koopman Theory for Dynamical Systems](https://arxiv.org/abs/2102.12086)
 Steven L. Brunton, Marko Budišić, Eurika Kaiser, J. Nathan Kutz
 
+VIII. [Time–information uncertainty relations in thermodynamics](https://www.nature.com/articles/s41567-020-0981-y)
+Schuyler B. Nicholson, Luis Pedro García-Pintos, Adolfo del Campo, Jason R. Green 
+
 Non-equilibrium Thermodynamics
 ------------------------------
 
