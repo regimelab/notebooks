@@ -3,7 +3,7 @@ Econometrics | Political Economy | Philosophy | Business Cycles | Dynamical Syst
 </b></p>
 
 <p align="center">
-<img src="https://github.com/regimelab/notebooks/assets/114866071/ebf35cbe-e937-426f-8580-b7ef375c6f73" width="320" height="320">
+<img src="https://github.com/user-attachments/assets/4590119d-06bb-493a-9960-f105043572a8" width="320" height="320">
 </p>
 
 This is a series of Python notebooks exploring concepts with a long history in the applied math and statistics literature about Gaussian and non-Gaussian processes, stationarity versus non-stationarity, and stochastic regime-switching models. 
