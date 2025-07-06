@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 
 # Parameters
 num_steps = 2000
-np.random.seed(42)
 
 # Random walk increments (small random steps + drift)
 dx = 0.02 * np.random.randn(num_steps) + 0.001  # small drift in x
