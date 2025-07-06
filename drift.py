@@ -15,7 +15,6 @@ y = np.cumsum(dy)
 
 plt.figure(figsize=(8, 8))
 plt.plot(x, y, color='darkred', linewidth=2)
-plt.title("Far-from-Equilibrium: Free-Form, Endless Motion", fontsize=14)
 plt.axis('off')
 plt.tight_layout()
 plt.show()
