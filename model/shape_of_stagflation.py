@@ -1,13 +1,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from polygon import RESTClient
-from scipy.optimize import minimize
-from scipy.linalg import cholesky, cho_solve, kron, LinAlgError
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 unused import
 
 API_KEY = "RUDQOgnPw23lKPF5P5y5E_SWufph9tpu"
-TICKERS = ["GLD", "TLT"]
+TICKERS = ["GLD", "USO", "TLT", "SPY"]
 
-def fetch_hourly_closes(ticker, lookback_days=25):
+def fetch_hourly_returns(ticker, lookback_days=5):
     client = RESTClient(API_KEY)
     from_date = str((np.datetime64('today') - np.timedelta64(lookback_days, 'D')))
     bars = client.list_aggs(
@@ -20,95 +21,71 @@ def fetch_hourly_closes(ticker, lookback_days=25):
     )
     closes = [bar.close for bar in bars]
     closes = np.array(closes)
-    return np.diff(np.log(closes))  # log returns
+    returns = np.diff(np.log(closes))  # log returns
+    return returns
 
-# Fetch and prepare data
-all_closes = []
+# Fetch returns for all tickers
+all_returns = []
 for tkr in TICKERS:
-    closes = fetch_hourly_closes(tkr)
-    all_closes.append(closes)
+    ret = fetch_hourly_returns(tkr)
+    all_returns.append(ret)
 
-min_len = min(len(c) for c in all_closes)
-all_closes = [c[-min_len:] for c in all_closes]
-Y = np.array(all_closes)  # shape: (n_assets, n_samples)
+# Align return lengths by truncation to minimum length
+min_len = min(len(r) for r in all_returns)
+all_returns = [r[-min_len:] for r in all_returns]
 
-n_assets, n_samples = Y.shape
+# Create returns matrix: shape (time, assets)
+returns_matrix = np.array(all_returns).T
 
-# Prepare time inputs as 2D array as required by kernel functions
-X_time = np.arange(n_samples).reshape(-1, 1)  # shape (n_samples, 1)
+# Standardize returns before PCA
+scaler = StandardScaler()
+returns_scaled = scaler.fit_transform(returns_matrix)
 
-def matern_cov(X1, X2, length_scale, nu=0.5):
-    # Matern 1/2 kernel (Exponential kernel) manual implementation for optimization
-    dists = np.abs(X1 - X2.T)
-    return np.exp(-dists / length_scale)
+# Fit PCA - keep all components
+pca = PCA(n_components=len(TICKERS))
+pca.fit(returns_scaled)
+components = pca.components_  # shape (n_components, n_features)
+explained_var = pca.explained_variance_ratio_
 
-def build_output_cov(params):
-    # Parameterize the 2x2 output covariance matrix to be positive semidefinite
-    # params = [a, b, c], where diagonal entries are exp to ensure >0
-    a, b, c = params
-    M = np.array([[np.exp(a), b],
-                  [b, np.exp(c)]])
-    # We add small jitter later to handle PSD issues if any
-    return M
+# Visualize top 3 eigenvectors in 3D (first 3 PCA components)
+fig = plt.figure(figsize=(10, 8))
+ax = fig.add_subplot(111, projection='3d')
 
-def neg_log_marginal_likelihood(theta):
-    length_scale = np.exp(theta[0])  # positive length scale
-    output_cov_params = theta[1:]
-    
-    K_time = matern_cov(X_time, X_time, length_scale)
-    K_output = build_output_cov(output_cov_params)
-    
-    try:
-        # Kronecker product covariance matrix
-        K = kron(K_output, K_time)
-        y_vec = Y.flatten('F')  # flatten in column-major order to match Kronecker layout
-        
-        # Cholesky decomposition with jitter for numerical stability
-        L = cholesky(K + 1e-8 * np.eye(n_assets * n_samples), lower=True)
-        alpha = cho_solve((L, True), y_vec)
-        
-        # Compute negative log marginal likelihood
-        nll = 0.5 * y_vec.dot(alpha)
-        nll += np.sum(np.log(np.diag(L)))
-        nll += 0.5 * n_assets * n_samples * np.log(2 * np.pi)
-        return nll
-    except LinAlgError:
-        # Return large value if covariance not positive definite
-        return 1e10
+x = components[0]
+y = components[1] if len(components) > 1 else np.zeros_like(x)
+z = components[2] if len(components) > 2 else np.zeros_like(x)
 
-# Initial hyperparameter guess: log length scale and output covariance params
-init_theta = np.array([np.log(1.0), np.log(1.0), 0.0, np.log(1.0)])
 
-bounds = [(np.log(1e-2), np.log(1e2)), (None, None), (None, None), (None, None)]
+for i in range(len(TICKERS)):
+    ax.scatter(x[i], y[i], z[i], label=TICKERS[i])
 
-# Optimize hyperparameters to fit the GP to data
-result = minimize(neg_log_marginal_likelihood, init_theta, bounds=bounds, method='L-BFGS-B')
+ax.set_xlabel("PC1")
+ax.set_ylabel("PC2")
+ax.set_zlabel("PC3")
+ax.set_title("Top 3 PCA Eigenvector Coefficients by Asset")
+ax.legend()
+plt.show()
 
-opt_theta = result.x
-opt_length_scale = np.exp(opt_theta[0])
-opt_output_cov = build_output_cov(opt_theta[1:])
+# Normalize PCA components for long-only portfolios
+components_nonnegative = np.where(components > 0, components, 0)
+components_normalized = components_nonnegative / components_nonnegative.sum(axis=1, keepdims=True)
+print(components_normalized)
 
-print(f"Optimized time length scale: {opt_length_scale}")
-print("Optimized output covariance matrix:")
-print(opt_output_cov)
+# Calculate portfolio returns by weighting original returns
+portfolio_returns = returns_matrix @ components_normalized.T
 
-# Build covariance matrix with optimized hyperparameters for sampling
-K_time_opt = matern_cov(X_time, X_time, opt_length_scale)
-K_opt = kron(opt_output_cov, K_time_opt)
-K_opt += 1e-8 * np.eye(n_assets * n_samples)  # jitter
+# Calculate cumulative return and exponential growth for portfolios
+cum_returns = np.cumsum(portfolio_returns, axis=0)
+portfolio_growth = np.exp(cum_returns) - 1
 
-# Sample from multivariate normal with optimized covariance
-simulated = np.random.multivariate_normal(mean=np.zeros(n_assets * n_samples), cov=K_opt)
+# Plot portfolio performance for top 3 eigenportfolios
+plt.figure(figsize=(12, 6))
+for i in range(min(3, len(TICKERS))):
+    plt.plot(portfolio_growth[:, i], label=f"Eigenportfolio {i+1} (Explained Var: {explained_var[i]:.2f})")
 
-# Reshape sampled vector to 2D (n_assets x n_samples)
-simulated_paths = simulated.reshape(n_assets, n_samples)
-
-# Plot the simulation results
-plt.plot(np.cumsum(simulated_paths[0]), label=TICKERS[0])
-plt.plot(np.cumsum(simulated_paths[1]), label=TICKERS[1])
-plt.title("Simulated Paths from Hyperparameter-Tuned Kronecker GP")
-plt.xlabel("Sample Index")
-plt.ylabel("Simulated Value")
+plt.title("Cumulative Returns of Positive-normalized Eigenportfolio-weighted Portfolios")
+plt.xlabel("Time (Hourly)")
+plt.ylabel("Cumulative Return")
 plt.legend()
 plt.show()
 
