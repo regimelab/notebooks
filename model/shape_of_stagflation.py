@@ -4,10 +4,10 @@ from polygon import RESTClient
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
-API_KEY = ""
+API_KEY = "8BTpXU_XSAuvUkuduXTb2ofMl1l_L_yf"
 TICKERS = ["GLD", "USO", "TLT", "SPY"]
 
-def fetch_hourly_returns(ticker, lookback_days=5):
+def fetch_hourly_returns(ticker, lookback_days=18):
     client = RESTClient(API_KEY)
     from_date = str((np.datetime64('today') - np.timedelta64(lookback_days, 'D')))
     bars = client.list_aggs(
@@ -35,10 +35,10 @@ all_returns = [r[-min_len:] for r in all_returns]
 returns_matrix = np.array(all_returns).T
 
 # Standardize returns and fit PCA
-scaler = StandardScaler()
-returns_scaled = scaler.fit_transform(returns_matrix)
+#scaler = StandardScaler()
+#returns_scaled = scaler.fit_transform(returns_matrix)
 pca = PCA(n_components=len(TICKERS))
-pca.fit(returns_scaled)
+pca.fit(returns_matrix)
 components = pca.components_
 explained_var = pca.explained_variance_ratio_
 
@@ -89,4 +89,3 @@ plt.xlabel("Time (Hourly)")
 plt.ylabel("Cumulative Return")
 plt.legend()
 plt.show()
-
