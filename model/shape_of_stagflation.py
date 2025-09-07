@@ -4,7 +4,7 @@ from polygon import RESTClient
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 
-API_KEY = "8BTpXU_XSAuvUkuduXTb2ofMl1l_L_yf"
+API_KEY = ""
 TICKERS = ["GLD", "USO", "TLT", "SPY"]
 
 def fetch_hourly_returns(ticker, lookback_days=18):
