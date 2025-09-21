@@ -30,6 +30,12 @@ The first section emphasizes models influenced by statistical physics in relatio
 
 Have not read all of these papers but want to keep them for follow-up.
 
+Consciousness & Active Inference
+--------------------------------
+
+I. [A beautiful loop: An active inference theory of consciousness](https://www.researchgate.net/publication/389740878_A_beautiful_loop_An_active_inference_theory_of_consciousness)
+Laukkonen, Friston, Chandaria
+
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
 
