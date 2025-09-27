@@ -1,12 +1,44 @@
 import numpy as np
+import pandas as pd 
 import matplotlib.pyplot as plt
 from polygon import RESTClient
 from sklearn.decomposition import PCA
+from scipy.stats import zscore
+import seaborn as sns
+import os
+import joblib
+from sklearn.mixture import BayesianGaussianMixture
+
+API_KEY = ""
+TICKERS = ["SPY", "USO", "GLD", "TLT"]
 
 
-API_KEY = ""  
-TICKERS = ["GLD", "USO", "TLT", "SPY"]
+get_partition = lambda vec, N: np.argpartition(vec, -N)[-N:]
 
+reduce_topK = lambda vec, part: [ 1/len(part) if M in part else 0. for M in range(len(vec)) ]
+
+reduce_eigen = lambda vec: [ 1. if np.argmax(vec) == M else 0. for M in range(len(vec)) ]
+
+def eigenports(rets, num_components=3):
+  '''
+  reduce dimensionality via PCA
+  generate orthonormal investment Universes (principal Eigenportfolios)
+  
+  rets - returns matrix
+  num_components - how many PCA vectors to discover
+  '''
+  eigenvecs = []    
+  cols = rets.columns.unique()  
+  feat_num = len(cols)
+
+  pca = PCA(n_components=num_components)  
+  components = pca.fit_transform(rets[cols].cov())
+
+  for M in range(num_components):
+    eigenvec = pd.Series(index=range(feat_num), data=pca.components_[M])
+    eigenvecs.append(eigenvec)
+
+  return eigenvecs, pca, components
 
 def fetch_hourly_returns(ticker, lookback_days=18):
     client = RESTClient(API_KEY)
@@ -19,57 +51,47 @@ def fetch_hourly_returns(ticker, lookback_days=18):
         to=str(np.datetime64('today')),
         limit=9999
     )
-    closes = [bar.close for bar in bars]
-    closes = np.array(closes)
-    returns = np.diff(np.log(closes))  # log returns
+    closes = np.array([bar.close for bar in bars])
+    returns = np.sort(np.diff(np.log(closes)))
     return returns
 
-
-# Fetch returns
-all_returns = []
-for tkr in TICKERS:
-    ret = fetch_hourly_returns(tkr)
-    all_returns.append(ret)
-
-
+# Fetch returns for all tickers and align lengths
+all_returns = [fetch_hourly_returns(tkr) for tkr in TICKERS]
 min_len = min(len(r) for r in all_returns)
 all_returns = [r[-min_len:] for r in all_returns]
 
+# Plot raw returns for inspection
+for i, ret in enumerate(all_returns):
+    sns.lineplot(data=ret, label=f'Returns {TICKERS[i]}')
+plt.legend()
+plt.show()
 
-returns_matrix = np.array(all_returns).T
+# Get eigenportfolios
+returns_matrix = pd.DataFrame(all_returns).transpose()
+eigenvectors, pca, components = eigenports(returns_matrix)
 
-
-# Fit PCA
-pca = PCA(n_components=len(TICKERS))
-pca.fit(returns_matrix)
-components = pca.components_
-explained_var = pca.explained_variance_ratio_
-
-
-# Long-only normalization of PCA weights
-components_nonnegative = np.where(components > 0, components, 0)
-components_normalized = components_nonnegative / components_nonnegative.sum(axis=1, keepdims=True)
-
+# Normalize eigenportfolios to long only portfolios:
+# Take absolute values and normalize to sum to one per eigenvector 
+eigenvectors_long_only = np.abs(eigenvectors)
+eigenvectors_long_only /= eigenvectors_long_only.sum(axis=1, keepdims=True)
 
 np.set_printoptions(precision=3, suppress=True)
-print("Top 3 Eigenportfolio Weights (Long-Only, normalized):")
+print("Top 3 Eigenportfolio Weights (Long-Only Normalized):")
 for i in range(min(3, len(TICKERS))):
-    print(f"Eigenportfolio {i+1}: {components_normalized[i]}")
+    print(f"Eigenportfolio {i+1}: {eigenvectors_long_only[i]}")
 
-
-# 3D Arrow visualization of top 3 eigenportfolios
+# 3D arrow visualization of top 3 eigenportfolios
 fig = plt.figure(figsize=(10, 8))
 ax = fig.add_subplot(111, projection='3d')
-
+colors = ['r', 'g', 'b']
 for i in range(min(3, len(components))):
     vec = components[i]
     ax.quiver(0, 0, 0,
               vec[0],
               vec[1] if len(vec) > 1 else 0,
               vec[2] if len(vec) > 2 else 0,
-              color=['r', 'g', 'b'][i],
+              color=colors[i % len(colors)],
               length=1, normalize=True, label=f"Eigenportfolio {i+1}")
-
 ax.set_xlim([-1, 1])
 ax.set_ylim([-1, 1])
 ax.set_zlim([-1, 1])
@@ -80,61 +102,18 @@ ax.set_title("Top 3 PCA Eigenportfolios as Arrows in Asset Space")
 ax.legend()
 plt.show()
 
-
-# Portfolio returns and plotting
-portfolio_returns = returns_matrix @ components_normalized.T
-cum_returns = np.cumsum(portfolio_returns, axis=0)
-portfolio_growth = np.exp(cum_returns) - 1
-
+# Portfolio returns and plotting cumulative returns
+returns_array = returns_matrix.values if hasattr(returns_matrix, "values") else returns_matrix
+portfolio_growth = returns_array @ eigenvectors_long_only.T
 plt.figure(figsize=(12, 6))
-colors = ['r', 'g', 'b']
-for i in range(min(3, len(TICKERS))):
-    plt.plot(portfolio_growth[:, i], color=colors[i],
-             label=f"Eigenportfolio {i+1} (Explained Var: {explained_var[i]:.2f})")
+for i in range(min(3, portfolio_growth.shape[1])):
+    cum_returns = np.cumsum(portfolio_growth[:, i])
+    plt.plot(cum_returns, colors[i % len(colors)],
+             label=f"Eigenportfolio {i+1}")
 
-plt.title("Cumulative Returns of Positive-normalized Eigenportfolio-weighted Portfolios")
-plt.xlabel("Time (Hourly)")
+plt.title("Cumulative Returns of Long-Only Normalized Eigenportfolio-weighted Portfolios")
+plt.xlabel("Time (Hourly steps)")
 plt.ylabel("Cumulative Return")
 plt.legend()
+plt.grid(True)
 plt.show()
-
-
-# Bar plot with multi-level x-axis labels (Eigenportfolio + Assets)
-num_portfolios = min(3, len(TICKERS))
-num_assets = len(TICKERS)
-bar_width = 0.15
-
-plt.figure(figsize=(12, 6))
-
-# X position for each group (eigenportfolio)
-group_positions = np.arange(num_portfolios)
-
-# Plot bars: for each portfolio, plot bars for each asset
-for asset_idx in range(num_assets):
-    weights = components_normalized[:num_portfolios, asset_idx]
-    # Position bars inside group for this asset
-    x = group_positions + asset_idx * bar_width
-    plt.bar(x, weights, width=bar_width, color="#1f77b4")
-
-# X-axis: place tick labels centered under each eigenportfolio group
-center_positions = group_positions + bar_width * (num_assets - 1) / 2
-plt.xticks(center_positions, [f"Eigenportfolio {i+1}" for i in range(num_portfolios)], fontsize=12)
-
-# Add secondary x-axis labels for assets below the eigenportfolio labels
-ax = plt.gca()
-# Coordinates to place asset labels
-for i, gp in enumerate(group_positions):
-    for j, ticker in enumerate(TICKERS):
-        # x position of each bar
-        xpos = gp + j * bar_width
-        # tiny vertical "tick" line
-        ax.plot([xpos, xpos], [-0.02, -0.005], color='black', clip_on=False, transform=ax.get_xaxis_transform())
-        # asset label below tick line with smaller font
-        ax.text(xpos, -0.05, ticker, ha='center', va='top', fontsize=8, transform=ax.get_xaxis_transform())
-
-plt.title("Weights of Top 3 Eigenportfolios (Long-Only Normalized)")
-plt.ylabel("Weight")
-plt.ylim(0, components_normalized.max() * 1.1)
-plt.tight_layout()
-plt.show()
-
