@@ -13,12 +13,6 @@ API_KEY = ""
 TICKERS = ["SPY", "USO", "GLD", "TLT"]
 
 
-get_partition = lambda vec, N: np.argpartition(vec, -N)[-N:]
-
-reduce_topK = lambda vec, part: [ 1/len(part) if M in part else 0. for M in range(len(vec)) ]
-
-reduce_eigen = lambda vec: [ 1. if np.argmax(vec) == M else 0. for M in range(len(vec)) ]
-
 def eigenports(rets, num_components=3):
   '''
   reduce dimensionality via PCA
