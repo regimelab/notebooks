@@ -355,6 +355,9 @@ Shiyang Zhang, Aakash Patel, Syed A Rizvi, Nianchen Liu, Sizhuang He, Amin Karba
 XLIII. [Of woodlice and men: A Bayesian account of cognition, life and consciousness](https://www.aliusresearch.org/uploads/9/1/6/0/91600416/friston_-_of_woodlice_and_men.pdf)
 Karl Friston, Martin Fortier, Daniel A. Friedman
 
+XLIV. [Matérn Gaussian processes on Riemannian manifolds](https://arxiv.org/abs/2006.10160)
+Viacheslav Borovitskiy, Alexander Terenin, Peter Mostowsky, Marc Peter Deisenroth
+
 fBm & Hurst Effect/Long Memory
 ------------------------------
 
