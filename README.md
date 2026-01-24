@@ -30,15 +30,6 @@ The first section emphasizes models influenced by statistical physics in relatio
 
 Have not read all of these papers but want to keep them for follow-up.
 
-Consciousness & Active Inference
---------------------------------
-
-I. [A beautiful loop: An active inference theory of consciousness](https://www.researchgate.net/publication/389740878_A_beautiful_loop_An_active_inference_theory_of_consciousness)
-Laukkonen, Friston, Chandaria
-
-II. [On the Variational Costs of Changing Our Minds](https://arxiv.org/html/2509.17957v1)
-David Hyland, Mahault Albarracin
-
 Climate, Ecosystem Regimes & Critical Slowing Down 
 --------------------------------------------------
 
@@ -795,3 +786,11 @@ IV. [A Faster Algorithm for the Free Energy in One-Dimensional Quantum Systems](
 Samuel O. Scalet
 
 
+Consciousness & Active Inference
+--------------------------------
+
+I. [A beautiful loop: An active inference theory of consciousness](https://www.researchgate.net/publication/389740878_A_beautiful_loop_An_active_inference_theory_of_consciousness)
+Laukkonen, Friston, Chandaria
+
+II. [On the Variational Costs of Changing Our Minds](https://arxiv.org/html/2509.17957v1)
+David Hyland, Mahault Albarracin
